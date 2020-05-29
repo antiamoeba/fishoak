@@ -78,7 +78,7 @@ body {
 }
 .content {
     margin: 50px auto;
-    width: 80%;
+    width: 50%;
     min-width: 320px;
 }
 .content img {
@@ -94,33 +94,6 @@ body {
     width: 50%;
     text-align: center;
 }
-.tn {
-    position: relative;
-    margin: 0px;
-    padding: 0px;
-    width: 33%;
-    display: inline-block;
-}
-.tn a {
-    display:block;
-}
-.tn img {
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-    -webkit-filter: grayscale; 
-    -webkit-filter: brightness(80%); 
-}
-.tn h2 {
-    color: white;
-    font-family: 'Roboto Condensed', sans-serif;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -100%);
-    text-align: center;
-    width: 100%;
-}
 .tail {
     text-align: center;
     font-size: 12px;
@@ -128,4 +101,10 @@ body {
 }
 .big {
     font-size: 24px;
+}
+code {
+    display: inline-block;
+    white-space : pre-wrap !important;
+    background-color: #f8f8f8;
+    padding: 30px;
 }

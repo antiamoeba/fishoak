@@ -22,3 +22,16 @@ I've also seen some pretty big bluegill here, but they are finicky. Worms should
 Arastradero Preserve is a very nice place. I love hiking and biking around here, along the park's numerous trails. The parking lot can fill up very quickly.
 
 Official website: [City of Palo Alto](http://www.cityofpaloalto.org/gov/depts/csd/parks/preserves/arastradero/)
+
+From the old ichthy.com:
+```
+Pros: lots of cover, light pressure, good catfishing
+
+Cons: almost no shoreline access, no watercraft
+
+Description: A very small pond on the side of a popular mountain biking and running trail in Palo Alto. You have to park on Arastradero Road and walk a quarter mile or so on the trail to the lake. It is circled with tules. So many tules that there are only a few places to fish from the bank. And for some reason that escapes me, you are not allowed to put a float tube or anything else in this lake.
+
+Fish Largemouth Bass: There are bass in here, but getting to them can be problematic. Fish EARLY in the morning with topwater, then go to small plastics or jigs in the day. I've had most success dropping small baits into pockets of weeds or tules.
+
+Catfish: This can be a good catfish lake. It is stocked on the rare occasion with channels. But I think it also has a good sustaining population of its own. Try chicken liver or nightcrawlers 4 feet under a small bobber and cast towards the middle of the lake. 
+```
