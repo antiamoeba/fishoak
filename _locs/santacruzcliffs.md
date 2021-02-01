@@ -7,7 +7,7 @@ Between Ano Nuevo State Park and Santa Cruz, a few parks allow for coastal acces
 
 ## About this Stretch of Coast
 
-Always keep your eyes on the ocean! Like the [San Mateo Rocks](/sanmateorocks), this section of coast can have some big waves, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=155&y=182&site=mtr&zmx=&zmy=&map_x=155&map_y=182">wave forecast</a>, and be safe. In addition, many of the rocks here can be quite slippery, so take your time when climbing these rocks to get to fishing spots.
+Always keep your eyes on the ocean! Like the [San Mateo Rocks](/sanmateorocks), this section of coast can have some big waves, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=167&y=210&site=mtr&zmx=&zmy=&map_x=168&map_y=210">wave forecast</a>, and be safe. In addition, many of the rocks here can be quite slippery, so take your time when climbing these rocks to get to fishing spots.
 
 In general, this stretch of coastline provides a nice mix of rocky and sandy-shore species. I've caught many jacksmelt fishing the top of water column around here - they can be a lot of fun on light line, with strips of squid or small lures. In the middle of water column, perch are quite common, especially when fishing with shrimp. Fishing deeper in the water, rockfish, cabezon, and lingcod can be caught in the rockier areas, but they tend to be somewhat sparse. In sandier areas, I'd assume there would be flatfish and croaker, but I haven't caught any myself.
 
