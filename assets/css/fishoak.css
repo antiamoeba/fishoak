@@ -32,6 +32,9 @@ body {
     margin: 0px;
     float: left;
 }
+.head h2:hover {
+    text-decoration: underline;
+}
 .head .right {
     padding: 0px;
     margin: 0px;
@@ -42,6 +45,9 @@ body {
     padding: 0px;
     margin-right: 40px;
     display: inline;
+}
+.head .right h3:hover {
+    text-decoration: underline;
 }
 .hwrapper {
     visibility: hidden;
@@ -96,8 +102,9 @@ body {
 }
 .tail {
     text-align: center;
-    font-size: 12px;
+    /*font-size: 12px;*/
     clear: both;
+    margin-bottom: 10px;
 }
 .big {
     font-size: 24px;

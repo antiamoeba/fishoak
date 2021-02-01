@@ -26,7 +26,7 @@ Access to Loch Lomond was closed for a couple years due to the drought here in C
 
 Loch Lomond is actually the first place I learned to fish. I remember catching bluegill after bluegill off one of the docks - it was one of the greatest experiences of my life.
 
-Official website: [City of Santa Cruz](http://www.cityofsantacruz.com/departments/water/watershed/recreation)
+Official website: [City of Santa Cruz](https://www.cityofsantacruz.com/government/city-departments/water/watershed/loch-lomond-recreation)
 
 From the old ichthy.com:
 

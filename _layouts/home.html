@@ -1,0 +1,40 @@
+<html>
+<head>
+    {% if page.page_title %}
+        <title>Fishoak - {{ page.page_title }}</title>
+    {% else %}
+        <title>Fishoak - {{ page.title }}</title>
+    {% endif %}
+    <link rel="stylesheet" type="text/css" href="/assets/css/fishoak.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FY4JFTTM59"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FY4JFTTM59');
+    </script>
+</head>
+<body>
+    <div class="title">
+        <div class="crop">
+            <img src="/assets/images/{{ page.image }}"/>
+        </div>
+        <h1>{{ page.title }}</h1>
+    </div>
+    <div class="content">
+        {{ content }}
+    </div>
+    <div class="tail">
+        Created by <a href="https://dorianchan.com">Dorian Chan</a>
+    </div>
+    <div class="head">
+        <a href="/" class="invis">
+            <h2><span class="fishoak">Fishoak</span></h2>
+        </a>
+    </div>
+</body>
+</html>

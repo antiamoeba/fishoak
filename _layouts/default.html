@@ -7,6 +7,16 @@
     {% endif %}
     <link rel="stylesheet" type="text/css" href="/assets/css/fishoak.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FY4JFTTM59"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FY4JFTTM59');
+    </script>
 </head>
 <body>
     <div class="title">
@@ -19,11 +29,14 @@
         {{ content }}
     </div>
     <div class="tail">
-        Created by <a href="https://dorianchan.com">Dorian Chan</a>
+        <a href="/">See other Bay Area Fishing Spots</a>
     </div>
     <div class="head">
         <a href="/" class="invis">
             <h2><span class="fishoak">Fishoak</span></h2>
+        </a>
+        <a href="/" class="invis right">
+            <h3><span>All Spots</span></h3>
         </a>
     </div>
 </body>
