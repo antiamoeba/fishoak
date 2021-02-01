@@ -28,6 +28,13 @@ Loch Lomond is actually the first place I learned to fish. I remember catching b
 
 Official website: [City of Santa Cruz](https://www.cityofsantacruz.com/government/city-departments/water/watershed/loch-lomond-recreation)
 
+## Recommended Gear
+
+{% include_relative _gear/trout.html %}
+{% include_relative _gear/bass.html %}
+{% include_relative _gear/disclaimer.html %}
+
+<!--
 From the old ichthy.com:
 
 ```
@@ -67,4 +74,4 @@ Other Fish:Bluegills. This is the greatest bluegill factory I've seen. Go on a s
 
 There are also green sunfish here. If you catch a bluegill with a unusually large mouth, and faint bluish lines on the sides, it's probably a green sunfish. 
 ```
-
+-->

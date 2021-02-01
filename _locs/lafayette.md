@@ -27,3 +27,9 @@ Lafayette Reservoir also boasts decent pet-friendly trails that circumnavigate t
 Bikes are only allowed a couple days a week, which makes for relaxing walks.
 
 Official website: [EBMUD](http://www.ebmud.com/recreation/east-bay/lafayette-reservoir/)
+
+## Recommended Gear
+
+{% include_relative _gear/trout.html %}
+{% include_relative _gear/bass.html %}
+{% include_relative _gear/disclaimer.html %}

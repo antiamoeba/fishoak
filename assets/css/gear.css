@@ -1,0 +1,33 @@
+.gear {
+    display: flex;
+    margin-bottom: 30px;
+}
+.gear h4 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.gear img {
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    margin: 0px;
+    padding: 0px;
+}
+.gearimg {
+    margin-right: 10px;
+    display: block;
+    padding: 0px;
+}
+
+.buybutton {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    background: #222222;
+    color: white;
+    padding: 10px;
+}
+.buybutton:hover {
+    background: #555555;
+}

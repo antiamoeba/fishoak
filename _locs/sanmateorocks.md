@@ -21,3 +21,8 @@ At strong minus tides, these beaches can be great places to do some poke-poling 
 Some of these spots have been hit quite hard in recent years, and as a result fish sizes as well as catch rates have gone down significantly. Do your part for future generations, and only take home the fish you'll actually use and eat yourself. 
 
 Most of the rockfish I've caught here are black-and-yellow rockfish, similar to other rocky-shore fishing spots in the rest of the state. If you intend on keeping the fish you catch, keep in mind that this particular species of rockfish are classified as high in methylmercury and PCBs, and you should limit <a href="https://oehha.ca.gov/advisories/statewide-advisory-eating-fish-california-coastal-locations-without-site-specific-advice">your consumption if possible</a>.
+
+## Recommended Gear
+
+{% include_relative _gear/rocky.html %}
+{% include_relative _gear/disclaimer.html %}

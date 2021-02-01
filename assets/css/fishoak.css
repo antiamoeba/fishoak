@@ -87,7 +87,7 @@ body {
     width: 50%;
     min-width: 320px;
 }
-.content img {
+.content>p>img {
     width: 100%;
 }
 .caption {

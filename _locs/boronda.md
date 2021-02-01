@@ -21,3 +21,8 @@ The bass can be somewhat harder to catch. I would stick to weedless setups to av
 The area near the lake has been extremely busy recently, thanks to the public opening of Foothills Park. It may be difficult to find parking, and the park may close during periods of the day as a result - check the official website for up-to-date details.
 
 Official website: [City of Palo Alto](https://www.cityofpaloalto.org/gov/depts/csd/parks/preserves/foothills/default.asp)
+
+## Recommended Gear
+
+{% include_relative _gear/bass.html %}
+{% include_relative _gear/disclaimer.html %}

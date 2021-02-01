@@ -23,6 +23,12 @@ If you want to avoid paying the parking fee, just park along the road just outsi
 
 Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfinder/Pages/StevensCreek.aspx)
 
+## Recommended Gear
+
+{% include_relative _gear/bass.html %}
+{% include_relative _gear/disclaimer.html %}
+
+<!--
 From the old ichthy.com:
 ```
 Pros: good trout bite in spring, crappie, good size for float tubing
@@ -55,3 +61,4 @@ The ever hungry bluegill is always an option. If you're using nightcrawlers it w
 
 Word has it some one caught a relative of the piranha in here ... 
 ```
+-->
