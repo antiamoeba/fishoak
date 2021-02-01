@@ -15,6 +15,9 @@ There are many cormorants and large birds here. Fishermen here often gripe over 
 
 There also is a kids' fishing pond down the road which used to get stocked back in the day, but people still catch some big carp.
 
+![Trout at Sandy Wool](/assets/images/trout.jpg)
+<div class="caption">Trout at Sandy Wool</div>
+
 ## Notes
 
 The lake is located inside Ed Levin County Park. A vehicle entry fee is charged, at the time this article was written $6.
