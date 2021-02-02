@@ -28,11 +28,13 @@ Loch Lomond is actually the first place I learned to fish. I remember catching b
 
 Official website: [City of Santa Cruz](https://www.cityofsantacruz.com/government/city-departments/water/watershed/loch-lomond-recreation)
 
+[Check out my Bay Area trout fishing guide](/trout).
+
 ## Recommended Gear
 
-{% include_relative _gear/trout.html %}
-{% include_relative _gear/bass.html %}
-{% include_relative _gear/disclaimer.html %}
+{% include _gear/trout.html %}
+{% include _gear/bass.html %}
+{% include _gear/disclaimer.html %}
 
 <!--
 From the old ichthy.com:

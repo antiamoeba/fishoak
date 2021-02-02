@@ -14,8 +14,18 @@ layout: home
     </div>
 </a>
 {% endfor %}
+
+<h2 style="text-align:left">and a guide to some of the Bay Area's best gamefish:</h2>
+{% for fish in site.fish %}
+<a href="{{fish.url}}" class="invis">
+    <div class="tn">
+        <img src="assets/images/{{fish.image}}" />
+        <h2>{{fish.short_title}}</h2>
+    </div>
+</a>
+{% endfor %}
 <h3>and many more to be added...</h3>
 
 <div style="margin: 50px auto;width: 50%;min-width: 320px;text-align: left;">
-In this website, I aim to share some of my favorite fishing spots around the Bay Area in both freshwater and saltwater. Fishing is a great way to explore the bay, hang out with friends, and get more in touch with yourself. By giving tips and tricks for our local waterways, I hope to inspire you to get out on the water. - the creator
+In this website, I aim to share some of my favorite fishing spots around the Bay Area in both freshwater and saltwater. Fishing is a great way to explore the bay, hang out with friends, and get more in touch with yourself. By giving tips and tricks for our local waterways, I hope to inspire you to get out on the water. - the <a href="https://dorianchan.com">creator</a>
 </div>

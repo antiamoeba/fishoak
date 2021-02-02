@@ -25,8 +25,8 @@ Official website: [City of Palo Alto](http://www.cityofpaloalto.org/gov/depts/cs
 
 ## Recommended Gear
 
-{% include_relative _gear/bass.html %}
-{% include_relative _gear/disclaimer.html %}
+{% include _gear/bass.html %}
+{% include _gear/disclaimer.html %}
 
 <!--
 From the old ichthy.com:

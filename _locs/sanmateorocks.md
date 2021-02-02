@@ -13,7 +13,7 @@ In general, the rocky stretches of coastline here can be fished at both low tide
 
 At strong minus tides, these beaches can be great places to do some poke-poling - basically sticking your bait in the deep holes under boulders and rocks to catch trapped fish. With a small strip of squid and a good pair of boots or waders, you can catch some nice monkeyface eels and small rockfish. These fish seem to be experts at stealing bait, so make sure to bring a lot of extra.
 
-![A monkeyface prickleback caught along this section of coast](/assets/images/eel.jpg)
+![A monkeyface prickleback caught along this section of coast](/assets/images/smeel.jpg)
 <div class="caption">A monkeyface prickleback caught along this section of coast</div>
 
 ## Notes
@@ -24,5 +24,5 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 ## Recommended Gear
 
-{% include_relative _gear/rocky.html %}
-{% include_relative _gear/disclaimer.html %}
+{% include _gear/rocky.html %}
+{% include _gear/disclaimer.html %}

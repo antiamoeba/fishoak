@@ -2,6 +2,9 @@ collections:
     locs: 
         output: true
         permalink: /:title
+    fish:
+        output: true
+        permalink: /:title
 
 
 defaults:
