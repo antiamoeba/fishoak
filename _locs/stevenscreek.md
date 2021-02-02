@@ -9,9 +9,9 @@ To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded b
 
 Stevens Creek has a pretty hefty case of the bathtub rings - it's a big victim of water drawdowns every year. The shoreline access is very steep, so make sure to wear good shoes. It also means that there's very little fish habitat - there's not many weeds or logs or fallen trees in the water. What that means is that there aren't many fish in the first place, and the few fish that swim in the lake are hard to find.
 
-The DFG used to stock this lake with trout, but no more. Nowadays most people fish for the few resident bass. Try the shady areas around the lake, on the dam, or whatever structure you can find. People do okay with dropshots. The evening topwater bite is also decent.
+The DFG used to stock this lake with trout, but no more. Nowadays most people fish for the few resident bass. Try the shady areas around the lake, on the dam, or whatever structure you can find. People do okay with dropshots. The evening topwater bite is also decent - I've gotten nice hits on poppers. The key here is really to just keep moving, and find where the fish are.
 
-People also catch a decent amount of carp here. There are also a few bluegill here and there, but you need to hunt them down.
+People also catch a decent amount of carp here. There are also a few bluegill here and there in some of the shallower coves, but you need to hunt them down.
 
 ## Notes
 
