@@ -2,8 +2,10 @@
 title: Stevens Creek Reservoir
 image: stevens-creek.jpg
 ---
-To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded by tree-covered hills, it is a pretty place to be, and can be a nice area to take a walk. But the fishing is pretty terrible.
 
+# Fishing Stevens Creek Reservoir
+
+To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded by tree-covered hills, it is a pretty place to be, and can be a nice area to take a walk. But the fishing is pretty terrible.
 
 ## About the Lake
 
@@ -20,6 +22,8 @@ There are quite a few poison oak stands around Stevens Creek, be careful.
 There's also a shooting range across the street. The noise can be very annoying when you're just trying to have a quiet fishing trip.
 
 If you want to avoid paying the parking fee, just park along the road just outside the lot. Or just don't pay the fee and park inside - many people I've seen do that (at your own risk, of course). 
+
+If you're thinking about keeping the fish you catch, keep in mind that [the OEHHA recommends that you do not eat the fish out of Stevens Creek](https://oehha.ca.gov/advisories/stevens-creek-reservoir).
 
 Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfinder/Pages/StevensCreek.aspx)
 

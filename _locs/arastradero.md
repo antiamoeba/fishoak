@@ -3,6 +3,8 @@ title: Arastradero Lake
 image: arastradero.jpg
 ---
 
+# Fishing Arastradero Lake
+
 Arastradero Lake is a quiet pond in the hills of Palo Alto. Close to its bigger, recently-private sibling [Boronda Lake](/boronda), you reach the lake after a pleasant stroll along a grassy, sunny trail surrounded by oak trees.
 
 ## About the Lake

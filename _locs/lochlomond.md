@@ -3,6 +3,8 @@ title: Loch Lomond
 image: loch-lomond.jpg
 ---
 
+# Fishing Loch Lomond
+
 Loch Lomond is a gem. Nestled in the tree-covered hills above Santa Cruz, Loch Lomond's natural beauty rivals its fishing.
 
 
@@ -17,6 +19,8 @@ The trouting is pretty great at the lake. Due to its higher elevation, trout wil
 If you do choose to rent a boat, try heading to the far shore of the lake. There is only shoreline access along one side of the lake, so you can escape a lot of the fishing pressure by hitting the shady coves on the other side. If you want a little adventure, you can also boat to the inlet of the lake. Here, the lake turns into a calm, slow river, where the fishing can also be quite good - I've had some great days catching panfish.
 
 There are also a couple of catfish that roam the bottom, but those are pretty rare. I've also accidentally caught a turtle here, so watch your line.
+
+There's an island with a boat dock and a few picnic tables that can be a fun place for an afternoonn adventure.
 
 ## Notes
 

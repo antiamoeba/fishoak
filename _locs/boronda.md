@@ -3,6 +3,8 @@ title: Boronda Lake
 image: boronda.jpg
 ---
 
+# Fishing Boronda Lake
+
 In Foothills Park, Boronda Lake is a slightly more developed version of [Arastradero Lake](/arastradero) in the hills of Palo Alto. Until recently, the lake was off-limits to non-Palo Alto residents.
 
 ## About the Lake
