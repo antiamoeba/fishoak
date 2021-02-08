@@ -46,7 +46,7 @@ If you want some specific recommendations:
 </div>
 </div>
 
-Honestly a cheap setup from Walmart or Big 5 will probably work just as well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
+Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
 ### Fishing with Bait
 
