@@ -104,6 +104,8 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 </div>
 </div>
 
+{% include _gear/disclaimer.html %}
+
 Supposedly people also used Velveeta Cheese back in the day, but I don't personally have any experience with it. Might be a good way to show the trout something they haven't seen in a while.
 
 When the going gets tough, try switching to an even simpler rig, with just a size 8 hook baited with a nightcrawler and a small split shot a foot up the line, or even no weight if possible. The general idea is to let the worm drift and flutter naturally in the water for finicky trout. There's been times when I'm the only person on the lake catching fish by using this technique. This is also my go-to rig when fishing rivers and streams.
