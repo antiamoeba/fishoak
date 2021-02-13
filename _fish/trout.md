@@ -137,14 +137,14 @@ Here are a few lures you should have in your tackle box:
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/2MkV7nr" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003OCBCFI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<a href="https://amzn.to/3aYUpEN" target="_blank">
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00019ND8G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
 </a>
 </div>
 <div>
-    <h4>Thomas Buoyant, 1/6 oz</h4>
+    <h4>Thomas Buoyant, 1/4 oz</h4>
     <div>A Kastmaster alternative. It casts a somewhat smaller distance, but the spoon has a slightly different fluttering action that seems to sometimes entice more hits.</div>
-    <a href="https://amzn.to/2MkV7nr" class="buybutton" target="_blank">See on Amazon</a>
+    <a href="https://amzn.to/3aYUpEN" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
