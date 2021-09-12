@@ -15,6 +15,16 @@ layout: home
 </a>
 {% endfor %}
 
+<h2 style="text-align:left">a few farther places:</h2>
+{% for loc in site.far %}
+<a href="{{loc.url}}" class="invis">
+    <div class="tn">
+        <img src="assets/images/{{loc.image}}" />
+        <h2>{{loc.title}}</h2>
+    </div>
+</a>
+{% endfor %}
+
 <h2 style="text-align:left">and a guide to some of the Bay Area's best gamefish:</h2>
 {% for fish in site.fish %}
 <a href="{{fish.url}}" class="invis">
