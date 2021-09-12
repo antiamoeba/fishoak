@@ -36,7 +36,7 @@ Official website: [City of Palo Alto](http://www.cityofpaloalto.org/gov/depts/cs
 
 {% include _ads/article.html %}
 
-<!--
+
 From the old ichthy.com:
 ```
 Pros: lots of cover, light pressure, good catfishing
@@ -49,4 +49,3 @@ Fish Largemouth Bass: There are bass in here, but getting to them can be problem
 
 Catfish: This can be a good catfish lake. It is stocked on the rare occasion with channels. But I think it also has a good sustaining population of its own. Try chicken liver or nightcrawlers 4 feet under a small bobber and cast towards the middle of the lake. 
 ```
--->

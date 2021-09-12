@@ -8,6 +8,8 @@ image: trout.jpg
 
 Trout are the species of choice when freshwater fishing in the cooler months in the Bay Area. Every winter and spring, the Department of Fish and Game drives thousands of hatchery trout to our local lakes, specifically for fishermen to catch and take home. Local park districts, like the EBRPD, supplement with their own stockings. What this means is the fishing can be heavily dependent on when these trout plants occur, so keep an eye on the schedule (<a href="https://nrm.dfg.ca.gov/fishplants/">DFG</a>, <a href="https://www.ebparks.org/activities/fishing/anglersedge/">EBRPD</a>) when planning a trip.
 
+{% include _ads/article.html %}
+
 ## How to Catch Bay Area Trout
 
 Trout fishing can seem daunting at first, with all the terminology and baits that people use. In this article, I will try and give a quick summary of the techniques and setups that people use around the Bay.
@@ -48,7 +50,6 @@ If you want some specific recommendations:
 
 Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
-{% include _ads/article.html %}
 
 ### Fishing with Bait
 
@@ -112,7 +113,6 @@ Supposedly people also used Velveeta Cheese back in the day, but I don't persona
 
 When the going gets tough, try switching to an even simpler rig, with just a size 8 hook baited with a nightcrawler and a small split shot a foot up the line, or even no weight if possible. The general idea is to let the worm drift and flutter naturally in the water for finicky trout. There's been times when I'm the only person on the lake catching fish by using this technique. This is also my go-to rig when fishing rivers and streams.
 
-{% include _ads/article.html %}
 
 ### Fishing with Lures
 
@@ -194,7 +194,6 @@ Here are a few lures you should have in your tackle box:
 
 {% include _gear/disclaimer.html %}
 
-{% include _ads/article.html %}
 
 ### Get a Two Rod Stamp!
 

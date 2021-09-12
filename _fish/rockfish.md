@@ -8,6 +8,8 @@ image: rockfish.jpg
 
 Rockfish are one of our favorite fish to catch from shore when we're fishing the ocean. They fight hard, bite aggressively, and you can catch them on pretty much anything. The number one rule is location - make sure you're fishing the right spot! Keep reading for more details.
 
+{% include _ads/article.html %}
+
 ## How to Catch Rockfish
 
 Before we dive into the details, just a gentle PSA to always keep your eyes on the ocean! There can be big waves by the ocean, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=155&y=182&site=mtr&zmx=&zmy=&map_x=155&map_y=182">wave forecast</a>, and be safe.
@@ -106,7 +108,6 @@ If you want specific recommendations:
 
 {% include _gear/disclaimer.html %}
 
-{% include _ads/article.html %}
 
 
 ### Fishing with Bait
@@ -158,8 +159,6 @@ Here are the sinkers I use for my high-low rigs:
 
 {% include _gear/disclaimer.html %}
 
-{% include _ads/article.html %}
-
 
 Recently, I started using a Texas-rig style approach for fishing my bait, a familiar term if you've ever fished for bass before. In its simplest form, it's an egg or bullet sinker like the one I linked above that's allowed to slide freely on your line, at the end of which you tie on a hook. I've found that it tends to snag somewhat less, and it's much easier to maneuver around beneath the water to fishy-looking spots. However, it's much harder for your bait to drift naturally with this style of setup. Try it out and get your own thoughts!
 
@@ -201,10 +200,11 @@ A lot of fishermen also like using something called a shrimp fly:
 
 {% include _gear/disclaimer.html %}
 
-{% include _ads/article.html %}
 
 ### What are some good spots?
 
 Really, the best strategy is to pull up satellite view on Google Maps, and look for rocky locations on the coast that look accessible. Good places to start are Pigeon Point, Davenport, Santa Cruz, Carmel, Muir Beach, and Jenner.
 
 We've written articles on rockfishing from shore in <a href="/sanmateorocks">San Mateo County</a> and <a href="/santacruzcliffs">Santa Cruz County</a> - check them out!
+
+{% include _ads/article.html %}

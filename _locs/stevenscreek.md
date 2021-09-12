@@ -35,7 +35,7 @@ Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfi
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-<!--
+
 From the old ichthy.com:
 ```
 Pros: good trout bite in spring, crappie, good size for float tubing
@@ -68,4 +68,3 @@ The ever hungry bluegill is always an option. If you're using nightcrawlers it w
 
 Word has it some one caught a relative of the piranha in here ... 
 ```
--->
