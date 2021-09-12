@@ -38,3 +38,5 @@ Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfi
 {% include _gear/trout.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
+
+{% include _comments/disqus.html %}
