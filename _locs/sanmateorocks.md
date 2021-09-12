@@ -5,7 +5,7 @@ image: smc.jpg
 
 # Fishing the San Mateo Rocks
 
-Along the coast between Pacifica and Ano Nuevo State Park, a set of scattered rocky beaches provide beautiful views of the Pacific Ocean, as well as occasional chances for rocky-bottom species. Most of these areas lie within state parks along highway 1, providing easy access and some facilities.
+Along the coast between Pacifica and Ano Nuevo State Park, a set of scattered rocky beaches provide beautiful views of the Pacific Ocean, as well as occasional chances for rocky-bottom species. Most of these areas lie within state parks along Highway 1, providing easy access and some facilities.
 
 {% include _ads/article.html %}
 
