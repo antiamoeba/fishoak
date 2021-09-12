@@ -106,6 +106,8 @@ If you want specific recommendations:
 
 {% include _gear/disclaimer.html %}
 
+{% include _ads/article.html %}
+
 
 ### Fishing with Bait
 
@@ -156,6 +158,8 @@ Here are the sinkers I use for my high-low rigs:
 
 {% include _gear/disclaimer.html %}
 
+{% include _ads/article.html %}
+
 
 Recently, I started using a Texas-rig style approach for fishing my bait, a familiar term if you've ever fished for bass before. In its simplest form, it's an egg or bullet sinker like the one I linked above that's allowed to slide freely on your line, at the end of which you tie on a hook. I've found that it tends to snag somewhat less, and it's much easier to maneuver around beneath the water to fishy-looking spots. However, it's much harder for your bait to drift naturally with this style of setup. Try it out and get your own thoughts!
 
@@ -196,6 +200,8 @@ A lot of fishermen also like using something called a shrimp fly:
 </div>
 
 {% include _gear/disclaimer.html %}
+
+{% include _ads/article.html %}
 
 ### What are some good spots?
 

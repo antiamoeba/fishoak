@@ -7,6 +7,8 @@ image: scc.jpg
 
 Between Ano Nuevo State Park and Santa Cruz, a few parks allow for coastal access to a few cliffs that tower over the ocean, where the brave can drop their lines into fairly deep water with just a short cast. A few locations let you get a bit closer to the water - try and scout these out on Google Maps beforehand.
 
+{% include _ads/article.html %}
+
 ## About this Stretch of Coast
 
 Always keep your eyes on the ocean! Like the [San Mateo Rocks](/sanmateorocks), this section of coast can have some big waves, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=167&y=210&site=mtr&zmx=&zmy=&map_x=168&map_y=210">wave forecast</a>, and be safe. In addition, many of the rocks here can be quite slippery, so take your time when climbing these rocks to get to fishing spots.
@@ -29,3 +31,4 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 {% include _gear/rocky.html %}
 {% include _gear/disclaimer.html %}
+{% include _ads/article.html %}

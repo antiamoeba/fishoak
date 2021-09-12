@@ -7,6 +7,7 @@ image: lafayette.jpg
 
 Located about halfway between Berkeley and Concord, Lafayette Reservoir is one of the best fishing holes in the East Bay. The lake is not huge, so it can get crowded, unfortunately.
 
+{% include _ads/article.html %}
 
 ## About the Lake
 
@@ -38,3 +39,4 @@ Official website: [EBMUD](http://www.ebmud.com/recreation/east-bay/lafayette-res
 {% include _gear/trout.html %}
 {% include _gear/bass.html %}
 {% include _gear/disclaimer.html %}
+{% include _ads/article.html %}

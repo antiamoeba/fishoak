@@ -7,6 +7,8 @@ image: stevens-creek.jpg
 
 To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded by tree-covered hills, it is a pretty place to be, and can be a nice area to take a walk. But the fishing is pretty terrible.
 
+{% include _ads/article.html %}
+
 ## About the Lake
 
 Stevens Creek has a pretty hefty case of the bathtub rings - it's a big victim of water drawdowns every year. The shoreline access is very steep, so make sure to wear good shoes. It also means that there's very little fish habitat - there's not many weeds or logs or fallen trees in the water. What that means is that there aren't many fish in the first place, and the few fish that swim in the lake are hard to find.
@@ -31,6 +33,7 @@ Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfi
 
 {% include _gear/bass.html %}
 {% include _gear/disclaimer.html %}
+{% include _ads/article.html %}
 
 <!--
 From the old ichthy.com:

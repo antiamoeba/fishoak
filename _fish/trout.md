@@ -48,6 +48,8 @@ If you want some specific recommendations:
 
 Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
+{% include _ads/article.html %}
+
 ### Fishing with Bait
 
 Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce egg sinker, a bead, a small swivel, and a 12-36 inch leader of about 2-4 lb line (you can buy <a href="https://amzn.to/3oCABvq">pretied versions online</a>, but you'll save money tying them yourself). The general idea is that trout bait tends to float, so using a long leader lets the bait float off the bottom right in the strike zone. A few common baits that people use on these rigs:
@@ -109,6 +111,8 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 Supposedly people also used Velveeta Cheese back in the day, but I don't personally have any experience with it. Might be a good way to show the trout something they haven't seen in a while.
 
 When the going gets tough, try switching to an even simpler rig, with just a size 8 hook baited with a nightcrawler and a small split shot a foot up the line, or even no weight if possible. The general idea is to let the worm drift and flutter naturally in the water for finicky trout. There's been times when I'm the only person on the lake catching fish by using this technique. This is also my go-to rig when fishing rivers and streams.
+
+{% include _ads/article.html %}
 
 ### Fishing with Lures
 
@@ -190,6 +194,8 @@ Here are a few lures you should have in your tackle box:
 
 {% include _gear/disclaimer.html %}
 
+{% include _ads/article.html %}
+
 ### Get a Two Rod Stamp!
 
 When doing trout fishing here in California, I highly recommend thinking about getting a two rod stamp on your fishing license. With a two rod stamp, you can cast out one rod with bait and let it sit, and rig up another rod with a lure. This way, you get the best of both worlds!
@@ -203,3 +209,5 @@ In the South Bay, [Sandy Wool Lake](/sandywool) is a small pond that gets stocke
 A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lakeshore Park in Newark, Quarry Lakes in Fremont, Shadow Cliffs Reservoir in Pleasanton, Contra Loma Reservoir in Antioch, Don Castro Reservoir in Hayward, Lake Temescal in Oakland, [Lafayette Reservoir](/lafayette), and San Pablo Reservoir in El Sobrante all regularly receive trout plants.
 
 In the San Francisco/San Mateo area, Lake Merced is pretty much your only option, and it doesn't really get stocked all that often. So make the drive to the East Bay.
+
+{% include _ads/article.html %}

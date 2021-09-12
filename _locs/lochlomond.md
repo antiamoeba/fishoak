@@ -7,6 +7,8 @@ image: loch-lomond.jpg
 
 Loch Lomond is a gem. Nestled in the tree-covered hills above Santa Cruz, Loch Lomond's natural beauty rivals its fishing.
 
+{% include _ads/article.html %}
+
 
 ## About the Lake
 
@@ -39,7 +41,7 @@ Official website: [City of Santa Cruz](https://www.cityofsantacruz.com/governmen
 {% include _gear/trout.html %}
 {% include _gear/bass.html %}
 {% include _gear/disclaimer.html %}
-
+{% include _ads/article.html %}
 <!--
 From the old ichthy.com:
 

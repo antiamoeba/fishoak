@@ -7,6 +7,8 @@ image: smc.jpg
 
 Along the coast between Pacifica and Ano Nuevo State Park, a set of scattered rocky beaches provide beautiful views of the Pacific Ocean, as well as occasional chances for rocky-bottom species. Most of these areas lie within state parks along highway 1, providing easy access and some facilities.
 
+{% include _ads/article.html %}
+
 ## About this Stretch of Coast
 
 Always keep your eyes on the ocean! Like the [Santa Cruz Cliffs](/santacruzcliffs), this section of coast can have some big waves, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=155&y=182&site=mtr&zmx=&zmy=&map_x=155&map_y=182">wave forecast</a>, and be safe. In addition, many of the rocks here can be quite slippery, so take your time when climbing these rocks to get to fishing spots.
@@ -28,3 +30,5 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 {% include _gear/rocky.html %}
 {% include _gear/disclaimer.html %}
+
+{% include _ads/article.html %}

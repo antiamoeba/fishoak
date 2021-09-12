@@ -7,6 +7,8 @@ image: arastradero.jpg
 
 Arastradero Lake is a quiet pond in the hills of Palo Alto. Close to its bigger, recently-private sibling [Boronda Lake](/boronda), you reach the lake after a pleasant stroll along a grassy, sunny trail surrounded by oak trees.
 
+{% include _ads/article.html %}
+
 ## About the Lake
 
 Calling Arastradero a lake is a misnomer - it's more of a farm pond than anything else. Surrounded by tules, shoreline access can be very difficult (no boats or float tubes allowed). There are only 3 or 4 places where you can cast into the lake. The fishing can be decent here, if you can snag one of the few fishing spots.
@@ -31,6 +33,8 @@ Official website: [City of Palo Alto](http://www.cityofpaloalto.org/gov/depts/cs
 
 {% include _gear/bass.html %}
 {% include _gear/disclaimer.html %}
+
+{% include _ads/article.html %}
 
 <!--
 From the old ichthy.com:
