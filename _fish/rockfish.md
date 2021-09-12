@@ -208,3 +208,5 @@ Really, the best strategy is to pull up satellite view on Google Maps, and look 
 We've written articles on rockfishing from shore in <a href="/sanmateorocks">San Mateo County</a> and <a href="/santacruzcliffs">Santa Cruz County</a> - check them out!
 
 {% include _ads/article.html %}
+
+{% include _comments/disqus.html %}

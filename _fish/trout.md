@@ -210,3 +210,5 @@ A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lak
 In the San Francisco/San Mateo area, Lake Merced is pretty much your only option, and it doesn't really get stocked all that often. So make the drive to the East Bay.
 
 {% include _ads/article.html %}
+
+{% include _comments/disqus.html %}
