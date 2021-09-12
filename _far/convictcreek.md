@@ -30,7 +30,7 @@ Getting down to the creek can be kind of tough - the banks can often be quite st
 
 [Convict Lake Resort](https://convictlake.com/) provides somewhat expensive accomodations. [A campground](https://www.recreation.gov/camping/campgrounds/234311) is located right next to both the lake and the creek - you can book sites right on the creek. 
 
-[Check out my trout fishing guide](/trout).
+[Check out my stream trout fishing guide](/troutstreams).
 
 ## Recommended Gear
 
