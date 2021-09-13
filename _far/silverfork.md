@@ -25,6 +25,8 @@ On another note, this river very pretty. Much of the river is not developed and 
 
 ## Notes
 
+[The official website](https://www.fs.usda.gov/detail/eldorado/learning/nature-science/?cid=fsbdev7_019125). There are two campgrounds here right on the river - the China Flat and Silver Fork Campgrounds. Both are first-come-first-serve.
+
 [Check out my stream trout fishing guide](/troutstreams).
 
 ## Recommended Gear
