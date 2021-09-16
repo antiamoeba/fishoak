@@ -205,7 +205,7 @@ A lot of fishermen also like using something called a shrimp fly:
 
 Really, the best strategy is to pull up satellite view on Google Maps, and look for rocky locations on the coast that look accessible. Good places to start are Pigeon Point, Davenport, Santa Cruz, Carmel, Muir Beach, and Jenner.
 
-We've written articles on rockfishing from shore in <a href="/sanmateorocks">San Mateo County</a> and <a href="/santacruzcliffs">Santa Cruz County</a> - check them out!
+We've written articles on rockfishing from shore at the <a href="/hmbjetty">Half Moon Bay Jetty</a>, in <a href="/sanmateorocks">San Mateo County</a> and in <a href="/santacruzcliffs">Santa Cruz County</a> - check them out!
 
 {% include _ads/article.html %}
 
