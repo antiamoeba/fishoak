@@ -5,7 +5,10 @@ image: shark.jpg
 layout: home
 ---
 <link rel="stylesheet" type="text/css" href="assets/css/home.css">
-<h2 style="text-align:left">A guide to some of my favorite Bay Area fishing spots:</h2>
+<div class="card-header">
+    <h2>The Bay Area's best fishing spots</h2>
+    The Bay Area has some of the best fishing in the world. From the oceans filled with rockfish and salmon to the bass and trout lakes in the hills, the Bay Area has something for every fisherman.
+</div>
 {% for loc in site.locs %}
 <a href="{{loc.url}}" class="invis">
     <div class="tn">
@@ -13,9 +16,13 @@ layout: home
         <h2>{{loc.title}}</h2>
     </div>
 </a>
+<!-- <div>{{loc.excerpt}}</div> -->
 {% endfor %}
 
-<h2 style="text-align:left">a few farther places:</h2>
+<div class="card-header">
+    <h2>A Weekend Fishing Adventure</h2>
+    Just a few hours drive away, the rivers of the Sierras, the forests of Northern California, and the Central California coast boast world-class fishing! Be sure to check out the following spots:
+</div>
 {% for loc in site.far %}
 <a href="{{loc.url}}" class="invis">
     <div class="tn">
@@ -25,7 +32,10 @@ layout: home
 </a>
 {% endfor %}
 
-<h2 style="text-align:left">and a guide to some of the Bay Area's best gamefish:</h2>
+<div class="card-header">
+    <h2>How to Catch Them</h2>
+    With so many fisheries in the area, how do you actually catch the fish? Here are a few guides for catching local fish:
+</div>
 {% for fish in site.fish %}
 <a href="{{fish.url}}" class="invis">
     <div class="tn">
@@ -34,8 +44,8 @@ layout: home
     </div>
 </a>
 {% endfor %}
-<h3>and many more to be added...</h3>
+<div class="card-header">
+    <h2>and many more to be added...</h2>
+</div>
 
-<div style="margin: 50px auto;width: 50%;min-width: 320px;text-align: left;">
-In this website, I aim to share some of my favorite fishing spots around the Bay Area in both freshwater and saltwater. Fishing is a great way to explore the bay, hang out with friends, and get more in touch with yourself. By giving tips and tricks for our local waterways, I hope to inspire you to get out on the water. - the <a href="https://dorianchan.com">creator</a>
 </div>

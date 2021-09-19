@@ -1,14 +1,17 @@
 .content {
-    width: 90%;
+    width: 70%;
+    margin-top: 0px;
     text-align: center;
 }
 .tn {
     position: relative;
     margin: 0px;
     padding: 0px;
-    width: 300px;
+    min-width: 300px;
+    width: 33%;
     height: 200px;
     display: inline-block;
+    box-sizing: border-box;
 }
 .tn a {
     display:block;
@@ -31,4 +34,16 @@
     transform: translate(-50%, -100%);
     text-align: center;
     width: 100%;
+}
+
+.card-header {
+    text-align: center;
+    max-width: 500px;
+    padding-bottom: 150px;
+    padding-top: 150px;
+    margin:0 auto;
+}
+
+.card-header > h2 {
+    margin-top: 0;
 }
