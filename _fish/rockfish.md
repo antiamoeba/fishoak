@@ -8,8 +8,6 @@ image: rockfish.jpg
 
 Rockfish are one of our favorite fish to catch from shore when we're fishing the ocean. They fight hard, bite aggressively, and you can catch them on pretty much anything. The number one rule is location - make sure you're fishing the right spot! Keep reading for more details.
 
-{% include _ads/article.html %}
-
 ## How to Catch Rockfish
 
 Before we dive into the details, just a gentle PSA to always keep your eyes on the ocean! There can be big waves by the ocean, and people foraging and fishing the coast here have been swept into the water by rogue waves. Always check the <a href="https://marine.weather.gov/MapClick.php?x=155&y=182&site=mtr&zmx=&zmy=&map_x=155&map_y=182">wave forecast</a>, and be safe.

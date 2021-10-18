@@ -7,8 +7,6 @@ image: upperrockcreek.jpg
 
 Just about halfway between Bishop and Mammoth Lakes, the Rock Creek area provides a myriad of fishing, camping, and hiking opportunities for the outdoorsman. Rock Creek and Rock Creek Lake are both regularly stocked by the DFG (at least when the hatcheries aren't shut down).
 
-{% include _ads/article.html %}
-
 
 ## About the Creek
 

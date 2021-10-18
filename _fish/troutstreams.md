@@ -8,7 +8,6 @@ image: convictcreek.jpg
 
 Trout in streams are a whole 'nother beast compared to the [stocker trout we catch in lakes](\trout). The #1 rule to remember is that now, you're going to be fishing a creek - the water is shallower, and the water is moving - so the fish will behave differently. In the article, I'll try and stay away from complicated terminology, and start with the absolute basics (this is mostly a spin fishing guide, not fly fishing). Read on to find out more.
 
-{% include _ads/article.html %}
 
 ## First off, your setup:
 

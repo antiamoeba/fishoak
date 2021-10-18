@@ -7,8 +7,6 @@ image: loch-lomond.jpg
 
 Loch Lomond is a gem. Nestled in the tree-covered hills above Santa Cruz, Loch Lomond's natural beauty rivals its fishing.
 
-{% include _ads/article.html %}
-
 
 ## About the Lake
 

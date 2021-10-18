@@ -7,8 +7,6 @@ image: convictcreek.jpg
 
 Located just south of Mammoth Lakes by Lake Crowley, Convict Creek is a gem of the Eastern Sierras. It's a small creek, but the beautiful aspens that line the banks combined with the DFG's regular stocking make it a great place to fish.
 
-{% include _ads/article.html %}
-
 
 ## About the Creek
 

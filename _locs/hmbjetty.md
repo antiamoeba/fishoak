@@ -7,8 +7,6 @@ image: hmb_north_jetty.jpg
 
 Located just a convenient 45 minutes away from the South Bay, there are two main jetties located around Pillar Point Harbor - one on the north end, and one on the south end. I've heard the south jetty referred to as "Princeton Jetty", especially on surf sites if you'd like to check the wave conditions. No fishing license is required to fish off either jetty here. However, the jetty is usually never crowded - it's large enough, and also treacherous enough, that there's always ample room between fishermen.
 
-{% include _ads/article.html %}
-
 ## About the Jetties
 
 The north jetty for the most part faces directly to the ocean. As a result, the waves are usually much larger at this jetty compared to the neighboring south jetty. Close to shore, people often snare for rock crab or fish for sandy shore species like surfperch. Not many people go out to the end - the further out you go, the bigger the waves, and there seems to be an exponentially larger amount of bird crap that smells like the seven hells and attracts hordes of flies. However, the water gets much deeper, and as a result rockfish, lingcod, and cabezon start adding to the mix. Some squid on a high-low rig or a swimbait of some kind will do the job. I tend to fish the harbor-facing side of this jetty because it is much less rough than the other side. I usually just drop my bait straight down next to the rocks, which seems to do pretty well - I've often caught multiple fish out of the same hole.

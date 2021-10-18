@@ -8,7 +8,6 @@ image: trout.jpg
 
 Trout are the species of choice when freshwater fishing in the cooler months in the Bay Area. Every winter and spring, the Department of Fish and Game drives thousands of hatchery trout to our local lakes, specifically for fishermen to catch and take home. Local park districts, like the EBRPD, supplement with their own stockings. What this means is the fishing can be heavily dependent on when these trout plants occur, so keep an eye on the schedule (<a href="https://nrm.dfg.ca.gov/fishplants/">DFG</a>, <a href="https://www.ebparks.org/activities/fishing/anglersedge/">EBRPD</a>) when planning a trip.
 
-{% include _ads/article.html %}
 
 ## How to Catch Bay Area Trout
 

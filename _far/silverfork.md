@@ -7,9 +7,6 @@ image: silverfork.jpg
 
 Located just off Highway 50 near Kyburz, the Silver Fork of the American River is a small river that contains a mix of stocked trout by the campgrounds and wild fish in the other stretches. It's a nice place to stop for some fishing on the way to Tahoe.
 
-{% include _ads/article.html %}
-
-
 ## About the Creek
 
 For the most part, the creek alternates between slower moving meadow stretches and faster moving granite-walled channels. There are a lot of obvious deep pools here that hold a lot of fish. If you want to catch stockers, find the campgrounds and the bridges and fish the pools next to them - nightcrawlers and mice tails will do the trick, drifted through the pool. The fish aren't huge but they can be a lot of fun for the kids.
