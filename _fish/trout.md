@@ -166,17 +166,16 @@ Here are a few lures you should have in your tackle box:
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/3dePzpx" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCB3M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<a href="https://amzn.to/3pqIyHL" target="_blank">
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009AVIIBS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
 </a>
 </div>
 <div>
-    <h4>Rapala</h4>
-    <div>A classic jerkbait for trout. I usually use these when fishing off a boat, but they work ok when casted from shore (don't really cast as far as I would like them to, but maybe I'm spoiled by Kastmasters). They're designed to wiggle like an injured baitfish. There are a few different models of these lures, but I tend to stick with the floating original.</div>
-    <a href="https://amzn.to/3dePzpx" class="buybutton" target="_blank">See on Amazon</a>
+    <h4>Mini jig, 1/16 or 1/32 oz</h4>
+    <div>A small tube that can be twitched in the water to entice wary trout. Keep your rod tip high, and wiggle the lure in the middle of the water column. Can be very effective, especially if you can see the fish. Can be hard to cast far, unless you're using very light line (2 - 4 lb)</div>
+    <a href="https://amzn.to/3pqIyHL" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
-
 
 <div class="gear">
 <div class="gearimg">
@@ -190,6 +189,20 @@ Here are a few lures you should have in your tackle box:
     <a href="https://amzn.to/2MjvqUq" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
+
+<div class="gear">
+<div class="gearimg">
+<a href="https://amzn.to/3dePzpx" target="_blank">
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCB3M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+</a>
+</div>
+<div>
+    <h4>Rapala</h4>
+    <div>A classic jerkbait for trout. I usually use these when fishing off a boat, but they work ok when casted from shore (don't really cast as far as I would like them to, but maybe I'm spoiled by Kastmasters). They're designed to wiggle like an injured baitfish. There are a few different models of these lures, but I tend to stick with the floating original.</div>
+    <a href="https://amzn.to/3dePzpx" class="buybutton" target="_blank">See on Amazon</a>
+</div>
+</div>
+
 
 {% include _gear/disclaimer.html %}
 
