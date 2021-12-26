@@ -44,4 +44,8 @@ Some of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+## Some of Our Adventures
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qcOhpJ5TQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

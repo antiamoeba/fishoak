@@ -217,7 +217,7 @@ In general, when I pick a spot on the lake I try and choose an area of the water
 
 In the South Bay, [Sandy Wool Lake](/sandywool) is a small pond that gets stocked every 2-3 weeks in the winter months with trout. [Stevens Creek Reservoir](/stevenscreek), Lexington Reservoir, Lake Cunningham, and the Campbell Percolation Ponds used to get planted with trout by the DFG, but no longer. If you're willing to make the drive, [Loch Lomond](/lochlomond) off Highway 17 is a decent place to cast a line in the spring.
 
-A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lakeshore Park in Newark, Quarry Lakes in Fremont, Shadow Cliffs Reservoir in Pleasanton, Contra Loma Reservoir in Antioch, Don Castro Reservoir in Hayward, Lake Temescal in Oakland, [Lafayette Reservoir](/lafayette), and San Pablo Reservoir in El Sobrante all regularly receive trout plants.
+A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lakeshore Park in Newark, [Quarry Lakes](/quarry) in Fremont, Shadow Cliffs Reservoir in Pleasanton, Contra Loma Reservoir in Antioch, Don Castro Reservoir in Hayward, Lake Temescal in Oakland, [Lafayette Reservoir](/lafayette), and San Pablo Reservoir in El Sobrante all regularly receive trout plants.
 
 In the San Francisco/San Mateo area, Lake Merced is pretty much your only option, and it doesn't really get stocked all that often. So make the drive to the East Bay.
 

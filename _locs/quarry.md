@@ -20,6 +20,9 @@ A somewhat less popular spot is the area around the fish tube. The water here is
 
 Most other spots on the lake get much less pressure. Some fishermen swear by certain spots on the backside of the lake. It does seem like there are many brush piles and shallow stretches on the backside, so pick your spot wisely if you do intend to avoid the crowds.
 
+![Trout at Horseshoe Lake](/assets/images/quarry_trout.jpg)
+<div class="caption">A Nice Trout from Horseshoe Lake</div>
+
 During the summer, the EBPRD occasionally stocks channel catfish in Horseshoe. Nightcrawlers, cut bait, shrimp, stinkbaits, and other classic catfish baits do the job.
 
 On the bass in Horseshoe - I've never tried myself. However, most of the lake bottom seems to be fairly featureless, so I suspect you might have to stick with spinnerbaits, crankbaits, and other lures that let you cover a large amount of water. I've heard there are big bass (largemouth and smallmouth) in here, so it might be worth a shot.
@@ -41,3 +44,9 @@ Official website: [EBPRD](https://www.ebparks.org/parks/quarry-lakes)
 {% include _gear/trout.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
+
+## Some of Our Adventures
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4MgWj2_iJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
