@@ -48,5 +48,11 @@ Official website: [EBPRD](https://www.ebparks.org/parks/quarry-lakes)
 ## Some of Our Adventures
 
 <p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stySNqpSpIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCEMmAs7_ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R4MgWj2_iJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
