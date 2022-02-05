@@ -24,6 +24,8 @@ There's an island with a boat dock and a few picnic tables that can be a fun pla
 
 ## Notes
 
+Loch Lomond is usually seasonally closed from October to the beginning of March. Double check that the park is open before you go.
+
 Loch Lomond recently started renting out kayaks from the marina, at very cheap prices. The marina also rents rowboats, paddle boats, and motorboats, and sells refreshments, worms, and some fishing gear.
 
 Access to Loch Lomond was closed for a couple years due to the drought here in California. That gave some time for the populations of the wild bluegill and bass to rebound after years of pounding by Bay Area fishermen. Hopefully the fishing remains good in the upcoming years, and practice catch and release if you can.

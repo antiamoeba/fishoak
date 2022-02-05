@@ -18,7 +18,9 @@ Another popular spot is the so-called "Fisherman's Row" - a stretch of easily-ac
 
 A somewhat less popular spot is the area around the fish tube. The water here is quite deep, and the shoreline can be steep and hard to access. Powerbait, mini jigs, and Kastmasters do well here. However, expect big crowds if the trout are being stocked at the fish tube.
 
-Most other spots on the lake get much less pressure. Some fishermen swear by certain spots on the backside of the lake. It does seem like there are many brush piles and shallow stretches on the backside, so pick your spot wisely if you do intend to avoid the crowds.
+Most other spots on the lake get somewhat less pressure. Some fishermen swear by certain spots on the backside of the lake - the backside of the peninsula seems to be especially popular. It does seem like there are many brush piles and shallow stretches on the backside, so pick your spot wisely if you do intend to avoid the crowds.
+
+The Lassens that the EBPRD puts in the lake can be quite sizeable, so make sure you set your drag appropriately and bring a net.
 
 ![Trout at Horseshoe Lake](/assets/images/quarry_trout.jpg)
 <div class="caption">A Nice Trout from Horseshoe Lake</div>
