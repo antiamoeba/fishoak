@@ -5,7 +5,7 @@ image: stevens-creek.jpg
 
 # Fishing Stevens Creek Reservoir
 
-To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded by tree-covered hills, it is a pretty place to be, and can be a nice area to take a walk. But the fishing is pretty terrible.
+To be honest, Stevens Creek Reservoir is not a great place to fish. Surrounded by tree-covered hills near Cupertino, it is a pretty place to be, and can be a nice area to take a walk. But the fishing is pretty terrible.
 
 ## About the Lake
 
@@ -13,7 +13,10 @@ Stevens Creek has a pretty hefty case of the bathtub rings - it's a big victim o
 
 The DFG used to stock this lake with trout, but no more. Nowadays most people fish for the few resident bass. Try the shady areas around the lake, on the dam, or whatever structure you can find. People do okay with dropshots. The evening topwater bite is also decent - I've gotten nice hits on poppers. The key here is really to just keep moving, and find where the fish are.
 
-People also catch a decent amount of carp here. There are also a few bluegill here and there in some of the shallower coves, but you need to hunt them down.
+People also catch a decent amount of carp here. There are also a few bluegill here and there in some of the shallower coves, but you need to hunt them down - worms do the trick. There are also some crappie, but most people don't really target them, and they can be somewhat hard to find. They aren't big, but they can be fun on light tackle; we've had success throwing small jigs, like an [Atomic Teaser](https://amzn.to/3pqIyHL){:target="_blank"}.
+
+![A crappie caught off the back side of the reservoir](/assets/images/stevens_crappie.jpg)
+<div class="caption">A crappie caught off the back side of the reservoir</div>
 
 ## Notes
 
@@ -23,9 +26,9 @@ There's also a shooting range across the street. The noise can be very annoying 
 
 If you want to avoid paying the parking fee, just park along the road just outside the lot. Or just don't pay the fee and park inside - many people I've seen do that (at your own risk, of course). 
 
-If you're thinking about keeping the fish you catch, keep in mind that [the OEHHA recommends that you do not eat the fish out of Stevens Creek](https://oehha.ca.gov/advisories/stevens-creek-reservoir).
+If you're thinking about keeping the fish you catch, keep in mind that [the OEHHA recommends that you do not eat the fish out of Stevens Creek](https://oehha.ca.gov/advisories/stevens-creek-reservoir){:target="_blank"}.
 
-Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfinder/Pages/StevensCreek.aspx)
+Official website: [Santa Clara County](https://www.sccgov.org/sites/parks/parkfinder/Pages/StevensCreek.aspx){:target="_blank"}
 
 ## Recommended Gear
 
