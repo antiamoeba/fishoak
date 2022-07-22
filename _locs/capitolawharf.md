@@ -1,6 +1,6 @@
 ---
 title: Capitola Wharf
-image: capitolawharf.jpg
+image: capitolawharf.webp
 ---
 
 # Fishing Capitola Wharf
@@ -26,7 +26,7 @@ Supposedly this pier is supposed to be one of the best piers in the state for wh
 
 
 
-![A jacksmelt](/assets/images/capitolasmelt.jpg)
+![A jacksmelt](/assets/images/capitolasmelt.webp)
 <div class="caption">A jacksmelt caught off the end of the pier on a trout rod with a strip of squid. They can be a lot of fun on light tackle.</div>
 
 ## Notes

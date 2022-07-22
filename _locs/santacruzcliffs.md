@@ -1,6 +1,6 @@
 ---
 title: Santa Cruz Cliffs
-image: scc.jpg
+image: scc.webp
 ---
 
 # Fishing the Santa Cruz Cliffs
@@ -16,7 +16,7 @@ In general, this stretch of coastline provides a nice mix of rocky and sandy-sho
 Be careful when fishing these cliffs - many are quickly eroding, and a single false step could end up with you plummeting into the ocean. In addition, the waves here tend to be somewhat larger compared to the coastline north and south of this stretch, so if you find a spot closer to the water use extra caution. There can also be a decent number of surfers near the beaches, who can be somewhat confrontational to nearby fishermen (from personal experience).
 
 
-![A striped surfperch](/assets/images/scperch.jpg)
+![A striped surfperch](/assets/images/scperch.webp)
 <div class="caption">A striped surfperch caught along this section of coast</div>
 
 ## Notes

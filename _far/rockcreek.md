@@ -1,6 +1,6 @@
 ---
 title: Rock Creek
-image: upperrockcreek.jpg
+image: upperrockcreek.webp
 ---
 
 # Fishing Rock Creek
@@ -18,7 +18,7 @@ Between East Fork to about Pine Grove, the stream returns into a fast moving, po
 
 Above Rock Creek Lake, the creek mostly returns to its freestone roots. A lot of people fly fish in this area - near Mosquito Flats, you can often people taking fly fishing lessons. Above Mosquito Flats, Rock Creek forms a number of small lakes and ponds in what is known as the Little Lakes Valley. At around 10,000 feet, hiking here provides views of beautiful high-altitude scenery. The hikes are also fairly flat, making this area a good choice for kids. The lakes here have mostly brook trout, although some have rainbows, browns, and goldens - check out [this website](https://flyfishingthesierra.com/rcreekbc.htm) for more info.
 
-![A happy fisherman with a stocker rainbow pulled out from Rock Creek](/assets/images/rockcreektrout.jpg)
+![A happy fisherman with a stocker rainbow pulled out from Rock Creek](/assets/images/rockcreektrout.webp)
 <div class="caption">A stocker rainbow pulled out from Rock Creek near Pine Grove</div>
 
 ## Notes

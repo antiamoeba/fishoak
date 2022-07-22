@@ -1,7 +1,7 @@
 ---
 title: Bay Area Trout
 short_title: Trout
-image: trout.jpg
+image: trout.webp
 ---
 
 # Your Guide to Fishing for Bay Area Trout

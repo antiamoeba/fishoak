@@ -1,6 +1,6 @@
 ---
 title: Lafayette Reservoir
-image: lafayette.jpg
+image: lafayette.webp
 ---
 
 # Fishing Lafayette Reservoir

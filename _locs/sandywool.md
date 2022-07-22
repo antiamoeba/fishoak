@@ -1,6 +1,6 @@
 ---
 title: Sandy Wool Lake
-image: sandy-wool.jpg
+image: sandy-wool.webp
 ---
 
 # Fishing Sandy Wool
@@ -18,7 +18,7 @@ There are many cormorants and large birds here. Fishermen here often gripe over 
 
 There also is a kids' fishing pond down the road which used to get stocked back in the day, but people still catch some big carp.
 
-![Trout at Sandy Wool](/assets/images/swtrout.jpg)
+![Trout at Sandy Wool](/assets/images/swtrout.webp)
 <div class="caption">Trout at Sandy Wool</div>
 
 ## Notes

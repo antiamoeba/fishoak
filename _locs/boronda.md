@@ -1,6 +1,6 @@
 ---
 title: Boronda Lake
-image: boronda.jpg
+image: boronda.webp
 ---
 
 # Fishing Boronda Lake

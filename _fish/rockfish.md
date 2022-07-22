@@ -1,7 +1,7 @@
 ---
 title: Bay Area Rockfish
 short_title: Rockfish
-image: rockfish.jpg
+image: rockfish.webp
 ---
 
 # Your Guide to Catching Bay Area Rockfish from Shore

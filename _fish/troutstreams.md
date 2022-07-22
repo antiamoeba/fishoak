@@ -1,7 +1,7 @@
 ---
 title: Trout in Streams
 short_title: Trout in Streams
-image: convictcreek.jpg
+image: convictcreek.webp
 ---
 
 # A Crash Course to Catching Trout in Streams
@@ -71,7 +71,7 @@ With these ideas in mind, let's talk the exact rig you should be using.
 
 If you want to fish bait, all you should be using is just a hook, and maybe 1-2 split shot if necessary - something like this:
 
-![split shot rig](http://ultimatefishingsite.net/wp-content/uploads/split-shot-rig-header-final-1.jpg)
+![split shot rig](http://ultimatefishingsite.net/wp-content/uploads/split-shot-rig-header-final-1.webp)
 
 Your goal is to get your bait to drift naturally in the current - so the less weight, the better, unless you really need the extra casting distance or the current is too fast. I usually get lead-free split shots - something like [this](https://amzn.to/39gywAt). I combine it with a [size 8 baitholder hook](https://amzn.to/3Ad94Ys). For bait, I mainly use three or four different things:
 

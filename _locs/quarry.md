@@ -1,6 +1,6 @@
 ---
 title: Quarry Lakes
-image: quarry.jpg
+image: quarry.webp
 ---
 
 # Fishing Quarry Lakes
@@ -22,7 +22,7 @@ Most other spots on the lake get somewhat less pressure. Some fishermen swear by
 
 The Lassens that the EBPRD puts in the lake can be quite sizeable, so make sure you set your drag appropriately and bring a net.
 
-![Trout at Horseshoe Lake](/assets/images/quarry_trout.jpg)
+![Trout at Horseshoe Lake](/assets/images/quarry_trout.webp)
 <div class="caption">A Nice Trout from Horseshoe Lake</div>
 
 During the summer, the EBPRD occasionally stocks channel catfish in Horseshoe. Nightcrawlers, cut bait, shrimp, stinkbaits, and other classic catfish baits do the job.

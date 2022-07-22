@@ -1,6 +1,6 @@
 ---
 title: Loch Lomond
-image: loch-lomond.jpg
+image: loch-lomond.webp
 ---
 
 # Fishing Loch Lomond

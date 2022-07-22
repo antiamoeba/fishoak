@@ -1,6 +1,6 @@
 ---
 title: Convict Creek
-image: convictcreek.jpg
+image: convictcreek.webp
 ---
 
 # Fishing Convict Creek
@@ -19,7 +19,7 @@ Time can be fairly important here. Earlier on in the summer season when the air 
 I've caught a few pan-sized brown trout in this stretch, usually on some kind of lure worked in the current. There are probably some bigger fellas out there, but I haven't caught any myself...
 
 
-![A stringer of trout caught from Convict Creek](/assets/images/convictcreekstringer.jpg)
+![A stringer of trout caught from Convict Creek](/assets/images/convictcreekstringer.webp)
 <div class="caption">A stringer of trout caught from Convict Creek</div>
 
 ## Notes

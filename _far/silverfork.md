@@ -1,6 +1,6 @@
 ---
 title: Silver Fork American River
-image: silverfork.jpg
+image: silverfork.webp
 ---
 
 # Fishing the Silver Fork American River
@@ -17,7 +17,7 @@ For some reason most of the fish here seem to like attacking lures and bait righ
 
 On another note, this river very pretty. Much of the river is not developed and fairly isolated, so it's a great place to disconnect from the world not far from home in the Bay Area.
 
-![A pool under a bridge on the Silver Fork](/assets/images/silverfork2.jpg)
+![A pool under a bridge on the Silver Fork](/assets/images/silverfork2.webp)
 <div class="caption">A pool under a bridge on the Silver Fork</div>
 
 ## Notes

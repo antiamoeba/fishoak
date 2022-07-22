@@ -1,6 +1,6 @@
 ---
 title: Stevens Creek Reservoir
-image: stevens-creek.jpg
+image: stevens-creek.webp
 ---
 
 # Fishing Stevens Creek Reservoir

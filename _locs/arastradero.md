@@ -1,6 +1,6 @@
 ---
 title: Arastradero Lake
-image: arastradero.jpg
+image: arastradero.webp
 ---
 
 # Fishing Arastradero Lake
@@ -19,7 +19,7 @@ If you're searching for bigger bass, pitch soft plastics around the tules, where
 
 I've also seen some pretty big bluegill here, but they are finicky. Worms should be moderately successful.
 
-![Weeds at Arastradero Lake](/assets/images/arastraderoweeds.jpg)
+![Weeds at Arastradero Lake](/assets/images/arastraderoweeds.webp)
 <div class="caption">Weeds at Arastradero Lake</div>
 
 ## Notes
