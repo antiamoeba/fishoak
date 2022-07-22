@@ -15,7 +15,7 @@ The DFG used to stock this lake with trout, but no more. Nowadays most people fi
 
 People also catch a decent amount of carp here. There are also a few bluegill here and there in some of the shallower coves, but you need to hunt them down - worms do the trick. There are also some crappie, but most people don't really target them, and they can be somewhat hard to find. They aren't big, but they can be fun on light tackle; we've had success throwing small jigs, like an [Atomic Teaser](https://amzn.to/3pqIyHL){:target="_blank"}.
 
-![A crappie caught off the back side of the reservoir](/assets/images/stevens_crappie.jpg)
+![A crappie caught off the back side of the reservoir](/assets/images/stevens_crappie.webp)
 <div class="caption">A crappie caught off the back side of the reservoir</div>
 
 ## Notes
