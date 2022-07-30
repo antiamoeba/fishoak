@@ -8,6 +8,9 @@ collections:
     fish:
         output: true
         permalink: /:title
+    other:
+        output: true
+        permalink: /:title
 
 
 defaults:

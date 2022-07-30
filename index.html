@@ -46,5 +46,13 @@ layout: home
 <div class="card-header">
     <h2>and many more to be added...</h2>
 </div>
+{% for other in site.other %}
+<a href="{{other.url}}" class="invis">
+    <div class="tn">
+        <img src="assets/images/{{other.image}}" />
+        <h2>{{other.short_title}}</h2>
+    </div>
+</a>
+{% endfor %}
 
 </div>

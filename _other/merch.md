@@ -1,0 +1,22 @@
+---
+title: Merchandise
+short_title: Merchandise
+image: shark.webp
+---
+
+<div id="myShop">
+    <a href="https://fishoak.myspreadshop.com">fishoak</a>
+</div>
+
+<script>
+    var spread_shop_config = {
+        shopName: 'fishoak',
+        locale: 'us_US',
+        prefix: 'https://fishoak.myspreadshop.com',
+        baseId: 'myShop'
+    };
+</script>
+
+<script type="text/javascript"
+        src="https://fishoak.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js">
+</script>
