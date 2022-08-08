@@ -36,6 +36,8 @@ Some of these spots have been hit quite hard in recent years, and as a result fi
 
 Some of the rockfish I've caught here are black-and-yellow rockfish, similar to other rocky-shore fishing spots in the rest of the state. If you intend on keeping the fish you catch, keep in mind that this particular species of rockfish are classified as high in methylmercury and PCBs, and you should limit <a href="https://oehha.ca.gov/advisories/statewide-advisory-eating-fish-california-coastal-locations-without-site-specific-advice">your consumption if possible</a>.
 
+[Check out my Bay Area rockfish fishing guide](/rockfish).
+
 ## Recommended Gear
 
 {% include _gear/crab.html %}

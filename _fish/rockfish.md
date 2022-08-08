@@ -110,7 +110,21 @@ If you want specific recommendations:
 
 ### Fishing with Bait
 
-When the goin gets tough, natural bait is always the way to go. If a fish sees a piece of squid or fish, it'll bite and hang on even in the worst of conditions. When you're fishing for rockfish, I usually recommend squid, shrimp, or pieces of cut fish. Shrimp often works great, but unfortunately the surfperch like it a lot as well - sometimes they'll hit the squid before your bait even hits bottom. So if you want to just target the rockfish, try and stick with the squid or fish. Anywhere from a small piece to a entire squid or fish will work for the rockfish.
+When the goin gets tough, natural bait is always the way to go. If a fish sees a piece of squid or fish, it'll bite and hang on even in the worst of conditions. When you're fishing for rockfish, I usually recommend squid, shrimp, or pieces of cut fish. Shrimp often works great, but unfortunately the surfperch like it a lot as well - sometimes they'll hit the squid before your bait even hits bottom. So if you want to just target the rockfish, try and stick with the squid or fish. Anywhere from a small piece to a entire squid or fish will work for the rockfish. If you can't carry fresh bait with you, I resort to Berkley Gulp Sandworms:
+
+<div class="gear">
+<div class="gearimg">
+<a href="https://amzn.to/3vMUJ4t" target="_blank">
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001H0G2H2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+</a>
+</div>
+<div>
+    <h4>Berkley Gulp Sandworms</h4>
+    <div>Dealing with squid or shrimp for bait can be a pain, with lugging around a cooler to keep it fresh, the bait falling off the hook, and potentially even running out. As a result, I like keeping a pack of these flavor-infused plastic sandworms in my tackle box just in case. They seem to work ok for rockfish, although not as good as the fresh stuff. These worms are also one of the best baits for catching surfperch off beaches on the West Coast.</div>
+    <a href="https://amzn.to/3vMUJ4t" class="buybutton" target="_blank">See on Amazon</a>
+</div>
+</div>
+
 
 How do you actually rig these baits up? Well, I like using a so-called high-low rig - a setup where your weight is placed at the end of the line, and two hooks hang off dropper loops a few inches above. You can buy these rigs on <a href="https://amzn.to/3rPcsUq">Amazon</a>, or just tie them yourself following the guide <a href="https://www.saltstrong.com/articles/high-low-rig/">here</a>. Sometimes when fishing for rockfish, I won't use the top dropper loop to avoid potential snags or tangles. I usually use anywhere from a size 2 to a size 6/0 hook for rockfish - they tend to have large mouths, so the larger hooks are helpful for good hookups.
 
