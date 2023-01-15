@@ -6,8 +6,7 @@ layout: home
 ---
 <link rel="stylesheet" type="text/css" href="assets/css/home.css">
 <div class="card-header">
-    <h2>The Bay Area's best fishing spots</h2>
-    The Bay Area has some of the best fishing in the world. From the oceans filled with rockfish and salmon to the bass and trout lakes in the hills, the Bay Area has something for every fisherman.
+    <h1>Fishing spots</h2>
 </div>
 {% for loc in site.locs %}
 <a href="{{loc.url}}" class="invis">
@@ -18,10 +17,10 @@ layout: home
 </a>
 {% endfor %}
 
-<div class="card-header">
+<!-- <div class="card-header">
     <h2>A Weekend Fishing Adventure</h2>
     Just a few hours drive away, the rivers of the Sierras, the forests of Northern California, and the Central California coast boast world-class fishing! Be sure to check out the following spots:
-</div>
+</div> -->
 {% for loc in site.far %}
 <a href="{{loc.url}}" class="invis">
     <div class="tn">
@@ -32,8 +31,7 @@ layout: home
 {% endfor %}
 
 <div class="card-header">
-    <h2>How to Catch Them</h2>
-    With so many fisheries in the area, how do you actually catch the fish? Here are a few guides for catching local fish:
+    <h1>Species guides</h1>
 </div>
 {% for fish in site.fish %}
 <a href="{{fish.url}}" class="invis">
@@ -43,8 +41,8 @@ layout: home
     </div>
 </a>
 {% endfor %}
-<div class="card-header">
-    <h2>and many more to be added...</h2>
+<!-- <div class="card-header">
+    <h1>Other</h1>
 </div>
 {% for other in site.other %}
 <a href="{{other.url}}" class="invis" target="_blank">
@@ -53,6 +51,6 @@ layout: home
         <h2>{{other.short_title}}</h2>
     </div>
 </a>
-{% endfor %}
+{% endfor %} -->
 
 </div>

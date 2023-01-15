@@ -1,7 +1,6 @@
 .content {
     width: 70%;
     margin-top: 0px;
-    text-align: center;
 }
 .tn {
     position: relative;
@@ -40,11 +39,7 @@
 }
 
 .card-header {
-    text-align: center;
     max-width: 500px;
-    padding-bottom: 150px;
-    padding-top: 150px;
-    margin:0 auto;
 }
 
 .card-header > h2 {
