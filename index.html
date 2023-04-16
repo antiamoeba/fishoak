@@ -1,56 +1,65 @@
 ---
 page_title: Fishoak - Bay Area Fishing
-title: <span class="fishoak">Fishoak</span> - Bay Area Fishing
-image: shark.webp
-layout: home
+layout: main
 ---
-<link rel="stylesheet" type="text/css" href="assets/css/home.css">
-<div class="card-header">
-    <h1>Fishing spots</h2>
-</div>
-{% for loc in site.locs %}
-<a href="{{loc.url}}" class="invis">
-    <div class="tn">
-        <img src="assets/images/{{loc.image}}" />
-        <h2>{{loc.title}}</h2>
-    </div>
-</a>
-{% endfor %}
+<style>
+    .title {
+        margin-top: 0px;
+        color: white;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 32px;
+        position: relative;
+    }
+    .fishoak {
+        font-family: 'Lobster', cursive;
+    }
+    .title .crop {
+        width: 100%;
+        max-height: 100vh;
+        overflow: hidden;
+    }
+    .title img {
+        width: 100%;
+        -webkit-filter: grayscale; 
+        -webkit-filter: brightness(80%); 
+    }
+    .title h1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        text-align: center;
+        margin: 0px;
+        
+        -webkit-filter: drop-shadow(2px 2px #333);
+        filter: drop-shadow(2px 2px #333);
+    }
+    .title .enter {
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        margin: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 10px;
+        background-color: red;
+        transition-duration: 0.4s;
+    }
+    .title .enter:hover {
+        background-color: white;
+        color: #555555;
+    }
+</style>
 
-<!-- <div class="card-header">
-    <h2>A Weekend Fishing Adventure</h2>
-    Just a few hours drive away, the rivers of the Sierras, the forests of Northern California, and the Central California coast boast world-class fishing! Be sure to check out the following spots:
-</div> -->
-{% for loc in site.far %}
-<a href="{{loc.url}}" class="invis">
-    <div class="tn">
-        <img src="assets/images/{{loc.image}}" />
-        <h2>{{loc.title}}</h2>
+<div class="title">
+    <div class="crop">
+        <img src="/assets/images/shark.webp"/>
     </div>
-</a>
-{% endfor %}
-
-<div class="card-header">
-    <h1>Species guides</h1>
-</div>
-{% for fish in site.fish %}
-<a href="{{fish.url}}" class="invis">
-    <div class="tn">
-        <img src="assets/images/{{fish.image}}" />
-        <h2>{{fish.short_title}}</h2>
-    </div>
-</a>
-{% endfor %}
-<!-- <div class="card-header">
-    <h1>Other</h1>
-</div>
-{% for other in site.other %}
-<a href="{{other.url}}" class="invis" target="_blank">
-    <div class="tn">
-        <img src="assets/images/{{other.image}}" />
-        <h2>{{other.short_title}}</h2>
-    </div>
-</a>
-{% endfor %} -->
-
+    <h1><span class="fishoak">Fishoak</span> - Bay Area Fishing</h1>
+    <a href="/dir" class="enter invis">SEE SPOTS</a>
 </div>

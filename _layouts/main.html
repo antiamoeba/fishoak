@@ -4,9 +4,10 @@
     {% if page.page_title %}
         <title>{{ page.page_title }}</title>
     {% else %}
-        <title>Fishoak - {{ page.title }}</title>
+        <title>{{ page.title }} Fishing</title>
     {% endif %}
     <link rel="stylesheet" type="text/css" href="/assets/css/fishoak.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/gear.css">
     <link rel="shortcut icon" type="image/png" href="/favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -19,21 +20,11 @@
 
     gtag('config', 'G-FY4JFTTM59');
     </script>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6039535274989015"
+    crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="title">
-        <div class="crop">
-            <img src="/assets/images/{{ page.image }}"/>
-        </div>
-        <h1>{{ page.title }}</h1>
-    </div>
-    <div class="content">
-        {{ content }}
-    </div>
-    <div class="head">
-        <a href="/" class="invis">
-            <h2><span class="fishoak">Fishoak</span></h2>
-        </a>
-    </div>
+    {{ content }}
 </body>
 </html>

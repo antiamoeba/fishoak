@@ -36,6 +36,19 @@ If you want some specific recommendations:
 
 <div class="gear">
 <div class="gearimg">
+<a href="https://amzn.to/41vAndt" target="_blank">
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010PO09MO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+</a>
+</div>
+<div>
+    <h4>Master Roddy Hunter Limited Edition</h4>
+    <div>Been using this cheap setup recently, seems to do pretty well and is rigged up with decent-enough 6 lb line. Decent amount of length for long casting, but still portable.</div>
+    <a href="https://amzn.to/41vAndt" class="buybutton" target="_blank">See on Amazon</a>
+</div>
+</div>
+
+<div class="gear">
+<div class="gearimg">
 <a href="https://amzn.to/3rbCgdo" target="_blank">
 <img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0001DWF54&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
 </a>
