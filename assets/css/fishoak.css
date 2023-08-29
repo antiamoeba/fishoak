@@ -2,11 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
     margin: 0px;
-    color: #555555;
+    color: #333;
     background-color: white;
+    font-size: 14px;
+}
+h1, h2, h3 {
+    font-weight: 600;
 }
 .invis {
     text-decoration: none;
@@ -23,15 +27,16 @@ body {
     padding-right: 20px;
     height: 60px;
     margin: 0px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    /* color: white; */
     line-height: 60px;
+    border-bottom: 1px #DDD solid;
 }
 .head h2 {
-    font-family: 'Roboto Condensed', sans-serif;
     padding: 0px;
     margin: 0px;
     float: left;
+    font-weight: 500;
 }
 .head h2:hover {
     text-decoration: underline;
@@ -40,6 +45,7 @@ body {
     padding: 0px;
     margin: 0px;
     float: right;
+    font-weight: 500;
 }
 .head .right h3 {
     font-family: 'Roboto Condensed', sans-serif;
@@ -63,6 +69,7 @@ body {
 }
 .fishoak {
     font-family: 'Lobster', cursive;
+    font-weight: 500;
 }
 .title .crop {
     width: 100%;
@@ -88,11 +95,43 @@ body {
 }
 .content {
     margin: 50px auto;
-    width: 50%;
-    min-width: 320px;
-}
-.content>p>img {
     width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+@media only screen and (min-width: 576px) {
+    .content {
+        width: 540px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .content {
+        width: 720px;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .content {
+        width: 960px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .content {
+        width: 1140px;
+    }
+}
+@media only screen and (min-width: 1400px) {
+    .content {
+        width: 1140px;
+    }
+}
+
+
+.content>p>img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .caption {
     text-align: center;
