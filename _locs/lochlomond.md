@@ -40,6 +40,7 @@ Official website: [City of Santa Cruz](https://www.cityofsantacruz.com/governmen
 
 {% include _gear/trout.html %}
 {% include _gear/bass.html %}
+{% include _gear/bluegill.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
