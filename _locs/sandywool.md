@@ -19,7 +19,7 @@ There are many cormorants and large birds here. Fishermen here often gripe over 
 There also is a kids' fishing pond down the road which used to get stocked back in the day, but people still catch some big carp.
 
 ![Trout at Sandy Wool](/assets/images/swtrout.webp)
-<div class="caption">Trout at Sandy Wool</div>
+<div class="caption">Trout at Sandy Wool, caught on a <a href="https://amzn.to/3aYUpEN" target="_blank">Thomas Buoyant</a></div>
 
 ## Notes
 
