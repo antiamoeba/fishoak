@@ -42,6 +42,14 @@
     max-width: 500px;
 }
 
-.card-header > h2 {
-    margin-top: 0;
+hr {
+    color: #888;
 }
+
+.card-header > h1 {
+    font-size: 40px;
+}
+
+/* .card-header > h2 {
+    margin-top: 0;
+} */

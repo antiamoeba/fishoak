@@ -1,17 +1,25 @@
 collections:
-    locs: 
+    ba: 
         output: true
         permalink: /:title
-    far:
+    pgh:
+        output: true
+        permalink: /:title
+    sierra:
+        output: true
+        permalink: /:title
+    seattle:
         output: true
         permalink: /:title
     fish:
         output: true
         permalink: /:title
+    travel:
+        output: true
+        permalink: /:title
     other:
         output: true
         permalink: /:title
-
 
 defaults:
     - scope:

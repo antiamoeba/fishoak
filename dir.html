@@ -6,9 +6,13 @@ layout: main
 <div class="content" style="margin-top: 80px;">
     <link rel="stylesheet" type="text/css" href="assets/css/home.css">
     <div class="card-header">
-        <h1>Fishing spots</h2>
+        <h1>Fishing Spots</h1>
     </div>
-    {% for loc in site.locs %}
+    <hr>
+    <div class="card-header">
+        <h2>Bay Area</h2>
+    </div>
+    {% for loc in site.ba %}
     <a href="{{loc.url}}" class="invis">
         <div class="tn">
             <img src="assets/images/{{loc.image}}" />
@@ -17,7 +21,11 @@ layout: main
     </a>
     {% endfor %}
 
-    {% for loc in site.far %}
+    <hr>
+    <div class="card-header">
+        <h2>The Sierras</h2>
+    </div>
+    {% for loc in site.sierra %}
     <a href="{{loc.url}}" class="invis">
         <div class="tn">
             <img src="assets/images/{{loc.image}}" />
@@ -26,6 +34,34 @@ layout: main
     </a>
     {% endfor %}
 
+    <hr>
+    <div class="card-header">
+        <h2>Seattle</h2>
+    </div>
+    {% for loc in site.seattle %}
+    <a href="{{loc.url}}" class="invis">
+        <div class="tn">
+            <img src="assets/images/{{loc.image}}" />
+            <h2>{{loc.title}}</h2>
+        </div>
+    </a>
+    {% endfor %}
+
+    <hr>
+    <div class="card-header">
+        <h2>Pittsburgh</h2>
+    </div>
+    {% for loc in site.pgh %}
+    <a href="{{loc.url}}" class="invis">
+        <div class="tn">
+            <img src="assets/images/{{loc.image}}" />
+            <h2>{{loc.title}}</h2>
+        </div>
+    </a>
+    {% endfor %}
+
+    <br>
+    <br>
     <div class="card-header">
         <h1>Species guides</h1>
     </div>
@@ -37,6 +73,18 @@ layout: main
         </div>
     </a>
     {% endfor %}
+
+    <!-- <div class="card-header">
+        <h1>Travel</h1>
+    </div>
+    {% for travel in site.travel %}
+    <a href="{{travel.url}}" class="invis">
+        <div class="tn">
+            <img src="assets/images/{{travel.image}}" />
+            <h2>{{travel.short_title}}</h2>
+        </div>
+    </a>
+    {% endfor %} -->
 
     </div>
 </div>
