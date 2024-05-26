@@ -23,7 +23,7 @@ If you want to fish from shore, you're probably out of luck. There are really on
 
 ## Notes
 
-There is a lot of bird poop on the shore of the lake - make sure to wear a pair of sneakers you don't mind getting dirty.
+Seems like a boat would be really helpful here, but I'm a shoreline angler.
 
 ## Recommended Gear
 
