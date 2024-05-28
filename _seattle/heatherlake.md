@@ -13,7 +13,10 @@ Heather Lake is a nice hike just an hour from Redmond. A few switchbacks up a sh
 
 This lake seems really shallow. I walked around the entirety of the lake, and most of the lake seems about a foot deep - at least the areas you can cast to. At the very back of the lake, there is a slight boulder field where the water seems to get a bit deeper, but I had no luck here over quite a few casts - I didn't see a single fish follow, and there was little insect life in the water. This gives me the suspicion that the fishing here isn't quite so great. There might be some bigger fish towards the center of the lake, but it's not easy to get to...
 
-There seems like a little lagoon that should be deep enough to hold fish. But this one too seemed pretty lifeless when I fished it too.
+![Heather Lake Back](/assets/images/heatherlakeback.webp)
+<div class="caption">Heather Lake from the back side.</div>
+
+There's also a little lagoon that seems like it should be deep enough to hold fish, on the left side of the lake. But this one seemed pretty lifeless when I fished it too.
 
 ![Heather Lake Spot](/assets/images/heatherlakecreek.webp)
 <div class="caption">A small "lagoon" that feeds Heather Lake.</div>
