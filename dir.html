@@ -12,67 +12,77 @@ layout: main
     <div class="card-header">
         <h2>Bay Area</h2>
     </div>
-    {% for loc in site.ba %}
-    <a href="{{loc.url}}" class="invis">
-        <div class="tn">
-            <img src="assets/images/{{loc.image}}" />
-            <h2>{{loc.title}}</h2>
-        </div>
-    </a>
-    {% endfor %}
+    <div class="tags">
+        {% for loc in site.ba %}
+        <a href="{{loc.url}}" class="invis">
+            <div class="tn">
+                <img src="assets/images/{{loc.image}}" />
+                <h2>{{loc.title}}</h2>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
 
-    <hr>
-    <div class="card-header">
+    <!-- <hr> -->
+    <div class="card-header spt">
         <h2>The Sierras</h2>
     </div>
-    {% for loc in site.sierra %}
-    <a href="{{loc.url}}" class="invis">
-        <div class="tn">
-            <img src="assets/images/{{loc.image}}" />
-            <h2>{{loc.title}}</h2>
-        </div>
-    </a>
-    {% endfor %}
+    <div class="tags">
+        {% for loc in site.sierra %}
+        <a href="{{loc.url}}" class="invis">
+            <div class="tn">
+                <img src="assets/images/{{loc.image}}" />
+                <h2>{{loc.title}}</h2>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
 
-    <hr>
-    <div class="card-header">
+    <!-- <hr> -->
+    <div class="card-header spt">
         <h2>Seattle</h2>
     </div>
-    {% for loc in site.seattle %}
-    <a href="{{loc.url}}" class="invis">
-        <div class="tn">
-            <img src="assets/images/{{loc.image}}" />
-            <h2>{{loc.title}}</h2>
-        </div>
-    </a>
-    {% endfor %}
+    <div class="tags">
+        {% for loc in site.seattle %}
+        <a href="{{loc.url}}" class="invis">
+            <div class="tn">
+                <img src="assets/images/{{loc.image}}" />
+                <h2>{{loc.title}}</h2>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
 
-    <hr>
-    <div class="card-header">
+    <!-- <hr> -->
+    <div class="card-header spt">
         <h2>Pittsburgh</h2>
     </div>
-    {% for loc in site.pgh %}
-    <a href="{{loc.url}}" class="invis">
-        <div class="tn">
-            <img src="assets/images/{{loc.image}}" />
-            <h2>{{loc.title}}</h2>
-        </div>
-    </a>
-    {% endfor %}
+    <div class="tags">
+        {% for loc in site.pgh %}
+        <a href="{{loc.url}}" class="invis">
+            <div class="tn">
+                <img src="assets/images/{{loc.image}}" />
+                <h2>{{loc.title}}</h2>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
 
     <br>
     <br>
     <div class="card-header">
         <h1>Species guides</h1>
     </div>
-    {% for fish in site.fish %}
-    <a href="{{fish.url}}" class="invis">
-        <div class="tn">
-            <img src="assets/images/{{fish.image}}" />
-            <h2>{{fish.short_title}}</h2>
-        </div>
-    </a>
-    {% endfor %}
+    <div class="tags">
+        {% for fish in site.fish %}
+        <a href="{{fish.url}}" class="invis">
+            <div class="tn">
+                <img src="assets/images/{{fish.image}}" />
+                <h2>{{fish.short_title}}</h2>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
 
     <!-- <div class="card-header">
         <h1>Travel</h1>

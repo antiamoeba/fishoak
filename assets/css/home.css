@@ -2,6 +2,9 @@
     /* width: 70%; */
     margin-top: 0px;
 }
+.tags {
+    /* text-align: center; */
+}
 .tn {
     position: relative;
     margin: 0px;
@@ -43,11 +46,19 @@
 }
 
 hr {
-    color: #888;
+    /* #color: #DDD; */
+    box-sizing: border-box;
+  border: 0 none transparent;
+  border-top: 1px solid #CCC;
 }
 
 .card-header > h1 {
     font-size: 40px;
+}
+
+.spt {
+    margin-top: 30px;
+    /* font-size: 18px;*/
 }
 
 /* .card-header > h2 {
