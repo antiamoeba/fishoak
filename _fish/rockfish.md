@@ -27,7 +27,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2LECElu" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GKG5LQX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -40,7 +40,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2OnwbfM" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07L4B5Z78&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -53,7 +53,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3tM6UMj" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0KM8GE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -66,7 +66,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3tMx3Lg" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NIW4O18&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -81,7 +81,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3rF3Gs8" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003CUM7GU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -94,7 +94,7 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3d6G8s7" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00144EUNY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -115,7 +115,7 @@ When the goin gets tough, natural bait is always the way to go. If a fish sees a
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3vMUJ4t" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001H0G2H2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -133,7 +133,7 @@ Here are the sinkers I use for my high-low rigs:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3j6FdsP" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08BS6DZWF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -146,7 +146,7 @@ Here are the sinkers I use for my high-low rigs:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3cuzE5Z" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083GGZ2A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -159,7 +159,7 @@ Here are the sinkers I use for my high-low rigs:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/39AS1od" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AUUZV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -183,7 +183,7 @@ In terms of hard baits, most people use some sort of jig, which can get pretty e
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/39AU9wg" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00579WQBK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -200,7 +200,7 @@ A lot of fishermen also like using something called a shrimp fly:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/37d6Z1U" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003D8Z8H6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>

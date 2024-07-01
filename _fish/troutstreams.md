@@ -18,7 +18,7 @@ If you want some specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2Mf4Bkd" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000BY56T&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -31,7 +31,7 @@ If you want some specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3rbCgdo" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0001DWF54&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -80,7 +80,7 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3limqw3" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SYQTB8E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -93,7 +93,7 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2YwFiwp" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EO96ZKM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -106,7 +106,7 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3ra2ZGZ" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LDYHV7W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -119,7 +119,7 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3nFuslJ" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07SJ95TV1&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -134,7 +134,7 @@ If you want to use lures, your typical lures for trout in lakes will probably wo
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3ag6G7m" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AUXS2&Format=_SL400_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -147,7 +147,7 @@ If you want to use lures, your typical lures for trout in lakes will probably wo
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3aYUpEN" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00019ND8G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -160,7 +160,7 @@ If you want to use lures, your typical lures for trout in lakes will probably wo
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3pAlDHK" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AUUHN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -173,7 +173,7 @@ If you want to use lures, your typical lures for trout in lakes will probably wo
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2MjvqUq" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0010FFKXG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>

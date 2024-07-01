@@ -24,7 +24,7 @@ If you want some specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2Mf4Bkd" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000BY56T&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -37,7 +37,7 @@ If you want some specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/41vAndt" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010PO09MO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -50,7 +50,7 @@ If you want some specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3rbCgdo" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0001DWF54&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -70,7 +70,7 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3thy8dM" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0039YJYVA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -83,7 +83,7 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2YwFiwp" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EO96ZKM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -96,7 +96,7 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/39yXBHw" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002X4AH7M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -109,7 +109,7 @@ Fishing with bait is perhaps the most common technique that Bay Area fishermen u
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3ra2ZGZ" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LDYHV7W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -141,7 +141,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3ag6G7m" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AUXS2&Format=_SL400_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -154,7 +154,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3aYUpEN" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00019ND8G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -167,7 +167,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3pAlDHK" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AUUHN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -180,7 +180,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3pqIyHL" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009AVIIBS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -193,7 +193,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/2MjvqUq" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0010FFKXG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
@@ -206,7 +206,7 @@ Here are a few lures you should have in your tackle box:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3dePzpx" target="_blank">
-<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCB3M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fishoak-20&language=en_US" >
+<img border="0" src="/assets/images/questionmark.svg">
 </a>
 </div>
 <div>
