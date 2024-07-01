@@ -53,4 +53,4 @@ If you had a float tube of some kind, it might be helpful for getting towards th
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

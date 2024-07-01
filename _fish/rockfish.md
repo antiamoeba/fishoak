@@ -221,4 +221,4 @@ We've written articles on rockfishing from shore at the <a href="/hmbjetty">Half
 
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

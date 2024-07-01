@@ -31,4 +31,4 @@ Seems like a boat would be really helpful here, but I'm a shoreline angler.
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

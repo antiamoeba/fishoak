@@ -28,4 +28,4 @@ There is a lot of bird poop on the shore of the lake - make sure to wear a pair 
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

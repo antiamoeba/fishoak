@@ -51,4 +51,4 @@ Parking at the trailhead requires an annual <a href="https://www.fs.usda.gov/det
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

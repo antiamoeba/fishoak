@@ -187,4 +187,4 @@ With that, you're all set to start fishing for trout in streams! Just remember -
 
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

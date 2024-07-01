@@ -36,4 +36,4 @@ Getting down to the creek can be kind of tough - the banks can often be quite st
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

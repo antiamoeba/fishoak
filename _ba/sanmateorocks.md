@@ -33,4 +33,4 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}

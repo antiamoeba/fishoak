@@ -39,4 +39,4 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/disqus.html %}
+{% include _comments/fb.html %}
