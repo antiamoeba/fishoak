@@ -5,7 +5,7 @@ image: shadowcliffs.webp
 
 # Fishing Shadow Cliffs
 
-Shadow Cliffs Reservoir is a converted gravel quarry that is stocked with trout and catfish. There are a few bass ponds within the park that provide additional fishing.
+Shadow Cliffs Reservoir is a converted gravel quarry that is stocked with trout and catfish by the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=27417&RegionCountyMappings=&submit=Search) and [EBRPD](https://www.ebparks.org/recreation/fishing/anglers-edge-online). There are a few bass ponds within the park that provide additional fishing.
 
 <span style="color:red">This page is under construction, need to fish at this lake more ☺️ Please check back later for more info!</span>
 

@@ -5,7 +5,7 @@ image: loch-lomond.webp
 
 # Fishing Loch Lomond
 
-Loch Lomond is a gem. Nestled in the tree-covered hills above Santa Cruz, Loch Lomond's natural beauty rivals its fishing.
+Loch Lomond is a gem. Nestled in the tree-covered hills above Santa Cruz, Loch Lomond's natural beauty rivals its fishing. It is stocked in the spring and early summer with trout by the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=4913&RegionCountyMappings=&submit=Search).
 
 
 ## About the Lake
