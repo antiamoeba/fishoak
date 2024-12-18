@@ -13,7 +13,13 @@ Always keep your eyes on the ocean! Like the [Santa Cruz Cliffs](/santacruzcliff
 
 In general, the rocky stretches of coastline here can be fished at both low tide or high tide. A simple high/low rig, baited with shrimp or squid, works quite well for rockfish, striped surfperch, and the occasional cabezon. Be prepared to bring a lot of extra tackle, as it can be very easy to snag and break off. In general, try and find the deeper holes and deeper water, as there can be a lot of variation in depth close to shore. Keep in mind spots that are excellent at high tide can be left high and dry when the tide gets low, so be prepared to move around if there is significant tidal variation.
 
+If you can find a nice access point to deeper water, swimbaits rigged on a jighead or Texas rig can net you a couple rockfish --- the typical catch will be black or blue rockfish. When I have been targeting perch here in the past, lingcod have occasionally latched onto a tiny piece of shrimp, for whatever reason.
+
 At strong minus tides, these beaches can be great places to do some poke-poling - basically sticking your bait in the deep holes under boulders and rocks to catch trapped fish. With a small strip of squid and a good pair of boots or waders, you can catch some nice monkeyface eels and small rockfish. These fish seem to be experts at stealing bait, so make sure to bring a lot of extra.
+
+If you're interested in crab, I've done pretty well at the rocky beaches here throwing snares for rock crab. The sandier areas will net you a sprinkling of Dungeness.
+
+Sometimes, the fishing can be slow, if the waves are choppy and mother nature does not cooperate. But the coastline views of the ocean here are incredible --- you won't regret making the drive.
 
 ![A monkeyface prickleback caught along this section of coast](/assets/images/smeel.webp)
 <div class="caption">A monkeyface prickleback caught along this section of coast</div>
@@ -29,6 +35,7 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 ## Recommended Gear
 
 {% include _gear/rocky.html %}
+{% include _gear/crab.html %}
 {% include _gear/disclaimer.html %}
 
 {% include _ads/article.html %}
