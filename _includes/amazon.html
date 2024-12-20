@@ -1,0 +1,6 @@
+{% assign img = site.data.ids_to_imgs | find: "id", include.id %}
+{% if img == nil %}
+    <img border="0" src="/assets/images/questionmark.svg">
+{% else %}
+    <img border="0" src='{{img.img}}'>
+{% endif %}
