@@ -1,6 +1,5 @@
-{% assign img = site.data.ids_to_imgs | find: "id", include.id %}
-{% if img == nil %}
-    <img border="0" src="/assets/images/questionmark.svg">
-{% else %}
-    <img border="0" src='{{img.img}}'>
-{% endif %}
+{% for img_data in site.data.ids_to_imgs %}
+    {% if img_data.id == include.id %}
+        <img border="0" src='{{img_data.img}}'>
+    {% endif %}
+{% endfor %}
