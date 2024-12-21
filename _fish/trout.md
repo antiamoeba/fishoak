@@ -22,35 +22,22 @@ When fishing for trout, I prefer using a light or ultra-light setup, spooled wit
 If you want some specific recommendations:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2Mf4Bkd" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Daiwa Minispin Travel Combo</h4>
-    <div>My favorite trout rod of all time. These setups are 4 or 5 piece rod-and-reel combos that fit in a small portable travel case. I've used this combo when fishing here in the Bay Area, on backcountry hikes in the Sierras, and even off piers in the ocean. A sturdy setup that has never failed me.</div>
-    <a href="https://amzn.to/2Mf4Bkd" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/41vAndt" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Master Roddy Hunter Limited Edition</h4>
-    <div>Been using this cheap setup recently, seems to do pretty well and is rigged up with decent-enough 6 lb line. Decent amount of length for long casting, but still portable.</div>
-    <a href="https://amzn.to/41vAndt" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+    <a href="https://amzn.to/2Mf4Bkd" target="_blank">
+    {% include amazon.html id="B000MQTJW2" %}
+    </a>
+    </div>
+    <div>
+        <h4>Okuma Avenger Travel Kit</h4>
+        <div>My current trout rod of choice. It's a 6 foot spinning rod that comes in 5 pieces in a travel case, making it portable for whatever fishing you might need to do. It's light enough to be able to cast tiny lures long distances, but also works just fine for your classic bait-and-wait fishing.</div>
+        <a href="https://amzn.to/2Mf4Bkd" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3rbCgdo" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+{% include amazon.html id="B0001DWF54" %}
 </a>
 </div>
 <div>
@@ -60,63 +47,103 @@ If you want some specific recommendations:
 </div>
 </div>
 
+<div class="gear">
+<div class="gearimg">
+<a href="https://amzn.to/4iM4tmq" target="_blank">
+{% include amazon.html id="B003OBJ4PE" %}
+</a>
+</div>
+<div>
+    <h4>Trout Magnet Phantom Fluorocarbon Leader Line (2 lb)</h4>
+    <div>My go-to leader line when fishing bait. Fluorocarbon is somewhat more clear underwater than typical monofilament fishing line, so I like using it as leader line to avoid spooking any fish. This particular brand is decent quality, while being on the cheaper end in terms of fluorocarbon.</div>
+    <a href="https://amzn.to/4iM4tmq" class="buybutton" target="_blank">See on Amazon</a>
+</div>
+</div>
+
+<div class="gear">
+<div class="gearimg">
+<a href="https://amzn.to/3ZFYR4o" target="_blank">
+{% include amazon.html id="B07Z8CK44V" %}
+</a>
+</div>
+<div>
+    <h4>Phenix Ironfeather Braided Line (3 lb)</h4>
+    <div>For my ultralight lure-casting setups, I've started using braided line. I've found that you can eke out a decent amount of extra casting distance with the braid, as it's much thinner than your typical monofilament. It can be a little bit brittle though, so be gentle with your hooksets. Definitely don't start with this for your first rod.</div>
+    <a href="https://amzn.to/3ZFYR4o" class="buybutton" target="_blank">See on Amazon</a>
+</div>
+</div>
+
 Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
 
 ### Fishing with Bait
 
-Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce egg sinker, a bead, a small swivel, and a 12-36 inch leader of about 2-4 lb line (you can buy <a href="https://amzn.to/3oCABvq">pretied versions online</a>, but you'll save money tying them yourself). The general idea is that trout bait tends to float, so using a long leader lets the bait float off the bottom right in the strike zone. A few common baits that people use on these rigs:
+Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce egg sinker, a bead, a small swivel, and a 12-36 inch leader of about 2-4 lb line (you can buy <a href="https://amzn.to/3oCABvq">pretied versions online</a>, but you'll save money tying them yourself). Here's an image of what it should look like:
+
+![Sliding sinker rig](https://norrik.com/wp-content/uploads/2022/01/slip-sinker-rig.jpg)
+
+The general idea is that with a bit of slack in your line, a trout that bites your bait feels no resistance as it pulls line through the sinker. As a result, the trout will be a lot more likely to properly eat the bait and give you a good set. One thing to note that most of the baits you'd want to fish on such a rig need to float --- I've found that the difference in success rate can be very dramatic between a floating vs sinking bait. So double check that your bait and hook float before you cast.
+
+My baits of choice:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3thy8dM" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Powerbait</h4>
-    <div>A must-have trout bait. Take a small bit of the dough, and mold it around a size 14-16 treble hook on your sliding sinker rig. Cast the bait out and just let it sit. It can smell kinda bad, so be ready to vigorously clean your hands afterward. I've linked the garlic flavor, but the corn and original scents work just as well. I personally don't think the color matters a whole lot, but some people swear by chartreuse.</div>
-    <a href="https://amzn.to/3thy8dM" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2YwFiwp" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Powerbait Micetails</h4>
-    <div>A less messy version of Powerbait, which is basically a piece of soft plastic infused with the Powerbait flavoring. Use a size 8 hook at the end of the sliding sinker rig. I prefer the micetails in moving water, as they have a more natural appearance and drift more naturally. </div>
-    <a href="https://amzn.to/2YwFiwp" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3thy8dM" target="_blank">
+            {% include amazon.html id="B0039YJYVA" %}
+        </a>
+    </div>
+    <div>
+        <h4>Powerbait</h4>
+        <div>The classic trout bait. I typically use micetails in favor of Powerbait these days, but sometimes the original dough
+            will work when nothing else will. Take a small bit of the dough, and mold it around a size 16-18 treble hook on a
+            sliding sinker rig. Double check that it floats, and then cast the bait out and just let it sit. It can smell kinda bad, so be ready to vigorously
+            clean your hands afterward. I've linked the garlic flavor, but the corn and original scents work just as
+            well. I personally don't think the color matters a whole lot, but some people swear by chartreuse.</div>
+        <a href="https://amzn.to/3thy8dM" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/39yXBHw" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
+    <div class="gearimg">
+        <a href="https://amzn.to/2YwFiwp" target="_blank">
+            {% include amazon.html id="B00EO96ZKM" %}
+        </a>
+    </div>
+    <div>
+        <h4>Powerbait Micetails</h4>
+        <div>A piece of soft plastic infused with Powerbait flavoring. These days, I far prefer micetails over Powerbait, 
+            as I think they have a bit of extra attraction in moving water. Additionally, micetails are way less messy than the Powerbait,
+            and you don't leave random floating pieces of plastic dough floating in the lake after you're done fishing.
+        </div>
+        <a href="https://amzn.to/2YwFiwp" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
-<div>
-    <h4>Inflated Nightcrawlers with a Worm Blower</h4>
-    <div>Nightcrawlers and other worms are the classic bait for any freshwater fish. It turns out that by using a specialized tool called a worm blower, the worms can be "inflated" such that they float off the bottom (<a href="http://fishingnetwork.net/forum4/showthread.php?52802-Tip-of-the-month-How-to-use-magic-worm-blowers!">this forum thread</a> is an excellent resource on how to actually do this). Carefully thread the worm onto a size 8 hook on your sliding sinker rig. Buying the worms, keeping them in your refrigerator, and inflating them before fishing can be a bit of a hassle, but sometimes the nightcrawlers will catch fish when nothing else will.</div>
-    <a href="https://amzn.to/39yXBHw" class="buybutton" target="_blank">See worm blowers on Amazon</a>
-</div>
+
+
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/39yXBHw" target="_blank">
+            {% include amazon.html id="B002X4AH7M" %}</a>
+        </div>
+    <div>
+        <h4>Inflated Nightcrawlers with a Worm Blower</h4>
+        <div>Nightcrawlers and other worms are the classic bait for any freshwater fish. It turns out that by using a specialized tool called a worm blower, the worms can be "inflated" such that they float off the bottom (<a href="http://fishingnetwork.net/forum4/showthread.php?52802-Tip-of-the-month-How-to-use-magic-worm-blowers!">this forum thread</a> is an excellent resource on how to actually do this). Carefully thread the worm onto a size 8 hook on your sliding sinker rig. Buying the worms, keeping them in your refrigerator, and inflating them before fishing can be a bit of a hassle, but sometimes the nightcrawlers will catch fish when nothing else will.</div>
+        <a href="https://amzn.to/39yXBHw" class="buybutton" target="_blank">See worm blowers on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3ra2ZGZ" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Pautzke's Salmon Eggs</h4>
-    <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. Take a size 6-8 hook, and thread a few salmon eggs onto the hook, and cast them out! In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days.</div>
-    <a href="https://amzn.to/3ra2ZGZ" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3ra2ZGZ" target="_blank">
+            {% include amazon.html id="B00LDYHV7W" %}
+        </a>
+        </div>
+    <div>
+        <h4>Pautzke's Salmon Eggs</h4>
+        <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. Take a size 6-8 hook, and thread a few salmon eggs onto the hook, and cast them out! In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days. These do sink, so one common trick is to thread a small mini-marshmallow onto the hook to keep everything floating.</div>
+        <a href="https://amzn.to/3ra2ZGZ" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 {% include _gear/disclaimer.html %}
@@ -139,81 +166,82 @@ In terms of colors, try and stick with gold in sunny weather or murky weather, a
 Here are a few lures you should have in your tackle box:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3ag6G7m" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Acme Kastmaster, 1/8 oz</h4>
-    <div>One of my favorite lures for trout fishing, with a nice fluttering action that trout seem to really like. It's a very aerodynamic lure that can be casted quite far on light line. I've had the most success on stop-and-go, erratic retrieves. Kastmasters can be somewhat expensive - South Bend also sells <a href="https://amzn.to/39CXJpH">Kastaways</a> which are somewhat cheaper but can't say I've personally used them.</div>
-    <a href="https://amzn.to/3agKmui" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3aYUpEN" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Thomas Buoyant, 1/4 or 1/6 oz</h4>
-    <div>A Kastmaster alternative. It casts a somewhat smaller distance, but the spoon has a slightly different fluttering action that seems to sometimes entice more hits.</div>
-    <a href="https://amzn.to/3aYUpEN" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3pqIyHL" target="_blank">
+            {% include amazon.html id="B009AVIIBS" %}
+        </a>
+    </div>
+    <div>
+        <h4>Mini jig, 1/16 or 1/32 oz</h4>
+        <div>A small tube that can be twitched in the water to entice wary trout. Keep your rod tip high, and wiggle the
+            lure in the middle of the water column. Can be very effective, especially if you can see the fish. Can be
+            hard to cast far, unless you're using very light line (2 - 4 lb)</div>
+        <a href="https://amzn.to/3pqIyHL" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3pAlDHK" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Panther Marin, 1/16 oz</h4>
-    <div>A classic trout spinner. I like a retrieve with many erratic jerks with these spinners, to let the blade flutter as much as possible. Traditionally the gold blade with black body and yellow spots has been the most effective for me, but the other colors should also work.</div>
-    <a href="https://amzn.to/3pAlDHK" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3pqIyHL" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Mini jig, 1/16 or 1/32 oz</h4>
-    <div>A small tube that can be twitched in the water to entice wary trout. Keep your rod tip high, and wiggle the lure in the middle of the water column. Can be very effective, especially if you can see the fish. Can be hard to cast far, unless you're using very light line (2 - 4 lb)</div>
-    <a href="https://amzn.to/3pqIyHL" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3ag6G7m" target="_blank">
+            {% include amazon.html id="B0000AUXS2" %}
+        </a>
+    </div>
+    <div>
+        <h4>Acme Kastmaster, 1/8 oz</h4>
+        <div>One of my favorite lures for trout fishing, very useful for covering a lot of water and finding where the
+            active fish are. It's a very aerodynamic lure that can be casted quite far on light line. I've had the most
+            success on stop-and-go, erratic retrieves. Use gold Kastmasters on sunny days or in murky water. Use silver
+            Kastmasters on cloudy days or clear water. Kastmasters can be somewhat expensive - South Bend also sells <a
+                href="https://amzn.to/39CXJpH">Kastaways</a> which are somewhat cheaper but can't say I've personally
+            used them.</div>
+        <a href="https://amzn.to/3agKmui" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2MjvqUq" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Trout Magnet</h4>
-    <div>A more exotic jig-type lure for trout. Thread one of the plastic grubs onto the jighead and use a twitching retrieve. I find that these lures can be quite hard to cast far, but these do pretty well in small creeks on finicky trout.</div>
-    <a href="https://amzn.to/2MjvqUq" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3pAlDHK" target="_blank">
+            {% include amazon.html id="B0000AUUHN" %}
+        </a>
+    </div>
+    <div>
+        <h4>Panther Martin, 1/16 oz</h4>
+        <div>A classic trout spinner. I like a retrieve with many erratic jerks with these spinners, to let the blade
+            flutter as much as possible. Traditionally the gold blade with black body and yellow spots has been the most
+            effective for me, but the other colors should also work.</div>
+        <a href="https://amzn.to/3pAlDHK" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
+
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3dePzpx" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
+    <div class="gearimg">
+        <a href="https://amzn.to/3thy8dM" target="_blank">
+            {% include amazon.html id="B0039YJYVA" %}
+        </a>
+    </div>
+    <div>
+        <h4>Powerbait</h4>
+        <div>The classic trout bait. I typically use micetails in favor of Powerbait these days, but sometimes the original dough
+            will work when nothing else will. Take a small bit of the dough, and mold it around a size 14-16 treble hook on a
+            sliding sinker rig. Cast the bait out and just let it sit. It can smell kinda bad, so be ready to vigorously
+            clean your hands afterward. I've linked the garlic flavor, but the corn and original scents work just as
+            well. I personally don't think the color matters a whole lot, but some people swear by chartreuse.</div>
+        <a href="https://amzn.to/3thy8dM" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
-<div>
-    <h4>Rapala</h4>
-    <div>A classic jerkbait for trout. I usually use these when fishing off a boat, but they work ok when casted from shore (don't really cast as far as I would like them to, but maybe I'm spoiled by Kastmasters). They're designed to wiggle like an injured baitfish. There are a few different models of these lures, but I tend to stick with the floating original.</div>
-    <a href="https://amzn.to/3dePzpx" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/3aYUpEN" target="_blank">
+            {% include amazon.html id="B00019ND8G" %}
+        </a>
+    </div>
+    <div>
+        <h4>Thomas Buoyant, 1/4 or 1/6 oz</h4>
+        <div>A Kastmaster alternative. It casts a somewhat smaller distance, but the spoon has a slightly different
+            fluttering action that seems to sometimes entice more hits.</div>
+        <a href="https://amzn.to/3aYUpEN" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 

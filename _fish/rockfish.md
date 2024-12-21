@@ -110,102 +110,112 @@ If you want specific recommendations:
 
 ### Fishing with Bait
 
-When the goin gets tough, natural bait is always the way to go. If a fish sees a piece of squid or fish, it'll bite and hang on even in the worst of conditions. When you're fishing for rockfish, I usually recommend squid, shrimp, or pieces of cut fish. Shrimp often works great, but unfortunately the surfperch like it a lot as well - sometimes they'll hit the squid before your bait even hits bottom. So if you want to just target the rockfish, try and stick with the squid or fish. Anywhere from a small piece to a entire squid or fish will work for the rockfish. If you can't carry fresh bait with you, I resort to Berkley Gulp Sandworms:
+When the goin gets tough, natural bait is always the way to go. If a fish sees a piece of squid or fish, it'll bite and hang on even in the worst of conditions. When you're fishing for rockfish, I usually recommend squid, shrimp, or pieces of cut fish. Shrimp often works great, but unfortunately the surfperch like it a lot as well - sometimes they'll hit the squid before your bait even hits bottom. So if you want to just target the rockfish, try and stick with the squid or fish. Anywhere from a small piece to a entire squid or fish will work for the rockfish. I've also fished whole herring for big lingcod and cabezon, which can have some pretty spectacular results. If you can't carry fresh bait with you, I resort to <a href="https://amzn.to/3vMUJ4t">Berkley Gulp Sandworms</a>, but they aren't my bait of choice.
 
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3vMUJ4t" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Berkley Gulp Sandworms</h4>
-    <div>Dealing with squid or shrimp for bait can be a pain, with lugging around a cooler to keep it fresh, the bait falling off the hook, and potentially even running out. As a result, I like keeping a pack of these flavor-infused plastic sandworms in my tackle box just in case. They seem to work ok for rockfish, although not as good as the fresh stuff. These worms are also one of the best baits for catching surfperch off beaches on the West Coast.</div>
-    <a href="https://amzn.to/3vMUJ4t" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
+How do you actually rig these baits up? Well, I like using a so-called high-low rig - a setup where your weight is placed at the end of the line, and two hooks hang off dropper loops a few inches above. You can buy these rigs on <a href="https://amzn.to/3rPcsUq">Amazon</a>, or just tie them yourself following the guide <a href="https://www.saltstrong.com/articles/high-low-rig/">here</a>. Sometimes when fishing for rockfish, I won't use the top dropper loop to avoid potential snags or tangles. I usually use anywhere from a size 2 to a size 6/0 hook for rockfish - they tend to have large mouths, so the larger hooks are helpful for good hookups. Any type of hook will work, but I like circle hooks to avoid gut hooking any fish.
 
-
-How do you actually rig these baits up? Well, I like using a so-called high-low rig - a setup where your weight is placed at the end of the line, and two hooks hang off dropper loops a few inches above. You can buy these rigs on <a href="https://amzn.to/3rPcsUq">Amazon</a>, or just tie them yourself following the guide <a href="https://www.saltstrong.com/articles/high-low-rig/">here</a>. Sometimes when fishing for rockfish, I won't use the top dropper loop to avoid potential snags or tangles. I usually use anywhere from a size 2 to a size 6/0 hook for rockfish - they tend to have large mouths, so the larger hooks are helpful for good hookups.
+If you want to fish a whole baitfish, I typically just put a single hook right through the lip, and an optional stinger hook through the tail. You can also try <a href="http://www.theoutdoorline.com/blog/post/2010/03/07/how-to-rig-a-cut-plug-herring.aspx">cut-plugging</a> the fish like salmon fisherman do to get it to spin in the water, but I don't love doing this all the time since it puts a lot of twist in your line.
 
 Here are the sinkers I use for my high-low rigs:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3j6FdsP" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Cloth Bags</h4>
-    <div>Every time I snag off and leave a hunk of metal at the bottom of the ocean, I always feel kinda bad. As a result, I recently switched to using cloth bags, which I fill with gravel and small rocks at the fishing spot and hopefully biodegrade in the ocean. I've found that these cloth bags work incredibly well. They snag much less frequently than the metal weights I used to use, and the fish don't seem to mind. In addition, they are much cheaper.</div>
-    <a href="https://amzn.to/3j6FdsP" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3cuzE5Z" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Ultra Steel Weights, as heavy as you can get (usually up to an ounce)</h4>
-    <div>I usually use steel weights whenever I can. While they tend to be somewhat more expensive than lead-based weights, they lack most of the <a href="https://en.wikipedia.org/wiki/Lead#Toxicity">toxicity and developmental impacts of lead</a>. In regards to your own health, you should use steel weights whenever possible. However, steel weights can be hard to find in larger sizes.</div>
-    <a href="https://amzn.to/3cuzE5Z" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/3j6FdsP" target="_blank">
+            {% include amazon.html id="B08BS6DZWF" %}
+        </a>
+    </div>
+    <div>
+        <h4>Cloth Bags</h4>
+        <div>I hate snagging off and leaving a hunk of metal at the bottom of the ocean. As a
+            result, I recently switched to using cloth bags, which I fill with gravel and small rocks at the fishing
+            spot and hopefully biodegrade in the water. I've found that these cloth bags work incredibly well. They snag
+            much less frequently than the metal weights I used to use, and the fish don't seem to mind. In addition,
+            they are much cheaper.</div>
+        <a href="https://amzn.to/3j6FdsP" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/39AS1od" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
+    <div class="gearimg">
+        <a href="https://amzn.to/3cuzE5Z" target="_blank">
+            {% include amazon.html id="B0083GGZ2A" %}
+        </a>
+    </div>
+    <div>
+        <h4>Ultra Steel Bullet Weights, 3/4 ounce</h4>
+        <div>I usually use steel weights whenever I can. While they tend to be somewhat more expensive than lead-based
+            weights, they lack most of the <a href="https://en.wikipedia.org/wiki/Lead#Toxicity">toxicity and
+                developmental impacts of lead</a>. In regards to your own health, you should use steel weights whenever
+            possible. However, steel weights can be hard to find in larger sizes.</div>
+        <a href="https://amzn.to/3cuzE5Z" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
-<div>
-    <h4>Lead Sinkers, 2 ounces</h4>
-    <div>These lead weights are much cheaper than steel, and come in much larger sizes. However, keep in mind the <a href="https://en.wikipedia.org/wiki/Lead#Toxicity">toxicity and developmental impacts of lead</a>. Use at your own risk.</div>
-    <a href="https://amzn.to/39AS1od" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/39AS1od" target="_blank">
+            {% include amazon.html id="B0000AUUZV" %}
+        </a>
+    </div>
+    <div>
+        <h4>Lead Sinkers, 2 ounces</h4>
+        <div>These lead weights are much cheaper than steel, and come in much larger sizes. However, keep in mind the <a
+                href="https://en.wikipedia.org/wiki/Lead#Toxicity">toxicity and developmental impacts of lead</a>. Use
+            at your own risk.</div>
+        <a href="https://amzn.to/39AS1od" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 {% include _gear/disclaimer.html %}
 
 
-Recently, I started using a Texas-rig style approach for fishing my bait, a familiar term if you've ever fished for bass before. In its simplest form, it's an egg or bullet sinker like the one I linked above that's allowed to slide freely on your line, at the end of which you tie on a hook. I've found that it tends to snag somewhat less, and it's much easier to maneuver around beneath the water to fishy-looking spots. However, it's much harder for your bait to drift naturally with this style of setup. Try it out and get your own thoughts!
+Recently, I started using a Texas-rig style approach for fishing my bait, a familiar term if you've ever fished for bass before. In its simplest form, it's an egg or bullet sinker like the one I linked above that's allowed to slide freely on your line, at the end of which you tie on a hook. I try to fish it without putting too much tension in my line to try and let the bait drift around naturally. I've found that it tends to snag somewhat less than a high-low rig, and it's much easier to maneuver around beneath the water to fishy-looking spots. Try it out and get your own thoughts!
 
 ### Fishing with Lures
 
 When fishing from shore using a lure, in general you want to use a similar approach to bait. Try and fish as close to the bottom as possible - I like basically hopping my lures over the bottom repeatedly. You'll get snagged up a lot, so try and use heavy tackle. 
 
-In terms of hard baits, most people use some sort of jig, which can get pretty expensive. As a result, I like sticking with soft plastic setups. I like using the soft plastics on a Texas rig or jighead if I plan on covering a lot of water, or a high-low rig for a more finesse presentation. Probably my go-to soft plastic is the Big Hammer Swimbait, which is pretty easy to find and not particularly expensive (but really any swimbait shoould work):
+In terms of hard baits, most people use some sort of jig, which can get pretty expensive. As a result, I like sticking with soft plastic setups. I like using the soft plastics on a Texas rig or jighead if I plan on covering a lot of water, or a dropshot rig for a more finesse presentation. Here are some of the swimbaits I use:
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/4iPcAPs" target="_blank">
+            {% include amazon.html id="B0BNQPBW5V" %}
+        </a>
+    </div>
+    <div>
+        <h4>Berkley Bonefish Ribbed Swimbait</h4>
+        <div>If you don't want to use bait, this is a good all-around swimbait for rocky-shore species. I usually fish it on a Texas rig or jighead, or occasionally a dropshot rig. Try and fish the lure as close to the bottom as possible (unless you're fishing for black or blue rockfish).</div>
+        <a href="https://amzn.to/4iPcAPs" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
+</div>
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/3VT1sqH" target="_blank">
+            {% include amazon.html id="B00FYLDTMG" %}
+        </a>
+    </div>
+    <div>
+        <h4>Keitech Swimbait</h4>
+        <div>The swimbait that most people swear by. I honestly have had better personal success recently with the <a href="https://amzn.to/4iPcAPs">Berkley swimbait</a>, but people have had some awesome catches on these Keitechs.</div>
+        <a href="https://amzn.to/3VT1sqH" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
+</div>
+
+You can also probably use any other generic soft plastic, including bass-style plastics. I hear people have had decent success with Senkos and creature-style baits, which I'm not entirely surprised by. One trickier thing about fishing these types of baits in saltwater is that you need to deal with the ocean currents. Thus, a lot of the slower falling techniques that bass fisherman use, like wacky rigging, don't work all the well from experience off the California coast. But if you can find a nice calm patch of water, I'm sure it'd work just fine, but I've never had too much luck.
+
+A lot of fishermen also like using something called a shrimp fly, which are typically used off boats. I typically don't bother off shore since you'll lose a ton of these rigs from snags, but if you need the extra attraction:
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/39AU9wg" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Big Hammer Swimbait</h4>
-    <div>This is a good all-around swimbait for rocky-shore species. I usually fish it on a jighead, or on a dropshot rig (basically a high-low rig). Try and fish the lure as close to the bottom as possible (unless you're fishing for black or blue rockfish). Brand doesn't matter a huge amount here in terms of swimbaits, but some people swear by <a href="https://amzn.to/3cscPjo">Keitechs</a>, which I have not tried myself.</div>
-    <a href="https://amzn.to/39AU9wg" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-You can also probably use any other generic soft plastic, including bass-style plastics. 
-
-A lot of fishermen also like using something called a shrimp fly:
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/37d6Z1U" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+<a href="https://amzn.to/37d6Z1U" target="_blank">B003D8Z8H6
+    {% include amazon.html id="B003D8Z8H6" %}
 </a>
 </div>
 <div>
     <h4>Shrimp Fly</h4>
-    <div>Tip these with strips of squid or fish, and fish it like a high-low rig. It basically gives your bait a little extra attraction to draw finicky fish in..</div>
+    <div>Tip these with strips of squid or fish, and fish it like a high-low rig. It basically gives your bait a little extra flash to draw finicky fish in..</div>
     <a href="https://amzn.to/37d6Z1U" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
