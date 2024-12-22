@@ -25,7 +25,7 @@ jobs:
         ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
         SECRET_KEY: ${{ secrets.SECRET_KEY }}
         STORE_ID: ${{ secrets.STORE_ID }}
-      run: python get_images.py "$ACCESS_KEY" "$SECRET_KEY" "$STORE_ID"
+      run: python _amazon/get_images.py "$ACCESS_KEY" "$SECRET_KEY" "$STORE_ID"
 
     - name: Commit new page
       run: |
