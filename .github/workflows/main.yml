@@ -17,7 +17,7 @@ jobs:
       uses: actions/setup-python@v5.3.0
           
     - name: Install packages
-      run: sudo python setup.py install
+      run: sudo python _amazon/setup.py install
 
     - name: Add data
       shell: bash
