@@ -1,0 +1,38 @@
+name: Overnight processing
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v5.3.0
+          
+    - name: Install packages
+      run: sudo python _amazon/setup.py install
+
+    - name: Add data
+      shell: bash
+      env:
+        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        STORE_ID: ${{ secrets.STORE_ID }}
+      run: python _amazon/get_images.py "$ACCESS_KEY" "$SECRET_KEY" "$STORE_ID"
+
+    - name: Commit new page
+      run: |
+        GIT_STATUS=$(git status --porcelain)
+        echo $GIT_STATUS
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add _data
+        if [ "$GIT_STATUS" != "" ]; then git commit -m "Overnight job"; fi
+        if [ "$GIT_STATUS" != "" ]; then git push; fi
