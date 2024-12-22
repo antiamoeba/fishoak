@@ -112,8 +112,7 @@ My baits of choice:
     <div>
         <h4>Powerbait Micetails</h4>
         <div>A piece of soft plastic infused with Powerbait flavoring. These days, I far prefer micetails over Powerbait, 
-            as I think they have a bit of extra attraction in moving water. Additionally, micetails are way less messy than the Powerbait,
-            and you don't leave random floating pieces of plastic dough floating in the lake after you're done fishing.
+            as I think they have a bit of extra attraction in moving water. Additionally, micetails are way less messy than the Powerbait, and you don't leave random floating pieces of plastic dough floating in the lake after you're done fishing. Fish it on a sliding sinker rig with a size 8-10 mosquito hook to make sure it floats.
         </div>
         <a href="https://amzn.to/2YwFiwp" class="buybutton" target="_blank">See on Amazon</a>
     </div>
@@ -155,7 +154,7 @@ When the going gets tough, try switching to an even simpler rig, with just a siz
 
 ### Fishing with Lures
 
-While bait fishing can certainly be an effective way to catch Bay Area trout, simply waiting for the fish can sometimes get a bit boring - you might sometimes wait hours between hits. 
+While bait fishing can certainly be an effective way to catch trout, simply waiting for the fish to come to you can sometimes get a bit boring - you might sometimes wait hours between hits. 
 
 Fishing with lures provides a more active alternative. Instead of just letting your bait sit, with lures you attempt to imitate an escapinng minnow or baitfish by reeling in. A general rule of thumb is to use a stop-and-go retrieve with most trout lures - the momentary pauses somehow imitate an injured baitfish. You can also try erratically twitching the lure by repeatedly jerking your rod, which seems to sometimes work quite well.
 
@@ -258,7 +257,7 @@ In general, when I pick a spot on the lake I try and choose an area of the water
 
 In the South Bay, [Sandy Wool Lake](/sandywool) is a small pond that gets stocked every 2-3 weeks in the winter months with trout. [Stevens Creek Reservoir](/stevenscreek), Lexington Reservoir, Lake Cunningham, and the Campbell Percolation Ponds used to get planted with trout by the DFG, but no longer. If you're willing to make the drive, [Loch Lomond](/lochlomond) off Highway 17 is a decent place to cast a line in the spring.
 
-A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lakeshore Park in Newark, [Quarry Lakes](/quarry-lakes) in Fremont, Shadow Cliffs Reservoir in Pleasanton, Contra Loma Reservoir in Antioch, Don Castro Reservoir in Hayward, Lake Temescal in Oakland, [Lafayette Reservoir](/lafayette), and San Pablo Reservoir in El Sobrante all regularly receive trout plants.
+A number of lakes are stocked in the East Bay by both the DFG and the EBRPD. Lakeshore Park in Newark, [Quarry Lakes](/quarry-lakes) in Fremont, [Shadow Cliffs Reservoir](/shadowcliffs) in Pleasanton, Lake Del Valle in Livermore, Contra Loma Reservoir in Antioch, Don Castro Reservoir in Hayward, Lake Temescal in Oakland, Los Vaqueros Reserovir, [Lafayette Reservoir](/lafayette), and San Pablo Reservoir in El Sobrante all regularly receive trout plants.
 
 In the San Francisco/San Mateo area, Lake Merced is pretty much your only option, and it doesn't really get stocked all that often. So make the drive to the East Bay.
 
