@@ -20,7 +20,12 @@ jobs:
       run: sudo python setup.py install
 
     - name: Add data
-      run: python get_images.py 
+      shell: bash
+      env:
+        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        STORE_ID: ${{ secrets.STORE_ID }}
+      run: python get_images.py "$ACCESS_KEY" "$SECRET_KEY" "$STORE_ID"
 
     - name: Commit new page
       run: |
