@@ -131,18 +131,6 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 
 If you want to use lures, your typical lures for trout in lakes will probably work just as well. In general, they're a little harder to fish in streams - you might have to work them a little faster to get the proper action, and avoiding snags will be tough. But they often net some of the larger fish in a stream.
 
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3ag6G7m" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Acme Kastmaster, 1/8 oz</h4>
-    <div>One of my favorite lures for trout fishing, with a nice fluttering action that trout seem to really like. It's a very aerodynamic lure that can be casted quite far on light line. I've had the most success on stop-and-go, erratic retrieves. Kastmasters can be somewhat expensive - South Bend also sells <a href="https://amzn.to/39CXJpH">Kastaways</a> which are somewhat cheaper but can't say I've personally used them.</div>
-    <a href="https://amzn.to/3agKmui" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
 
 <div class="gear">
 <div class="gearimg">
