@@ -1,0 +1,21 @@
+---
+page_title: Fishoak - Fishing and Hiking Adventures
+title: <span class="fishoak">Fishoak</span> - Fishing Reports
+layout: main
+---
+<div class="content" style="margin-top: 80px;">
+    <link rel="stylesheet" type="text/css" href="/assets/css/home.css">
+    <div class="card-header">
+        <h1>Fishing Reports</h1>
+    </div>
+    <hr>
+    {% assign sorted = site.reports | reverse %}
+    {% for report in sorted %}
+        <div>
+        <h2><a href="{{ report.url }}">{{ report.title }}</a></h2>
+        <h3>{{ report.date | date_to_string }}</h3>
+        <p>{{ report.content | markdownify }}</p>
+        </div>
+    {% endfor %}
+</div>
+{% include nav.html %}

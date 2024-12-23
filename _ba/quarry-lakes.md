@@ -5,7 +5,7 @@ image: quarry.webp
 
 # Fishing Quarry Lakes
 
-In Quarry Lakes Regional Recreation Area, there are two lakes you can fish - Horseshoe and Rainbow Lake. Horseshoe Lake gets regularly stocked by the [EBPRD](https://www.ebparks.org/recreation/fishing/anglers-edge-online){:target="_blank"} as well as the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=4368&RegionCountyMappings=&submit=Search){:target="_blank"}. All this means a lot of planter trout (and some catfish), as well as a lot of fishing pressure in the heart of Fremont. There are also some resident bass, catfish, and other warmwater fish in both Horseshoe and Rainbow.
+In Quarry Lakes Regional Recreation Area, there are two lakes you can fish - Horseshoe and Rainbow Lake. Horseshoe Lake gets regularly stocked by the [EBPRD](https://www.ebparks.org/recreation/fishing/anglers-edge-online){:target="_blank"} as well as the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=4368&RegionCountyMappings=&submit=Search){:target="_blank"}. All this means a lot of planter trout (and some catfish), as well as a lot of fishing pressure in the heart of Fremont. There are also some resident bass, catfish, and other warmwater fish in both Horseshoe and Rainbow. <a href="#reports">See reports.</a>
 
 
 ## About the Lake
@@ -48,6 +48,18 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 {% include _gear/trout.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
+
+# Recent Reports 
+{% assign sorted = site.reports | reverse %}
+{% for report in sorted %}
+{% if report.location == page.slug %}
+<div>
+<h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+<h4>{{ report.date | date_to_string }}</h4>
+<p>{{ report.content | markdownify }}</p>
+</div>
+{% endif %}
+{% endfor %}
 
 ## Some of Our Adventures
 

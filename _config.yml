@@ -20,6 +20,8 @@ collections:
     other:
         output: true
         permalink: /:title
+    reports:
+        output: true
 
 defaults:
     - scope:

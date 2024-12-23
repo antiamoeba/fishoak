@@ -1,0 +1,15 @@
+---
+layout: main
+---
+<div class="content" style="margin-top: 80px;">
+    <link rel="stylesheet" type="text/css" href="/assets/css/home.css">
+    <h1>{{ page.title }}</h1>
+    <hr>
+    <div>
+        <h3>{{ page.date | date_to_string }}</h3>
+        {{ content }}
+        Check out our <a href="/{{page.location}}">fishing guide for this spot</a>.
+        
+    </div>
+</div>
+{% include nav.html %}

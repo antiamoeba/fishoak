@@ -5,7 +5,8 @@ image: sandy-wool.webp
 
 # Fishing Sandy Wool
 
-Located in the hills of Milpitas, Sandy Wool Lake is one of the very few remaining lakes still stocked with trout by the DFG in the South Bay. As such, the lake gets a ton of pressure and can be very crowded, especially after fish plants.
+Located in the hills of Milpitas, Sandy Wool Lake is one of the very few remaining lakes still stocked with trout by the DFG in the South Bay. As such, the lake gets a ton of pressure and can be very crowded, especially after fish plants. <a href="#reports">See reports.</a>
+
 
 
 ## About the Lake
@@ -38,6 +39,20 @@ Official website: [Santa Clara County](https://parks.santaclaracounty.gov/locati
 {% include _gear/trout.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
+
+<div id="reports"></div>
+
+# Recent Reports 
+{% assign sorted = site.reports | reverse %}
+{% for report in sorted %}
+{% if report.location == page.slug %}
+<div>
+<h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+<h4>{{ report.date | date_to_string }}</h4>
+<p>{{ report.content | markdownify }}</p>
+</div>
+{% endif %}
+{% endfor %}
 
 ## Some of Our Adventures
 
