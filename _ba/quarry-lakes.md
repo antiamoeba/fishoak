@@ -53,11 +53,9 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 {% assign sorted = site.reports | reverse %}
 {% for report in sorted %}
 {% if report.location == page.slug %}
-<div>
 <h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
 <h4>{{ report.date | date_to_string }}</h4>
 <p>{{ report.content | markdownify }}</p>
-</div>
 {% endif %}
 {% endfor %}
 

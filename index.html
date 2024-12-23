@@ -43,6 +43,8 @@ layout: main
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
+    }
+    .title .enter > a {
         margin: 0px;
         padding-left: 20px;
         padding-right: 20px;
@@ -52,7 +54,7 @@ layout: main
         background-color: red;
         transition-duration: 0.4s;
     }
-    .title .enter:hover {
+    .title .enter > a:hover {
         /* background-color: white;
         color: #555555; */
         background-color: #e87c74;
@@ -64,5 +66,8 @@ layout: main
         <img src="/assets/images/shark.webp"/>
     </div>
     <h1><span class="fishoak">Fishoak</span> - Fishing/Hiking Adventures</h1>
-    <a href="/dir" class="enter invis">SEE SPOTS</a>
+    <div class="enter">    
+        <a href="/dir" class="invis">SEE SPOTS</a>
+        <a href="/reports" class="invis">SEE REPORTS</a>
+    </div>
 </div>

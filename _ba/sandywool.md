@@ -46,11 +46,9 @@ Official website: [Santa Clara County](https://parks.santaclaracounty.gov/locati
 {% assign sorted = site.reports | reverse %}
 {% for report in sorted %}
 {% if report.location == page.slug %}
-<div>
 <h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
 <h4>{{ report.date | date_to_string }}</h4>
 <p>{{ report.content | markdownify }}</p>
-</div>
 {% endif %}
 {% endfor %}
 
