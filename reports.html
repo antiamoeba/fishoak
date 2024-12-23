@@ -11,11 +11,9 @@ layout: main
     <hr>
     {% assign sorted = site.reports | reverse %}
     {% for report in sorted %}
-        <div>
         <h2><a href="{{ report.url }}">{{ report.title }}</a></h2>
         <h3>{{ report.date | date_to_string }}</h3>
-        <p>{{ report.content | markdownify }}</p>
-        </div>
+        {{ report.content | markdownify }}
     {% endfor %}
 </div>
 {% include nav.html %}
