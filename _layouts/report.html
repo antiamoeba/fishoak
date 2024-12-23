@@ -9,7 +9,7 @@ layout: main
         <h3>{{ page.date | date_to_string }}</h3>
         {{ content }}
         Check out our <a href="/{{page.location}}">fishing guide for this spot</a>.
-        
+        {% include _ads/article.html %}
     </div>
 </div>
 {% include nav.html %}
