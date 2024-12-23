@@ -49,6 +49,8 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
+<div id="reports"></div>
+
 # Recent Reports 
 {% assign sorted = site.reports | reverse %}
 {% for report in sorted %}
