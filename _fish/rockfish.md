@@ -20,59 +20,33 @@ What this means is that when you're out at the coast, try and place your bait ne
 
 ### Your Gear
 
-In general, when you're fishing for rockfish from shore, we don't think you really need a heavy duty setup. We like a medium or medium-heavy rod with any reel you're willing to get scraped up. However, because you can get snagged so often, we like using heavier line if possible - you might be able to get away with just using 20-25 lb mono, but we prefer 50 lb or so braid with a 40 lb mono topshot. With this heavier line, it becomes much easier to pull your hook out of cracks and through the kelp that covers the California coast.
+In general, when you're fishing for rockfish from shore, I don't think you really need a heavy duty setup. I like a medium or medium-heavy rod with any reel you're willing to get scraped up, armed with anywhere between 20-60 lb line. Some people like using heavier line if possible --- when you get snagged, you can basically bend your hook out of cracks and through the kelp that covers the California coast. However, I like the extra casting distance that the 20lb line gives you, and I think it's a lot more fun to catch fish on that lighter line. Regardless of the weight of the line, you should use braid as your main line, and then tie on a topshot of mono leader. The braid can help you cut through kelp and other snags. Additionally, it gives you a much better feel of your bait at the bottom, which I think is really important when dealing with waves and other current..
 
-If you want specific recommendations:
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2LECElu" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Penn Pursuit 6000 Reel</h4>
-    <div>A reliable all-around saltwater reel. The 6000 Reel fits 335 yards of 50 lb braid, which is a perfect amount for rockfishing or crabbing or other ocean-related fishing activities.</div>
-    <a href="https://amzn.to/2LECElu" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
+If you want specific recommendations, my current setup of choice:
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/2OnwbfM" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+<a href="https://amzn.to/4fvPUk8" target="_blank">
+    {% include amazon.html id="B07HRL8619" %}
 </a>
 </div>
 <div>
-    <h4>Quantum Optix 6000 Reel</h4>
-    <div>A much cheaper alternative to the Penn reel. Will definitely get the job done without taking a big dent out of your wallet. To be honest might be a better investment, considering how badly your reel will get beaten up from getting scraped by the rocks.</div>
-    <a href="https://amzn.to/2OnwbfM" class="buybutton" target="_blank">See on Amazon</a>
+    <h4>Quantum Optix Size 40 Reel</h4>
+    <div>My current reel of choice. It's pretty cheap (~$20) so I don't feel bad about banging it up, but it still works pretty damn well. The Size 40 Reel fits 310 yards of 20 lb braid, which is a perfect amount for rockfishing or crabbing or other ocean-related fishing activities.</div>
+    <a href="https://amzn.to/4fvPUk8" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/3tM6UMj" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+<a href="https://amzn.to/4gRhuJX" target="_blank">
+    {% include amazon.html id="B08DDDV4R7" %}
 </a>
 </div>
 <div>
-    <h4>Ugly Stik GX2 7' Medium Heavy</h4>
-    <div>A classic fishing rod. People brag about it being sturdy enough to be a good deterrent for anyone who might bother your fishing.</div>
-    <a href="https://amzn.to/3tM6UMj" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3tMx3Lg" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Shakespeare Alpha Bigwater 12' Medium Heavy</h4>
-    <div>It can be nice to have a larger rod for casting distance. This rod has worked quite well for me, and has proven itself sturdy enough to cast heavy crab traps long distances, so it'll probably handle whatever rockfish might bite.</div>
-    <a href="https://amzn.to/3tMx3Lg" class="buybutton" target="_blank">See on Amazon</a>
+    <h4>Berkley Cherrywood Fishing Rod </h4>
+    <div>A cheap 7' medium heavy rod. Despite its low cost, I find that it handles pretty nicely and is pretty sensitive. I've caught some big rockfish and small lingcod on this rod, it definitely gets the job done.</div>
+    <a href="https://amzn.to/4gRhuJX" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
@@ -81,11 +55,11 @@ If you want specific recommendations:
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3rF3Gs8" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+    {% include amazon.html id="B001447BHQ" %}
 </a>
 </div>
 <div>
-    <h4>PowerPro Braid 50 lb</h4>
+    <h4>PowerPro Braid 20 lb</h4>
     <div>My go-to braid fishing line. It's very nice quality, and I've never had to deal with phantom tangles or line breaks or anything like that. It casts pretty well too.</div>
     <a href="https://amzn.to/3rF3Gs8" class="buybutton" target="_blank">See on Amazon</a>
 </div>
@@ -93,14 +67,14 @@ If you want specific recommendations:
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/3d6G8s7" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+<a href="https://amzn.to/3ZNuR72" target="_blank">
+    {% include amazon.html id="B00144D4AY" %}
 </a>
 </div>
 <div>
     <h4>Berkley Trilene Big Game Monofilament</h4>
-    <div>My go-to mono fishing line for rockfishing. This stuff is super tough, and does really well even when rubbed up against the rocks. I use 40 lb as topshot or leaders for my braid setups, and 20 lb on my mono-only reels.</div>
-    <a href="https://amzn.to/3d6G8s7" class="buybutton" target="_blank">See on Amazon</a>
+    <div>My go-to mono fishing line for rockfishing. This stuff is super tough, and does really well even when rubbed up against the rocks. I use 15 lb as topshot or leaders for my 20 lb braid setup.</div>
+    <a href="https://amzn.to/3ZNuR72" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
@@ -208,16 +182,16 @@ You can also probably use any other generic soft plastic, including bass-style p
 A lot of fishermen also like using something called a shrimp fly, which are typically used off boats. I typically don't bother off shore since you'll lose a ton of these rigs from snags, but if you need the extra attraction:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/37d6Z1U" target="_blank">B003D8Z8H6
-    {% include amazon.html id="B003D8Z8H6" %}
-</a>
-</div>
-<div>
-    <h4>Shrimp Fly</h4>
-    <div>Tip these with strips of squid or fish, and fish it like a high-low rig. It basically gives your bait a little extra flash to draw finicky fish in..</div>
-    <a href="https://amzn.to/37d6Z1U" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/407Owjs" target="_blank">
+            {% include amazon.html id="B078X3YXSB" %}
+        </a>
+    </div>
+    <div>
+        <h4>Shrimp Fly</h4>
+        <div>Tip these with strips of squid or fish, and fish it like a high-low rig. It basically gives your bait a little extra flash to draw finicky fish in.</div>
+        <a href="https://amzn.to/407Owjs" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 {% include _gear/disclaimer.html %}
