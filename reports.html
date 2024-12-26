@@ -11,6 +11,9 @@ layout: main
     <hr>
     {% assign sorted = site.reports | reverse %}
     {% for report in sorted %}
+        {% if forloop.index == 2 %}
+            {% include _ads/article.html %}
+        {% endif %}
         <h2><a href="{{ report.url }}">{{ report.title }}</a></h2>
         <h3>{{ report.date | date_to_string }}</h3>
         {{ report.content | markdownify }}
