@@ -5,7 +5,7 @@ image: shadowcliffs.webp
 
 # Fishing Shadow Cliffs
 
-Shadow Cliffs Reservoir is a converted gravel quarry that is stocked with trout and catfish by the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=27417&RegionCountyMappings=&submit=Search) and [EBRPD](https://www.ebparks.org/recreation/fishing/anglers-edge-online). There are a few bass ponds within the park that provide additional fishing.
+Shadow Cliffs Reservoir is a converted gravel quarry that is stocked with trout and catfish by the [DFW](https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.StockingWaterID=27417&RegionCountyMappings=&submit=Search) and [EBRPD](https://www.ebparks.org/recreation/fishing/anglers-edge-online). There are a few bass ponds within the park that provide additional fishing. <a href="#reports">See reports.</a>
 
 <span style="color:red">This page is under construction, need to fish at this lake more ☺️ Please check back later for more info!</span>
 
@@ -38,5 +38,18 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 {% include _gear/bass.html %}
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
+
+<div id="reports"></div>
+
+# Recent Reports 
+{% assign sorted = site.reports | reverse %}
+{% for report in sorted %}
+{% if report.location == page.slug %}
+<h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+<h4>{{ report.date | date_to_string }}</h4>
+<p>{{ report.content | markdownify }}</p>
+{% endif %}
+{% endfor %}
+
 
 {% include _comments/fb.html %}

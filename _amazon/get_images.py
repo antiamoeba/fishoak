@@ -121,6 +121,7 @@ def get_items(access_key, secret_key, partner_tag, all_item_ids):
             print("Status code:", exception.status)
             print("Errors :", exception.body)
             print("Request ID:", exception.headers["x-amzn-RequestId"])
+            return
 
         except TypeError as exception:
             print("TypeError :", exception)
