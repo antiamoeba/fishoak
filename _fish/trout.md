@@ -6,18 +6,18 @@ image: trout.webp
 
 # Your Guide to Fishing for Bay Area Trout
 
-Trout are the species of choice when freshwater fishing in the cooler months in the Bay Area. Every winter and spring, the Department of Fish and Game drives thousands of hatchery trout to our local lakes, specifically for fishermen to catch and take home. Local park districts, like the EBRPD, supplement with their own stockings. What this means is the fishing can be heavily dependent on when these trout plants occur, so keep an eye on the schedule (<a href="https://nrm.dfg.ca.gov/fishplants/">DFG</a>, <a href="https://www.ebparks.org/activities/fishing/anglersedge/">EBRPD</a>) when planning a trip.
+Trout are the species of choice when freshwater fishing in the cooler months in the Bay Area. Every winter and spring, the Department of Fish and Game drives thousands of hatchery trout to our local lakes, specifically for fishermen to catch and take home. Local park districts, like the EBRPD, supplement with their own stockings. What this means is the fishing can be heavily dependent on when these trout plants occur, so keep an eye on the schedule (<a href="https://nrm.dfg.ca.gov/fishplants/">DFG</a>, <a href="https://www.ebparks.org/activities/fishing/anglersedge/">EBRPD</a>) when planning a trip. However, if the timing is right and you bring the right gear, the fishing can be great! On this page, I'll provide a quick and dirty guide to trout fishing in the Bay Area. Leave a comment if you have any questions, and I'll try to get back to you ASAP!
 
 
 ## How to Catch Bay Area Trout
 
 Trout fishing can seem daunting at first, with all the terminology and baits that people use. In this article, I will try and give a quick summary of the techniques and setups that people use around the Bay.
 
-Perhaps a key thing to remember is that the trout we catch in the Bay Area are all planted from various hatcheries around the state. Having lived in concrete tanks their entire lives, these fish are not the brightest. What that means is that if the trout are there, you should be able to catch them as long as you are using the right baits or lures. In fact, many dough baits are designed to smell like the fish food these trout are fed in the hatchery.
+Perhaps a key thing to remember is that the trout we catch in the Bay Area are not wild fish, and instead are all planted from various hatcheries around the state. Having lived in concrete tanks their entire lives, these fish are not the brightest. What that means is that if the trout are there, you should be able to catch them as long as you are using the right baits or lures. In fact, many dough baits are designed to smell like the fish food these trout are fed in the hatchery. 
 
 ### Your Rod and Reel
 
-When fishing for trout, I prefer using a light or ultra-light setup, spooled with 4-6 lb monofilament line. In general, trout have pretty good vision, so try and use as light of a line as possible. The lighter rod lets you cast smaller trout lures and baits farther, which can be important in certain scenarios. In addition, trout around here don't get quite that big so it'll be a lot more fun fighting fish on a lighter setup.
+When fishing for trout, I prefer using a light or ultra-light setup, spooled with 4-6 lb monofilament line. In general, trout have pretty good vision, so try and use as light of a line as possible. The lighter rod lets you cast smaller trout lures and baits farther, which can be important in certain scenarios (I'll get more to this later). In addition, trout around here don't get quite that big so it'll be a lot more fun fighting fish on a lighter setup.
 
 If you want some specific recommendations:
 
@@ -75,16 +75,26 @@ If you want some specific recommendations:
 
 Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
+One thing to remember, once you've rigged up all of your line, is to make sure the drag is set appropriately on the reel. Here in the Bay Area, we are blessed by plants with Lassen trout at quite a few local lakes --- these fish can be larger than 5 lbs so they put up a hefty fight. From experience, I've lost lots of trout since my drag was set too tight, and my line snapped when the fish pulled too hard. Before fishing, double check that when you pull on your line by hand, your drag releases line with a hard enough tug.
+
 
 ### Fishing with Bait
 
-Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce egg sinker, a bead, a small swivel, and a 12-36 inch leader of about 2-4 lb line (you can buy <a href="https://amzn.to/3oCABvq">pretied versions online</a>, but you'll save money tying them yourself). Here's an image of what it should look like:
+Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce <a href="https://amzn.to/4gvMcIH">sliding sinker</a>, a <a href="https://amzn.to/4gXMrMx">bead</a> to protect your knot, a small <a href="https://amzn.to/4fEBRc0">swivel</a>, and a 12-36 inch leader of about <a href="https://amzn.to/4iM4tmq">2-4 lb line</a>. Here's an image of what it should look like:
 
 ![Sliding sinker rig](https://norrik.com/wp-content/uploads/2022/01/slip-sinker-rig.jpg)
 
-The general idea is that with a bit of slack in your line, a trout that bites your bait feels no resistance as it pulls line through the sinker. As a result, the trout will be a lot more likely to properly eat the bait and give you a good set. One thing to note that most of the baits you'd want to fish on such a rig need to float --- I've found that the difference in success rate can be very dramatic between a floating vs sinking bait. So double check that your bait and hook float before you cast.
+The general idea is that with a bit of slack in your line, a trout that bites your bait feels no resistance as it pulls line through the sinker. As a result, the trout will be a lot more likely to properly eat the bait and give you a good set. 
 
-My baits of choice:
+Now, the number one rule of bait fishing for trout --- make sure your bait floats with the hook in it! To my knowledge, trout don't typically feed off the bottom, so having your bait float over your sinker makes sure it is in the strike zone for roaming trout. As a result, downsize your hook if you find that your rig is sinking --- I typically use anywhere from size 8-10 mosquito hooks or size 16-18 treble hooks.
+
+My general technique for fishing this style of sliding sinker rig is to cast out and leave some slack in the line, and sit back for ~15 mins. As you wait, watch your line closely. If you see it getting tight and moving out into the water, odds are you have a fish on --- reel in the slack, and set the hook when you feel the fish! If nothing bites, reel in and recast --- by recasting often, you make sure that your bait is never sitting in a clump of weeds or some other place inaccessible to the trout for long.
+
+Instead of leaving the line slack, many fishermen reel up the line tight, and add a bell or bobber to the rod to indicate any bites. I personally don't think this is a great strategy, if your goal is to catch trout --- I have found that trout will sometimes let go if they feel any resistance when biting the bait. However, my slack line strategy often results in gut hooked fish, so use a tight line if you're planning on releasing any fish.
+
+My other hypothesis about the slack line is that when it billows out with the wind, it adds some action to the bait at the bottom as the line repeatedly tightens and releases with the breeze. I haven't really explicitly tested this theory though.
+
+Now, to my baits of choice:
 
 <div class="gear">
     <div class="gearimg">
@@ -140,7 +150,7 @@ My baits of choice:
         </div>
     <div>
         <h4>Pautzke's Salmon Eggs</h4>
-        <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. Take a size 6-8 hook, and thread a few salmon eggs onto the hook, and cast them out! In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days. These do sink, so one common trick is to thread a small mini-marshmallow onto the hook to keep everything floating.</div>
+        <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. The general trick is to thread a couple salmon eggs onto a size 8-10 hook, along with a mini marshmallow to make sure everything floats. In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days.</div>
         <a href="https://amzn.to/3ra2ZGZ" class="buybutton" target="_blank">See on Amazon</a>
     </div>
 </div>
@@ -150,6 +160,8 @@ My baits of choice:
 Supposedly people also used Velveeta Cheese back in the day, but I don't personally have any experience with it. Might be a good way to show the trout something they haven't seen in a while.
 
 When the going gets tough, try switching to an even simpler rig, with just a size 8 hook baited with a nightcrawler and a small split shot a foot up the line, or even no weight if possible. The general idea is to let the worm drift and flutter naturally in the water for finicky trout. There's been times when I'm the only person on the lake catching fish by using this technique. This is also my go-to rig when fishing rivers and streams.
+
+I don't see this as often here on the west coast, but a common rig in the eastern United States is fishing many of these above baits under a bobber. The general idea is that such a rig targets any trout that are close to the surface. However, I personally have not found too much success with such a rig here in the Bay Area --- my personal hypothesis is that the big pelicans and egrets that swarm our local lakes eat basically all the trout that like swimming close to surface.
 
 
 ### Fishing with Lures
@@ -212,23 +224,6 @@ Here are a few lures you should have in your tackle box:
     </div>
 </div>
 
-
-<div class="gear">
-    <div class="gearimg">
-        <a href="https://amzn.to/3thy8dM" target="_blank">
-            {% include amazon.html id="B0039YJYVA" %}
-        </a>
-    </div>
-    <div>
-        <h4>Powerbait</h4>
-        <div>The classic trout bait. I typically use micetails in favor of Powerbait these days, but sometimes the original dough
-            will work when nothing else will. Take a small bit of the dough, and mold it around a size 14-16 treble hook on a
-            sliding sinker rig. Cast the bait out and just let it sit. It can smell kinda bad, so be ready to vigorously
-            clean your hands afterward. I've linked the garlic flavor, but the corn and original scents work just as
-            well. I personally don't think the color matters a whole lot, but some people swear by chartreuse.</div>
-        <a href="https://amzn.to/3thy8dM" class="buybutton" target="_blank">See on Amazon</a>
-    </div>
-</div>
 <div class="gear">
     <div class="gearimg">
         <a href="https://amzn.to/3aYUpEN" target="_blank">
@@ -247,13 +242,19 @@ Here are a few lures you should have in your tackle box:
 {% include _gear/disclaimer.html %}
 
 
-### Get a Two Rod Stamp!
+### A Note: Get a Two Rod Stamp!
 
 When doing trout fishing here in California, I highly recommend thinking about getting a two rod stamp on your fishing license. With a two rod stamp, you can cast out one rod with bait and let it sit, and rig up another rod with a lure. This way, you get the best of both worlds!
 
-## Where to Catch Bay Area Trout
+## Where to Fish on the Lake
 
-In general, when I pick a spot on the lake I try and choose an area of the water with noticeable variation. For example, this can mean an area where the shoreline switches from gravel to dirt, or off points where the land abruptly juts into the water. These changes seem to concentrate the trout. However, when the lakes are crowded as can often be the case here in the Bay Area, you might not have a whole lot of options. Don't worry too much - most spots will at least be ok.
+Within a day or two after a plant, spots close to where the fish are released can be great places to fish --- this is typically the boat launch at most of our local lakes. The freshly stocked trout often don't move too much immediately after they are put into the lake, so they can be easy pickins for any nearby fishermen. This can be pretty crowded fishing though --- these spots are often the most popular, so don't get annoyed if it ends up being shoulder-to-shoulder.
+
+If you're fishing a few days after a plant, shallow flats can be killer spots on our local lakes. It seems that the stocked fish will often school up and congregate on these flats for a short period of time after they get stocked into the lake (my personal theory is that these areas most resemble the concrete tanks they were raised in). Examples of these areas include the cove at Quarry Lakes and the swim beach area at Shadow Cliffs. <a href="https://amzn.to/3pqIyHL">Minijigs</a> can be killer in such a scenario --- I've found that freshly planted trout find them very hard to resist.
+
+A common local myth suggests that if the lake hasn't been recently stocked, it is probably pretty much fished out. I find this pretty patentedly untrue --- I've caught full stringers of trout weeks after plants in our local lakes. The big difference is that the fish will congregate in different areas over time, and thus the spots that work well immediately after a plant don't work so well afterwards. If the lake has not been planted recently, I've found that a general decent strategy is to pick spots where there is some kind of noticeable variation. For example, this can mean an area where the shoreline switches from gravel to dirt, any "points" of land that abruptly jut out into the water, or any underwater depth variation. These changes in the landscape seem to concentrate the trout, but they take some exploration and experimentation to find. Typically, you want to find some water that is fairly deep, but not too deep --- if I'm fishing bait, I like spots where if I cast out, I can wait 10-20 seconds for my bait to touch the bottom. Just in case the fish are a bit shallower, I will also cast my second rod a bit closer in to shore.
+
+## Spots to Catch Bay Area Trout
 
 In the South Bay, [Sandy Wool Lake](/sandywool) is a small pond that gets stocked every 2-3 weeks in the winter months with trout. [Stevens Creek Reservoir](/stevenscreek), Lexington Reservoir, Lake Cunningham, and the Campbell Percolation Ponds used to get planted with trout by the DFG, but no longer. If you're willing to make the drive, [Loch Lomond](/lochlomond) off Highway 17 is a decent place to cast a line in the spring.
 
