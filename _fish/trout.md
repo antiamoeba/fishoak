@@ -73,14 +73,14 @@ If you want some specific recommendations:
 </div>
 </div>
 
-Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
+Honestly a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno" target="_blank">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
 
-One thing to remember, once you've rigged up all of your line, is to make sure the drag is set appropriately on the reel. Here in the Bay Area, we are blessed by plants with Lassen trout at quite a few local lakes --- these fish can be larger than 5 lbs so they put up a hefty fight. From experience, I've lost lots of trout since my drag was set too tight, and my line snapped when the fish pulled too hard. Before fishing, double check that when you pull on your line by hand, your drag releases line with a hard enough tug.
+One thing to remember, once you've rigged up all of your line, is to make sure the drag is set appropriately on the reel. Here in the Bay Area, we are blessed by plants with Lassen trout at quite a few local lakes --- these fish can be larger than 5 lbs so they put up a hefty fight. From experience, I've lost lots of trout since my drag was set too tight, and my line snapped when the fish pulled too hard. Before fishing, double check that when you pull on your line by hand, your drag releases line with a hard enough tug. I also highly recommend a net.
 
 
 ### Fishing with Bait
 
-Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce <a href="https://amzn.to/4gvMcIH">sliding sinker</a>, a <a href="https://amzn.to/4gXMrMx">bead</a> to protect your knot, a small <a href="https://amzn.to/4fEBRc0">swivel</a>, and a 12-36 inch leader of about <a href="https://amzn.to/4iM4tmq">2-4 lb line</a>. Here's an image of what it should look like:
+Fishing with bait is perhaps the most common technique that Bay Area fishermen use to catch trout. The general strategy is a <b>sliding-sinker rig</b> - in short, a free sliding ~1/4 ounce <a href="https://amzn.to/4gvMcIH" target="_blank">sliding sinker</a>, a <a href="https://amzn.to/4gXMrMx" target="_blank">bead</a> to protect your knot, a small <a href="https://amzn.to/4fEBRc0" target="_blank">swivel</a>, and a 12-36 inch leader of about <a href="https://amzn.to/4iM4tmq" target="_blank">2-4 lb line</a>. Here's an image of what it should look like:
 
 ![Sliding sinker rig](https://norrik.com/wp-content/uploads/2022/01/slip-sinker-rig.jpg)
 
@@ -193,7 +193,7 @@ Here are a few lures you should have in your tackle box:
 
 <div class="gear">
     <div class="gearimg">
-        <a href="https://amzn.to/3ag6G7m" target="_blank">
+        <a href="https://amzn.to/3DDrtUF" target="_blank">
             {% include amazon.html id="B0000AUXS2" %}
         </a>
     </div>
@@ -205,7 +205,7 @@ Here are a few lures you should have in your tackle box:
             Kastmasters on cloudy days or clear water. Kastmasters can be somewhat expensive - South Bend also sells <a
                 href="https://amzn.to/39CXJpH">Kastaways</a> which are somewhat cheaper but can't say I've personally
             used them.</div>
-        <a href="https://amzn.to/3agKmui" class="buybutton" target="_blank">See on Amazon</a>
+        <a href="https://amzn.to/3DDrtUF" class="buybutton" target="_blank">See on Amazon</a>
     </div>
 </div>
 
@@ -250,7 +250,7 @@ When doing trout fishing here in California, I highly recommend thinking about g
 
 Within a day or two after a plant, spots close to where the fish are released can be great places to fish --- this is typically the boat launch at most of our local lakes. The freshly stocked trout often don't move too much immediately after they are put into the lake, so they can be easy pickins for any nearby fishermen. This can be pretty crowded fishing though --- these spots are often the most popular, so don't get annoyed if it ends up being shoulder-to-shoulder.
 
-If you're fishing a few days after a plant, shallow flats can be killer spots on our local lakes. It seems that the stocked fish will often school up and congregate on these flats for a short period of time after they get stocked into the lake (my personal theory is that these areas most resemble the concrete tanks they were raised in). Examples of these areas include the cove at Quarry Lakes and the swim beach area at Shadow Cliffs. <a href="https://amzn.to/3pqIyHL">Minijigs</a> can be killer in such a scenario --- I've found that freshly planted trout find them very hard to resist.
+If you're fishing a few days after a plant, shallow flats can be killer spots on our local lakes. It seems that the stocked fish will often school up and congregate on these flats for a short period of time after they get stocked into the lake (my personal theory is that these areas most resemble the concrete tanks they were raised in). Examples of these areas include the cove at Quarry Lakes and the swim beach area at Shadow Cliffs. <a href="https://amzn.to/3pqIyHL" target="_blank">Minijigs</a> can be killer in such a scenario --- I've found that freshly planted trout find them very hard to resist.
 
 A common local myth suggests that if the lake hasn't been recently stocked, it is probably pretty much fished out. I find this pretty patentedly untrue --- I've caught full stringers of trout weeks after plants in our local lakes. The big difference is that the fish will congregate in different areas over time, and thus the spots that work well immediately after a plant don't work so well afterwards. If the lake has not been planted recently, I've found that a general decent strategy is to pick spots where there is some kind of noticeable variation. For example, this can mean an area where the shoreline switches from gravel to dirt, any "points" of land that abruptly jut out into the water, or any underwater depth variation. These changes in the landscape seem to concentrate the trout, but they take some exploration and experimentation to find. Typically, you want to find some water that is fairly deep, but not too deep --- if I'm fishing bait, I like spots where if I cast out, I can wait 10-20 seconds for my bait to touch the bottom. Just in case the fish are a bit shallower, I will also cast my second rod a bit closer in to shore.
 
