@@ -40,4 +40,14 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 
 {% include _ads/article.html %}
 
+# Recent Reports 
+{% assign sorted = site.reports | reverse %}
+{% for report in sorted %}
+{% if report.location == page.slug %}
+<h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+<h4>{{ report.date | date_to_string }}</h4>
+<p>{{ report.content | markdownify }}</p>
+{% endif %}
+{% endfor %}
+
 {% include _comments/fb.html %}
