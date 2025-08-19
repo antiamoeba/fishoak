@@ -133,6 +133,15 @@ h1, h2, h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+table img{
+    max-height: 300px;
+
+}
 .caption {
     text-align: center;
     color: black;
