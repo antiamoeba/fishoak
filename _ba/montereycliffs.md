@@ -41,6 +41,16 @@ A common catch here are black-and-yellow rockfish, similar to other rocky-shore 
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
+# Recent Reports 
+{% assign sorted = site.reports | reverse %}
+{% for report in sorted %}
+{% if report.location == page.slug %}
+<h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+<h4>{{ report.date | date_to_string }}</h4>
+<p>{{ report.content | markdownify }}</p>
+{% endif %}
+{% endfor %}
+
 ## Some of Our Adventures
 
 <p style="text-align:center;">
