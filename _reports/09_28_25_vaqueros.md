@@ -2,7 +2,7 @@
 layout: report
 location:  los-vaqueros
 title: A Big Catfish at Los Vaqueros
-date: 2025-9-01
+date: 2025-9-28
 ---
 
 Been meaning to try and catch some catfish recently. This weekend I saw that the weather report called for balmy weather inland, so I decided to take the opportunity to head to the normally extremely hot Los Vaqueros Reservoir.
