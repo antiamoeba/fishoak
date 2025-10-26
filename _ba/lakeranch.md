@@ -6,7 +6,7 @@ image: lakeranch/lakeranch.jpg
 # Fishing Lake Ranch Reservoir
 
 Lake Ranch Reservoir is a peaceful forested pond, hidden deep in the woods of Sanborn County Park. You'll be surrounded the sounds of frogs, woodpeckers and the cool breeze, making it a lovely place to spend an afternoon.
-Getting there requires a short walk via John Nicholas Trail - the easiest access can be found via a flat 1.5 mile hike starting [here](https://maps.app.goo.gl/VphLJBRd9dMGPMpz8) off Black Roadd, where you can park for free. 
+Getting there requires a short walk via John Nicholas Trail - the easiest access can be found via a flat 1.5 mile hike starting [here](https://maps.app.goo.gl/VphLJBRd9dMGPMpz8) off Black Road, where you can park for free. 
 
 ## About the Lake
 
