@@ -177,6 +177,20 @@ In terms of hard baits, most people use some sort of jig, which can get pretty e
     </div>
 </div>
 
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/4p9ReOw" target="_blank">
+            {% include amazon.html id="B0CV1PXTG1" %}
+        </a>
+    </div>
+    <div>
+        <h4>Z-man Slim Swimz</h4>
+        <div>I recently started using Z-man swimbaits a lot more. They are a lot more durable than the above swimbaits, and as a bonus they are supposedly non-toxic (unlike the phthalate-heavy soft plastics made by other brands). These particular Slim Swimz are a 2.5" swimbait, that are the perfect size for blue and block rockfish.</div>
+        <a href="https://amzn.to/4p9ReOw" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
+</div>
+
+
 You can also probably use any other generic soft plastic, including bass-style plastics. I hear people have had decent success with Senkos and creature-style baits, which I'm not entirely surprised by. One trickier thing about fishing these types of baits in saltwater is that you need to deal with the ocean currents. Thus, a lot of the slower falling techniques that bass fisherman use, like wacky rigging, don't work all the well from experience off the California coast. But if you can find a nice calm patch of water, I'm sure it'd work just fine, but I've never had too much luck.
 
 A lot of fishermen also like using something called a shrimp fly, which are typically used off boats. I typically don't bother off shore since you'll lose a ton of these rigs from snags, but if you need the extra attraction:

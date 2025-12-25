@@ -37,6 +37,7 @@ from paapi5_python_sdk.models.get_items_resource import GetItemsResource
 from paapi5_python_sdk.models.partner_type import PartnerType
 from paapi5_python_sdk.rest import ApiException
 
+import time
 
 def parse_response(item_response_list):
     """
@@ -115,6 +116,8 @@ def get_items(access_key, secret_key, partner_tag, all_item_ids):
                 print("\nPrinting Errors:\nPrinting First Error Object from list of Errors")
                 print("Error code", response.errors[0].code)
                 print("Error message", response.errors[0].message)
+
+            time.sleep(1)
 
         except ApiException as exception:
             print("Error calling PA-API 5.0!")
