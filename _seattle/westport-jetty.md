@@ -1,6 +1,7 @@
 ---
 title: Westport Jetty
 image: westport_jetty.jpg
+layout: default_sea
 ---
 
 # Fishing the Westport Jetty

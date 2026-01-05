@@ -1,34 +1,20 @@
 ---
-page_title: Fishoak - Bay Area Fishing and Hiking Adventures
-title: <span class="fishoak">Fishoak</span> - Bay Area Fishing and Hiking Adventures
+page_title: Fishoak - Pittsburgh Fishing and Hiking Adventures
+title: <span class="fishoak">Fishoak</span> - Pittsburgh Fishing and Hiking Adventures
 layout: main
 ---
 <div class="content" style="margin-top: 80px;">
     <link rel="stylesheet" type="text/css" href="assets/css/home.css">
     <div class="card-header">
-        <h1>Bay Area fishing and hiking spots</h1>
+        <h1>Pittsburgh fishing and hiking spots</h1>
     </div>
     <hr>
-    <div class="card-header">
-        <h2>Bay Area</h2>
-    </div>
-    <div class="tags">
-        {% for loc in site.ba %}
-        <a href="{{loc.url}}" class="invis">
-            <div class="tn">
-                <img src="assets/images/{{loc.image}}" />
-                <h2>{{loc.title}}</h2>
-            </div>
-        </a>
-        {% endfor %}
-    </div>
 
-    <!-- <hr> -->
     <div class="card-header spt">
-        <h2>The Sierras</h2>
+        <h2>Pittsburgh</h2>
     </div>
     <div class="tags">
-        {% for loc in site.sierra %}
+        {% for loc in site.pgh %}
         <a href="{{loc.url}}" class="invis">
             <div class="tn">
                 <img src="assets/images/{{loc.image}}" />
@@ -45,12 +31,14 @@ layout: main
     </div>
     <div class="tags">
         {% for fish in site.fish %}
+        {% if fish.short_title != "Rockfish" %}
         <a href="{{fish.url}}" class="invis">
             <div class="tn">
                 <img src="assets/images/{{fish.image}}" />
                 <h2>{{fish.short_title}}</h2>
             </div>
         </a>
+        {% endif %}
         {% endfor %}
     </div>
 
@@ -68,4 +56,4 @@ layout: main
 
     </div>
 </div>
-{% include nav.html %}
+{% include nav_pit.html %}

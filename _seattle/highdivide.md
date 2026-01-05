@@ -1,6 +1,7 @@
 ---
 title: High Divide and Seven Lakes Basin Loop
 image: highdivide/sevenlakesbasin.webp
+layout: default_sea
 ---
 
 Note: this is from a trip in July 2024 so far. So your experience may vary.

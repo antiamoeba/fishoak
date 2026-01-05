@@ -1,6 +1,7 @@
 ---
 title: Heather Lake
 image: heatherlake/heatherlake.webp
+layout: default_sea
 ---
 
 Note: this is from a few days of fishing in May 2024 so far. So your experience may vary.

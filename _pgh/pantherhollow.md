@@ -1,6 +1,7 @@
 ---
 title: Panther Hollow Lake
 image: pantherhollow.webp
+layout: default_pit
 ---
 
 # Fishing Panther Hollow Lake

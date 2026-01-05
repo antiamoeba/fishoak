@@ -1,6 +1,7 @@
 ---
 title: Lake 22
 image: lake22/mainlake.webp
+layout: default_sea
 ---
 
 Note: this is from a trip in June 2024 so far. So your experience may vary.
