@@ -1,0 +1,25 @@
+
+<div><strong>Recent fish stocks</strong>:</div>
+<table style="margin-left: 0px;">
+    <thead><tr><td>Date</td><td>Quantity</td><td>Source</td></tr></thead>
+    <tbody>
+        {% for stock_entry in site.data.stocking %}
+        {% assign test_url = stock_entry[1] | prepend: "/" %}
+        {% if page.url == test_url %}
+        <tr>
+            <!-- Date -->
+            <td>{{stock_entry[0]}}</td> 
+
+            <!-- Lbs -->
+            {% if stock_entry[2] >= 0 %}
+            <td>{{stock_entry[2]}} lbs</td> 
+            {% else %}
+            <td></td> 
+            {% endif %}
+            <!-- Source -->
+            <td>{{stock_entry[3]}}</td>
+        </tr>
+        {% endif %}
+    {% endfor %}
+    </tbody>
+</table>

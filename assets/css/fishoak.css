@@ -168,3 +168,18 @@ code {
     background-color: #f8f8f8;
     padding: 30px;
 }
+
+table > thead > tr > td {
+    font-weight: bold;
+    background-color: #333;
+    color: white;
+}
+
+table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse; 
+}

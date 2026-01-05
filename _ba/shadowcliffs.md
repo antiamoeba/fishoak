@@ -9,6 +9,7 @@ Shadow Cliffs Reservoir is a converted gravel quarry that is stocked with trout 
 
 <span style="color:red">This page is under construction, need to fish at this lake more ☺️ Please check back later for more info!</span>
 
+{% include stocks_loc.html %}
 
 ## About the Lake
 
