@@ -16,29 +16,29 @@ In general, you can probably use the same rod you'd use for trout in a lake. How
 If you want some specific recommendations:
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2Mf4Bkd" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Daiwa Minispin Travel Combo</h4>
-    <div>My favorite trout rod of all time. These setups are 4 or 5 piece rod-and-reel combos that fit in a small portable travel case. It's quite sturdy and its small size makes it easy to get through heavy brush.</div>
-    <a href="https://amzn.to/2Mf4Bkd" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+    <a href="https://amzn.to/2Mf4Bkd" target="_blank">
+    {% include amazon.html id="B000MQTJW2" %}
+    </a>
+    </div>
+    <div>
+        <h4>Okuma Avenger Travel Kit</h4>
+        <div>My current trout rod of choice. It's a 6 foot spinning rod that comes in 5 pieces in a travel case, making it portable for whatever fishing you might need to do. It's light enough to be able to cast tiny lures long distances, but also works just fine for your classic bait-and-wait fishing.</div>
+        <a href="https://amzn.to/2Mf4Bkd" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3rbCgdo" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Berkley Trilene XL Monofilament Line (4 lb)</h4>
-    <div>My go-to trout fishing line. This stuff casts pretty well and is decently high quality, and doesn't break super often.</div>
-    <a href="https://amzn.to/3rbCgdo" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+    <div class="gearimg">
+    <a href="https://amzn.to/3rbCgdo" target="_blank">
+    {% include amazon.html id="B0001DWF54" %}
+    </a>
+    </div>
+    <div>
+        <h4>Berkley Trilene XL Monofilament Line (4 lb)</h4>
+        <div>My go-to trout fishing line. This stuff casts pretty well and is decently high quality, and doesn't break super often.</div>
+        <a href="https://amzn.to/3rbCgdo" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 Just like in still water, a cheap setup from Walmart or Big 5 will probably work just as well. <a href="https://amzn.to/3cV7Xno">This cheap setup from Amazon</a>, which I haven't used, also seems like it would work well. If you buy a combo with pre-spooled line, I'd probably replace the line if possible - the pre-spooled line is usually pretty low quality and will cause you a lot of pain in the future.
@@ -71,7 +71,7 @@ With these ideas in mind, let's talk the exact rig you should be using.
 
 If you want to fish bait, all you should be using is just a hook, and maybe 1-2 split shot if necessary - something like this:
 
-![split shot rig](http://ultimatefishingsite.net/wp-content/uploads/split-shot-rig-header-final-1.webp)
+![split shot rig](https://anglers.com/wp-content/uploads/2022/03/split-shot-rig-1024x614.png)
 
 Your goal is to get your bait to drift naturally in the current - so the less weight, the better, unless you really need the extra casting distance or the current is too fast. I usually get lead-free split shots - something like [this](https://amzn.to/39gywAt). I combine it with a [size 8 baitholder hook](https://amzn.to/3Ad94Ys). For bait, I mainly use three or four different things:
 
@@ -80,7 +80,7 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3limqw3" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+{% include amazon.html id="B00SYQTB8E" %}
 </a>
 </div>
 <div>
@@ -91,84 +91,88 @@ Your goal is to get your bait to drift naturally in the current - so the less we
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2YwFiwp" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
+    <div class="gearimg">
+        <a href="https://amzn.to/2YwFiwp" target="_blank">
+            {% include amazon.html id="B00EO96ZKM" %}
+        </a>
+    </div>
+    <div>
+        <h4>Powerbait Micetails</h4>
+        <div>A piece of soft plastic infused with Powerbait flavoring. These days, I far prefer micetails over Powerbait, 
+            as I think they have a bit of extra attraction in moving water. Additionally, micetails are way less messy than the Powerbait, and you don't leave random floating pieces of plastic dough floating in the lake after you're done fishing. Fish it on a sliding sinker rig with a size 8-10 mosquito hook to make sure it floats.
+        </div>
+        <a href="https://amzn.to/2YwFiwp" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
-<div>
-    <h4>Powerbait Micetails</h4>
-    <div>A less messy version of Powerbait, which is basically a piece of soft plastic infused with the Powerbait flavoring. I prefer the micetails in moving water, as they have a more natural appearance and drift more naturally. Hook them through the egg part of the bait.</div>
-    <a href="https://amzn.to/2YwFiwp" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/3ra2ZGZ" target="_blank">
+            {% include amazon.html id="B00LDYHV7W" %}
+        </a>
+        </div>
+    <div>
+        <h4>Pautzke's Salmon Eggs</h4>
+        <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. The general trick is to thread a couple salmon eggs onto a size 8-10 hook, along with a mini marshmallow to make sure everything floats. In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days.</div>
+        <a href="https://amzn.to/3ra2ZGZ" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3ra2ZGZ" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Pautzke's Salmon Eggs</h4>
-    <div>Before Powerbait, salmon eggs were the preserved bait of choice for planted trout. Take a size 6-8 hook, and thread a few salmon eggs onto the hook, and cast them out! In my experience brand doesn't matter too much here, but certain companies sell scented or colored salmon eggs that might work better on particular days.</div>
-    <a href="https://amzn.to/3ra2ZGZ" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
-
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3nFuslJ" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
+    <div class="gearimg">
+        <a href="https://amzn.to/49DIZpj" target="_blank">
+            {% include amazon.html id="B0716TPPS2" %}
+        </a>
+    </div>
 <div>
     <h4>Crickets</h4>
     <div>A bait that I think should really be more popular here in California. Just thread on a cricket onto a baitholder hook, and just let it drift in the current. Again, you probably shouldn't buy your crickets from Amazon - just go to your local tackle shop/pet store, but I have a link here if you want to support this website.</div>
-    <a href="https://amzn.to/3nFuslJ" class="buybutton" target="_blank">See crickets on Amazon</a>
+    <a href="https://amzn.to/49DIZpj" class="buybutton" target="_blank">See crickets on Amazon</a>
 </div>
 </div>
 
-If you want to use lures, your typical lures for trout in lakes will probably work just as well. In general, they're a little harder to fish in streams - you might have to work them a little faster to get the proper action, and avoiding snags will be tough. But they often net some of the larger fish in a stream.
+If you want to use lures, your typical lures for trout in lakes will probably work just as well. In general, they're a little harder to fish in streams - you might have to work them a little faster to get the proper action, and avoiding snags will be tough. But they often net some of the larger fish in a stream. In general, you should cast upstream or cross-stream and let your lures naturally drift downstream. Retrieve as slowly as you can so that your lure behaves with a reasonable action.
 
 
-<div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/3aYUpEN" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
-</div>
-<div>
-    <h4>Thomas Buoyant, 1/4 or 1/6 oz</h4>
-    <div>A Kastmaster alternative. It casts a somewhat smaller distance, but the spoon has a slightly different fluttering action that seems to sometimes entice more hits.</div>
-    <a href="https://amzn.to/3aYUpEN" class="buybutton" target="_blank">See on Amazon</a>
-</div>
-</div>
 
 <div class="gear">
 <div class="gearimg">
 <a href="https://amzn.to/3pAlDHK" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
+{% include amazon.html id="B0000AUUHN" %}
 </a>
 </div>
 <div>
-    <h4>Panther Marin, 1/16 oz</h4>
+    <h4>Panther Martin, 1/16 oz</h4>
     <div>A classic trout spinner. I like a retrieve with many erratic jerks with these spinners, to let the blade flutter as much as possible. Traditionally the gold blade with black body and yellow spots has been the most effective for me, but the other colors should also work.</div>
     <a href="https://amzn.to/3pAlDHK" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
 <div class="gear">
-<div class="gearimg">
-<a href="https://amzn.to/2MjvqUq" target="_blank">
-<img border="0" src="/assets/images/questionmark.svg">
-</a>
+    <div class="gearimg">
+        <a href="https://amzn.to/3aYUpEN" target="_blank">
+            {% include amazon.html id="B00019ND8G" %}
+        </a>
+    </div>
+    <div>
+        <h4>Thomas Buoyant, 1/4 or 1/6 oz</h4>
+        <div>My favorite spoon in streams. Fish like the Panther Martin.</div>
+        <a href="https://amzn.to/3aYUpEN" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
-<div>
-    <h4>Trout Magnet</h4>
-    <div>A more exotic jig-type lure for trout. Thread one of the plastic grubs onto the jighead and use a twitching retrieve. I find that these lures can be quite hard to cast far, but these do pretty well in small creeks on finicky trout.</div>
-    <a href="https://amzn.to/2MjvqUq" class="buybutton" target="_blank">See on Amazon</a>
-</div>
+
+<div class="gear">
+    <div class="gearimg">
+        <a href="https://amzn.to/3pqIyHL" target="_blank">
+            {% include amazon.html id="B009AVIIBS" %}
+        </a>
+    </div>
+    <div>
+        <h4>Mini jig, 1/16 or 1/32 oz</h4>
+        <div>A small tube that can be twitched in the water to entice wary trout. Typically I find this type of lure is more effective in deeper pools. You can either try bouncing it off the bottom, or wiggling it in the middle of the water column. Can be hard to cast far, unless you're using very light line (2 - 4 lb)</div>
+        <a href="https://amzn.to/3pqIyHL" class="buybutton" target="_blank">See on Amazon</a>
+    </div>
 </div>
 
 With that, you're all set to start fishing for trout in streams! Just remember - trout want easy access to food, respite from the current, and safety from predators nearby. Keep these ideas in mind, and you'll be on the trout in no time.
