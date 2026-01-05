@@ -26,6 +26,10 @@ jobs:
         SECRET_KEY: ${{ secrets.SECRET_KEY }}
         STORE_ID: ${{ secrets.STORE_ID }}
       run: python _amazon/get_images.py "$ACCESS_KEY" "$SECRET_KEY" "$STORE_ID"
+    
+    - name: Add stocks
+      shell: bash
+      run: python _stocks/main.py
 
     - name: Commit new page
       run: |

@@ -1,0 +1,48 @@
+---
+page_title: Fishoak - Bay Area Fish Plants
+title: <span class="fishoak">Fishoak</span> - Fish Plants
+layout: main
+---
+<div class="content" style="margin-top: 80px;">
+    <link rel="stylesheet" type="text/css" href="/assets/css/home.css">
+    <div class="card-header">
+        <h1>Bay Area Fish Plants</h1>
+    </div>
+    <hr>
+    <p>A list of recent and future Bay Area fish plants. Currently pulls trout stocking data only from <a href="https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.Regions=R3&Params.Counties=1&Params.Counties=7&Params.Counties=21&Params.Counties=28&Params.Counties=34&Params.Counties=38&Params.Counties=39&Params.Counties=41&Params.Counties=43&Params.Counties=44&Params.Counties=48&Params.Counties=49&Params.Counties=57&RegionCountyMappings=&Params.PlantTimeFrame=2&submit=Search">the DFG</a>, <a href="https://www.ebparks.org/recreation/fishing/anglers-edge-online">EBRPD</a> and <a href="https://www.ccwater.com/149/Fishing">Los Vaqueros Reservoir</a>. Note that this is not a comprehensive list, as some other lakes stock fish without online updates (some Santa Clara County lakes, Lafayette Reservoir). I will update this site for catfish stocks as the summer gets closer. If you notice any problems or have suggestions for other sources, please email them to info@fishoak.com.</p>
+
+    <p>This table should be updated once a day. Keeps history of the last month of plants.</p>
+
+    <table>
+        <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Source</td></tr></thead>
+        <tbody>
+        {% for stock_entry in site.data.stocking %}
+        <tr>
+            <!-- Date -->
+            <td>{{stock_entry[0]}}</td> 
+            
+            <!-- Name/url -->
+            {% assign test_url = stock_entry[1] | prepend: "/" %}
+            {% assign location_page = site.ba | where: 'url', test_url | first %}
+            {% if location_page.url %}
+            <td><a href="{{location_page.url}}">{{location_page.title}}</a></td>
+            {% else %}
+            <td>{{stock_entry[1]}}</td>
+            {% endif %}
+
+            <!-- Lbs -->
+            {% if stock_entry[2] >= 0 %}
+            <td>{{stock_entry[2]}} lbs</td> 
+            {% else %}
+            <td></td> 
+            {% endif %}
+            <!-- Source -->
+            <td>{{stock_entry[3]}}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    {% include _ads/article.html %}
+</div>
+{% include nav.html %}
