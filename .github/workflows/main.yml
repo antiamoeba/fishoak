@@ -29,7 +29,10 @@ jobs:
     
     - name: Add stocks
       shell: bash
-      run: python _stocks/main.py
+      run: |
+        pip install beautifulsoup4 lxml
+        pip install DateRangeParser
+        python _stocks/main.py
 
     - name: Commit new page
       run: |
