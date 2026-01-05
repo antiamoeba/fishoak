@@ -32,7 +32,6 @@ jobs:
       run: |
         pip install beautifulsoup4 lxml
         pip install DateRangeParser
-        curl "https://www.ebparks.org/recreation/fishing/anglers-edge-online"
         python _stocks/main.py
 
     - name: Commit new page

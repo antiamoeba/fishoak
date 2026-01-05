@@ -14,7 +14,7 @@ def get_ebrpd():
     command = "curl \"https://www.ebparks.org/recreation/fishing/anglers-edge-online\""
     
     try:
-        ebrpd_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8').stdout
+        ebrpd_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8', shell=True).stdout
     except subprocess.CalledProcessError as e:
         print("EBRPD curl command failed with error:", e.stderr)
         return []
@@ -81,7 +81,7 @@ def get_dfg():
     command = "curl \"https://nrm.dfg.ca.gov/fishplants/publicplantsearch?Params.Regions=R3&Params.Counties=1&Params.Counties=7&Params.Counties=21&Params.Counties=28&Params.Counties=38&Params.Counties=41&Params.Counties=43&Params.Counties=44&Params.Counties=48&Params.Counties=49&RegionCountyMappings=&Params.PlantTimeFrame=1&submit=Search\""
     
     try:
-        dfg_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8').stdout
+        dfg_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8', shell=True).stdout
     except subprocess.CalledProcessError as e:
         print("DFG curl command failed with error:", e.stderr)
         return []
@@ -122,7 +122,7 @@ def get_vaqueros():
     command = "curl \"https://www.ccwater.com/149/Fishing\""
     
     try:
-        vaq_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8').stdout
+        vaq_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8', shell=True).stdout
     except subprocess.CalledProcessError as e:
         print("DFG curl command failed with error:", e.stderr)
         return []
