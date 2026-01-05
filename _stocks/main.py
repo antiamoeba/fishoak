@@ -68,8 +68,7 @@ def get_ebrpd():
             else:
                 time_i = i - 1 # account for location name index
                 lbs = int(entry)
-                if lbs > 0:
-                    stocking_data.append((dates[time_i], location, lbs, "EBRPD")) #[location].append((dates[time_i], lbs))
+                stocking_data.append((dates[time_i], location, lbs, "EBRPD")) #[location].append((dates[time_i], lbs))
 
     #print(f"EBRPD stocking: {stocking_data}")
     return stocking_data
@@ -158,9 +157,10 @@ def get_vaqueros():
             print("Unknown stocking source:", entry_cells)
     return stocking_data
 
+old_stocking_load = ["EBRPD"]
 def load_old_stocking():
     try:
-        with open(os.path.join(rel_path, "stocking.json")) as f:
+        with open(os.path.join(rel_path, "stocking_cache.json")) as f:
             old_stocking = json.load(f)
 
 
@@ -169,16 +169,16 @@ def load_old_stocking():
             old_stocking_proc = []
 
             for entry in old_stocking:
-                if "-" in entry[0]:
-                    start_date_str, end_date_str = entry[0].split("-")
-                    start_date = datetime.strptime(start_date_str, '%m/%d/%Y')
-                    end_date = datetime.strptime(end_date_str, '%m/%d/%Y')
+                if entry[3] in old_stocking_load:
+                    if "-" in entry[0]:
+                        start_date_str, end_date_str = entry[0].split("-")
+                        start_date = datetime.strptime(start_date_str, '%m/%d/%Y')
+                        end_date = datetime.strptime(end_date_str, '%m/%d/%Y')
 
-                    old_stocking_proc.append(((start_date, end_date), entry[1], entry[2], entry[3]))
-                else:
-                    start_date = datetime.strptime(entry[0], '%m/%d/%Y')
-                    old_stocking_proc.append((start_date, entry[1], entry[2], entry[3]))
-            
+                        old_stocking_proc.append(((start_date, end_date), entry[1], entry[2], entry[3]))
+                    else:
+                        start_date = datetime.strptime(entry[0], '%m/%d/%Y')
+                        old_stocking_proc.append((start_date, entry[1], entry[2], entry[3]))
             return old_stocking_proc
     except:
         return []
@@ -190,9 +190,23 @@ if __name__ == "__main__":
     vaq_stocking = get_vaqueros()
     old_stocking = load_old_stocking()
 
+    # stocking entries: (date, location, lbs, source)
 
     # combine stocking info
-    full_stocking = old_stocking + ebrpd_stocking + dfg_stocking + vaq_stocking
+    full_stocking = ebrpd_stocking + dfg_stocking + vaq_stocking
+
+    # add old stocks that do not conflate with current stocks
+    # 1: create dict mapping entries to lbs
+    old_stocking_valid = []
+    stocking_dict = {}
+    for entry in full_stocking:
+        stocking_dict[(entry[0], entry[1], entry[3])] = entry[2]
+    # 2: check if entry is in new dict
+    for entry in old_stocking:
+        if (entry[0], entry[1], entry[3]) not in stocking_dict:
+            old_stocking_valid.append(entry)
+    print(f"Loading old stockings: {old_stocking_valid}")
+    full_stocking = full_stocking + old_stocking_valid
 
     # remove any entries that are any older than one month
     curr_timestamp = datetime.now()
@@ -206,7 +220,7 @@ if __name__ == "__main__":
 
         date_diff = curr_timestamp - entry_date
 
-        if date_diff.days < 30:
+        if date_diff.days < 30 and entry[2] != 0:
             relevant_stocking.append(entry)
 
     # remove dupes
@@ -237,7 +251,7 @@ if __name__ == "__main__":
     print("Processed stocking:", relevant_stocking)
 
 
-    with open(os.path.join(rel_path, "stocking.json"), "w") as f:
+    with open(os.path.join(rel_path, "stocking_cache.json"), "w") as f:
         json.dump(relevant_stocking, f, indent=2)
     with open(os.path.join("_data", "stocking.json"), "w") as f:
         json.dump(relevant_stocking, f, indent=2)
