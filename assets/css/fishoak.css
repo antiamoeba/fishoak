@@ -183,3 +183,10 @@ table td {
 table {
     border-collapse: collapse; 
 }
+
+td.now {
+    font-weight: bold;
+    background-color: #32a852;
+    color: white;
+    text-align: center;
+}

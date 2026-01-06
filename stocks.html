@@ -16,29 +16,43 @@ layout: main
     <table>
         <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Source</td></tr></thead>
         <tbody>
+        {% assign now_timestamp = "now" | date: "%s" %}
+        {% assign displayed_now = false %}
         {% for stock_entry in site.data.stocking %}
-        <tr>
-            <!-- Date -->
-            <td>{{stock_entry[0]}}</td> 
-            
-            <!-- Name/url -->
-            {% assign test_url = stock_entry[1] | prepend: "/" %}
-            {% assign location_page = site.ba | where: 'url', test_url | first %}
-            {% if location_page.url %}
-            <td><a href="{{location_page.url}}">{{location_page.title}}</a></td>
-            {% else %}
-            <td>{{stock_entry[1]}}</td>
+            {% assign stock_date_split = stock_entry[0] | split: "/" %}
+            {% capture stock_date_time %}
+                {{stock_date_split[1]}}/{{stock_date_split[0]}}/{{stock_date_split[2]}}
+            {% endcapture %}
+            {% assign stock_date_timestamp = stock_date_time | date: "%s" %}
+            <!-- {{ stock_date_time | date: '%Y-%m-%d'}} -->
+            {% if displayed_now == false and stock_date_timestamp < now_timestamp %}
+                <tr>
+                    <td colspan="4" class="now">Today</td>
+                </tr>
+                {% assign displayed_now = true %}
             {% endif %}
+            <tr>
+                <!-- Date -->
+                <td>{{stock_entry[0]}}</td> 
+                
+                <!-- Name/url -->
+                {% assign test_url = stock_entry[1] | prepend: "/" %}
+                {% assign location_page = site.ba | where: 'url', test_url | first %}
+                {% if location_page.url %}
+                <td><a href="{{location_page.url}}">{{location_page.title}}</a></td>
+                {% else %}
+                <td>{{stock_entry[1]}}</td>
+                {% endif %}
 
-            <!-- Lbs -->
-            {% if stock_entry[2] >= 0 %}
-            <td>{{stock_entry[2]}} lbs</td> 
-            {% else %}
-            <td></td> 
-            {% endif %}
-            <!-- Source -->
-            <td>{{stock_entry[3]}}</td>
-        </tr>
+                <!-- Lbs -->
+                {% if stock_entry[2] >= 0 %}
+                <td>{{stock_entry[2]}} lbs</td> 
+                {% else %}
+                <td></td> 
+                {% endif %}
+                <!-- Source -->
+                <td>{{stock_entry[3]}}</td>
+            </tr>
         {% endfor %}
         </tbody>
     </table>
