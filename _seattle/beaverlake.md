@@ -35,4 +35,3 @@ Seems like a boat would be really helpful here like Pine Lake, but unfortunately
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

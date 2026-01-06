@@ -34,4 +34,3 @@ In the summer, this area gets taken over by swimmers. If you want to fish here t
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

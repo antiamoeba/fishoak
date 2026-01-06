@@ -70,4 +70,3 @@ The ever hungry bluegill is always an option. If you're using nightcrawlers it w
 Word has it some one caught a relative of the piranha in here ... 
 ```
 
-{% include _comments/fb.html %}

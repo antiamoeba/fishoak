@@ -40,4 +40,3 @@ Official website: [City of Palo Alto](https://www.cityofpaloalto.org/gov/depts/c
 {% endif %}
 {% endfor %}
 
-{% include _comments/fb.html %}

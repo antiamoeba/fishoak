@@ -264,4 +264,3 @@ In the San Francisco/San Mateo area, Lake Merced is pretty much your only option
 
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

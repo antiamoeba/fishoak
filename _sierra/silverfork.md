@@ -32,4 +32,3 @@ On another note, this river very pretty. Much of the river is not developed and 
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

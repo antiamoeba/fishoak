@@ -58,4 +58,3 @@ The management charges both a $6 parking fee and a $6 fishing fee. Expensive, bu
 {% endfor %}
 
 
-{% include _comments/fb.html %}

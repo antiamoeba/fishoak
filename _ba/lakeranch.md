@@ -28,4 +28,3 @@ For whatever reason, in the inverse of a typical reservoir, the dam area at Lake
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

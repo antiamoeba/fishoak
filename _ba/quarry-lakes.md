@@ -75,4 +75,3 @@ Fish plants and somewhat biased fishing reports: [Angler's Edge](https://www.ebp
 </p>
 
 
-{% include _comments/fb.html %}

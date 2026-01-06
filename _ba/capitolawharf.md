@@ -40,4 +40,3 @@ There is a small restaurant at the end of the wharf that presumably maintains th
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

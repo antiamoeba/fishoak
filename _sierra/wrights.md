@@ -47,4 +47,3 @@ Fish stockings at Wrights Lake: [DFW](https://nrm.dfg.ca.gov/FishPlants/Default.
 {% include _ads/article.html %}
 
 
-{% include _comments/fb.html %}

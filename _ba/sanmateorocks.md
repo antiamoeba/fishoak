@@ -50,4 +50,3 @@ Most of the rockfish I've caught here are black-and-yellow rockfish, similar to 
 {% endif %}
 {% endfor %}
 
-{% include _comments/fb.html %}

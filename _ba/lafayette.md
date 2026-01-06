@@ -39,4 +39,3 @@ Official website: [EBMUD](http://www.ebmud.com/recreation/east-bay/lafayette-res
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

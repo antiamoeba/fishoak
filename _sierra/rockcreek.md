@@ -33,4 +33,3 @@ There are a number of campgrounds in this area - check out this [website](https:
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

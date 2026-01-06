@@ -67,4 +67,3 @@ Official website: [Santa Clara County](https://parks.santaclaracounty.gov/locati
 </p>
 
 
-{% include _comments/fb.html %}

@@ -47,4 +47,3 @@ Parking at the trailhead requires a <a href="https://discoverpass.wa.gov/">Disco
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}

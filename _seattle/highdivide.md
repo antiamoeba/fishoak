@@ -77,4 +77,3 @@ Earlier in the season, there can be significant amounts of snow that cover the t
 {% include _gear/disclaimer.html %}
 {% include _ads/article.html %}
 
-{% include _comments/fb.html %}
