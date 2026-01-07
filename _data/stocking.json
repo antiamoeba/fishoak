@@ -7,13 +7,25 @@
   ],
   [
     "01/11/2026-01/17/2026",
-    "shadowcliffs",
+    "sandywool",
     -1,
     "DFG"
   ],
   [
     "01/11/2026-01/17/2026",
-    "sandywool",
+    "shadowcliffs",
+    -1,
+    "DFG"
+  ],
+  [
+    "01/04/2026-01/10/2026",
+    "Lake Temescal (Alameda)",
+    -1,
+    "DFG"
+  ],
+  [
+    "01/04/2026-01/10/2026",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
@@ -30,16 +42,10 @@
     "DFG"
   ],
   [
-    "01/04/2026-01/10/2026",
-    "Lake Temescal (Alameda)",
-    -1,
-    "DFG"
-  ],
-  [
-    "01/04/2026-01/10/2026",
-    "Merced Lake North (San Francisco)",
-    -1,
-    "DFG"
+    "12/22/2025-12/26/2025",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
   ],
   [
     "12/22/2025",
@@ -49,19 +55,13 @@
   ],
   [
     "12/22/2025-12/26/2025",
-    "Contra Loma Reservoir (Contra Costa)",
+    "Lake Temescal (Alameda)",
     1000,
     "EBRPD"
   ],
   [
     "12/22/2025-12/26/2025",
     "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "12/22/2025-12/26/2025",
-    "Lake Temescal (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -73,13 +73,13 @@
   ],
   [
     "12/21/2025-12/27/2025",
-    "Merced Lake North (San Francisco)",
+    "sandywool",
     -1,
     "DFG"
   ],
   [
     "12/21/2025-12/27/2025",
-    "sandywool",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
@@ -91,14 +91,14 @@
   ],
   [
     "12/15/2025-12/19/2025",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
+    "Lake Del Valle (Alameda)",
+    1000,
     "EBRPD"
   ],
   [
     "12/15/2025-12/19/2025",
-    "Lake Del Valle (Alameda)",
-    1000,
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
     "EBRPD"
   ],
   [
