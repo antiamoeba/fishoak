@@ -28,3 +28,5 @@ defaults:
         path: ""
       values:
         layout: default
+
+timezone: America/Los_Angeles
