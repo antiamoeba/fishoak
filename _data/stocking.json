@@ -18,8 +18,44 @@
     "DFG"
   ],
   [
+    "01/07/2026",
+    "los-vaqueros",
+    2000,
+    "CCWD"
+  ],
+  [
+    "01/05/2026-01/09/2026",
+    "shadowcliffs",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "01/05/2026-01/09/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "01/05/2026-01/09/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "01/05/2026-01/09/2026",
+    "Lake Chabot (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
     "01/04/2026-01/10/2026",
     "Lake Temescal (Alameda)",
+    -1,
+    "DFG"
+  ],
+  [
+    "01/04/2026-01/10/2026",
+    "quarry-lakes",
     -1,
     "DFG"
   ],
@@ -36,24 +72,6 @@
     "DFG"
   ],
   [
-    "01/04/2026-01/10/2026",
-    "quarry-lakes",
-    -1,
-    "DFG"
-  ],
-  [
-    "12/22/2025",
-    "los-vaqueros",
-    2000,
-    "CCWD"
-  ],
-  [
-    "12/22/2025-12/26/2025",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
     "12/22/2025-12/26/2025",
     "Contra Loma Reservoir (Contra Costa)",
     1000,
@@ -67,8 +85,26 @@
   ],
   [
     "12/22/2025-12/26/2025",
+    "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "12/22/2025-12/26/2025",
     "Lake Del Valle (Alameda)",
     1000,
+    "EBRPD"
+  ],
+  [
+    "12/22/2025",
+    "los-vaqueros",
+    2000,
+    "CCWD"
+  ],
+  [
+    "12/22/2025-12/26/2025",
+    "Lake Chabot (Alameda)",
+    800,
     "EBRPD"
   ],
   [
@@ -91,14 +127,8 @@
   ],
   [
     "12/15/2025-12/19/2025",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "12/15/2025-12/19/2025",
-    "Lake Chabot (Alameda)",
-    800,
+    "shadowcliffs",
+    1000,
     "EBRPD"
   ],
   [
@@ -109,19 +139,19 @@
   ],
   [
     "12/15/2025-12/19/2025",
-    "shadowcliffs",
-    1000,
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
     "EBRPD"
   ],
   [
     "12/14/2025-12/20/2025",
-    "Lakeshore Park Pond (Alameda)",
+    "Lake Temescal (Alameda)",
     -1,
     "DFG"
   ],
   [
     "12/14/2025-12/20/2025",
-    "Lake Temescal (Alameda)",
+    "Lakeshore Park Pond (Alameda)",
     -1,
     "DFG"
   ],
