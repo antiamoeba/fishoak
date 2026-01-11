@@ -25,20 +25,14 @@
   ],
   [
     "01/05/2026-01/09/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
     "Lake Chabot (Alameda)",
     800,
+    "EBRPD"
+  ],
+  [
+    "01/05/2026-01/09/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
     "EBRPD"
   ],
   [
@@ -48,14 +42,20 @@
     "EBRPD"
   ],
   [
+    "01/05/2026-01/09/2026",
+    "shadowcliffs",
+    1000,
+    "EBRPD"
+  ],
+  [
     "01/04/2026-01/10/2026",
-    "Merced Lake North (San Francisco)",
+    "Hidden Valley Pond (Contra Costa)",
     -1,
     "DFG"
   ],
   [
     "01/04/2026-01/10/2026",
-    "Hidden Valley Pond (Contra Costa)",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
@@ -70,6 +70,18 @@
     "quarry-lakes",
     -1,
     "DFG"
+  ],
+  [
+    "12/22/2025-12/26/2025",
+    "Lake Temescal (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "12/22/2025-12/26/2025",
+    "Lake Chabot (Alameda)",
+    800,
+    "EBRPD"
   ],
   [
     "12/22/2025-12/26/2025",
@@ -85,13 +97,7 @@
   ],
   [
     "12/22/2025-12/26/2025",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "12/22/2025-12/26/2025",
-    "Lake Temescal (Alameda)",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
@@ -100,12 +106,6 @@
     "los-vaqueros",
     2000,
     "CCWD"
-  ],
-  [
-    "12/22/2025-12/26/2025",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
   ],
   [
     "12/21/2025-12/27/2025",
@@ -151,13 +151,13 @@
   ],
   [
     "12/14/2025-12/20/2025",
-    "Hidden Valley Pond (Contra Costa)",
+    "Lake Temescal (Alameda)",
     -1,
     "DFG"
   ],
   [
     "12/14/2025-12/20/2025",
-    "Lake Temescal (Alameda)",
+    "Hidden Valley Pond (Contra Costa)",
     -1,
     "DFG"
   ]
