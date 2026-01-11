@@ -190,3 +190,17 @@ td.now {
     color: white;
     text-align: center;
 }
+
+td.last {
+    font-weight: bold;
+    background-color: #5ca8ff;
+    color: white;
+    text-align: center;
+}
+
+td.old {
+    font-weight: bold;
+    background-color: #ff5c5c;
+    color: white;
+    text-align: center;
+}

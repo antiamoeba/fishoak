@@ -17,19 +17,48 @@ layout: main
         <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Source</td></tr></thead>
         <tbody>
         {% assign now_timestamp = "now" | date: "%s" %}
-        {% assign displayed_now = false %}
+        {% assign now_week_timestamp = now_timestamp | date: "%Y-%m-%d" | round_to_sunday | date: "%s" %}
+        {% assign now_week_timestamp_end = now_week_timestamp | plus: 604800 | date: "%s" %}
+        {% assign prev_week_timestamp = now_week_timestamp | minus: 604800 | date: "%s" %}
+
+
+        {% assign displayed_this_week = false %}
+        {% assign displayed_last_week = false %}
+        {% assign displayed_old = false %}
         {% for stock_entry in site.data.stocking %}
             {% assign stock_date_split = stock_entry[0] | split: "/" %}
             {% capture stock_date_time %}
                 {{stock_date_split[1]}}/{{stock_date_split[0]}}/{{stock_date_split[2]}}
             {% endcapture %}
+            {% assign full_date_split = stock_entry[0] | split: "-" %}
+            {% if full_date_split.size > 1 %}
+                {% assign stock_end_split = full_date_split[1] | split: "/" %}
+                {% capture stock_end_time %}
+                    {{stock_end_split[1]}}/{{stock_end_split[0]}}/{{stock_end_split[2]}}
+                {% endcapture %}
+            {% else %}
+                {% assign stock_end_time = stock_date_time %}
+            {% endif %}
+
             {% assign stock_date_timestamp = stock_date_time | date: "%s" %}
-            <!-- {{ stock_date_time | date: '%Y-%m-%d'}} -->
-            {% if displayed_now == false and stock_date_timestamp < now_timestamp %}
+            {% assign stock_end_timestamp = stock_end_time | date: "%s" %}
+            {% if displayed_this_week == false and stock_date_timestamp < now_week_timestamp_end %}
                 <tr>
-                    <td colspan="4" class="now">Today</td>
+                    <td colspan="4" class="now">This week</td>
                 </tr>
-                {% assign displayed_now = true %}
+                {% assign displayed_this_week = true %}
+            {% endif %}
+            {% if displayed_last_week == false and stock_date_timestamp < now_week_timestamp %}
+                <tr>
+                    <td colspan="4" class="last">Last week</td>
+                </tr>
+                {% assign displayed_last_week = true %}
+            {% endif %}
+            {% if displayed_old == false and stock_end_timestamp < prev_week_timestamp %}
+                <tr>
+                    <td colspan="4" class="old">More than one week ago</td>
+                </tr>
+                {% assign displayed_old = true %}
             {% endif %}
             <tr>
                 <!-- Date -->
