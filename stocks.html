@@ -54,7 +54,7 @@ layout: main
                 </tr>
                 {% assign displayed_last_week = true %}
             {% endif %}
-            {% if displayed_old == false and stock_end_timestamp < prev_week_timestamp %}
+            {% if displayed_old == false and stock_date_timestamp < prev_week_timestamp %}
                 <tr>
                     <td colspan="4" class="old">More than one week ago</td>
                 </tr>
