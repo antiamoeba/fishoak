@@ -16,11 +16,11 @@ layout: main
     <table>
         <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Source</td></tr></thead>
         <tbody>
-        {% assign now_timestamp = "now" | date: "%s" %}
-        {% assign now_week_timestamp = now_timestamp | date: "%Y-%m-%d" | round_to_sunday | date: "%s" %}
+        {% assign now_timestamp = "now" | date: "%Y-%m-%d" | date: "%s" %}
+        {% assign time_from_sunday = now_timestamp | date: '%w' | times: 86400 %}
+        {% assign now_week_timestamp = now_timestamp | minus: time_from_sunday | date: "%s" %}
         {% assign now_week_timestamp_end = now_week_timestamp | plus: 604800 | date: "%s" %}
         {% assign prev_week_timestamp = now_week_timestamp | minus: 604800 | date: "%s" %}
-
 
         {% assign displayed_this_week = false %}
         {% assign displayed_last_week = false %}
