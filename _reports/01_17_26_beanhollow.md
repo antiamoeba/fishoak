@@ -5,7 +5,7 @@ title: Relaxing afternoon at Bean Hollow
 date: 2026-1-17
 ---
 
-The waves were calm today and there was a decent low tide in the afternoon (0.5), so I decided to take the opportunity to hit up Bean Hollow State Beach again. I was feeling lazy so I mainly stuck with bait --- today the name of the game was squid. I ended up landing a baby cabezon, a pan-sized black rockfish and a decent black-and-yellow rockfish. Fairly decent catches given how many fish I usually catch these days from the San Mateo coastline...
+The waves were calm today and there was a decent low tide in the afternoon (0.5), so I decided to take the opportunity to hit up Bean Hollow State Beach again. I was feeling lazy so I mainly stuck with bait --- today the name of the game was <a href="https://amzn.to/3YHyn2r" target="_blank">squid</a>. I ended up landing a baby cabezon, a pan-sized black rockfish and a decent black-and-yellow rockfish. Fairly decent catches given how many fish I usually catch these days from the San Mateo coastline...
 
 
 <table>
