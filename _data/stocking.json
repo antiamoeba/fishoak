@@ -6,14 +6,32 @@
     "CCWD"
   ],
   [
+    "01/12/2026-01/16/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "01/12/2026-01/16/2026",
+    "Lake Chabot (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "01/12/2026-01/16/2026",
+    "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
     "01/11/2026-01/17/2026",
-    "Lake Herman (Solano)",
+    "shadowcliffs",
     -1,
     "DFG"
   ],
   [
     "01/11/2026-01/17/2026",
-    "shadowcliffs",
+    "Lake Herman (Solano)",
     -1,
     "DFG"
   ],
@@ -37,12 +55,6 @@
   ],
   [
     "01/05/2026-01/09/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
     "Lake Chabot (Alameda)",
     800,
     "EBRPD"
@@ -60,14 +72,20 @@
     "EBRPD"
   ],
   [
+    "01/05/2026-01/09/2026",
+    "shadowcliffs",
+    1000,
+    "EBRPD"
+  ],
+  [
     "01/04/2026-01/10/2026",
-    "Lake Temescal (Alameda)",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
   [
     "01/04/2026-01/10/2026",
-    "Merced Lake North (San Francisco)",
+    "Lake Temescal (Alameda)",
     -1,
     "DFG"
   ],
@@ -82,6 +100,12 @@
     "Hidden Valley Pond (Contra Costa)",
     -1,
     "DFG"
+  ],
+  [
+    "12/22/2025-12/26/2025",
+    "quarry-lakes",
+    1000,
+    "EBRPD"
   ],
   [
     "12/22/2025-12/26/2025",
@@ -106,12 +130,6 @@
     "los-vaqueros",
     2000,
     "CCWD"
-  ],
-  [
-    "12/22/2025-12/26/2025",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
   ],
   [
     "12/22/2025-12/26/2025",
