@@ -19,12 +19,6 @@
   ],
   [
     "02/01/2026-02/07/2026",
-    "Lagoon Valley (Solano)",
-    -1,
-    "DFG"
-  ],
-  [
-    "02/01/2026-02/07/2026",
     "shadowcliffs",
     -1,
     "DFG"
@@ -32,6 +26,12 @@
   [
     "02/01/2026-02/07/2026",
     "sandywool",
+    -1,
+    "DFG"
+  ],
+  [
+    "02/01/2026-02/07/2026",
+    "Lagoon Valley (Solano)",
     -1,
     "DFG"
   ],
@@ -49,13 +49,13 @@
   ],
   [
     "01/26/2026-01/30/2026",
-    "Lake Del Valle (Alameda)",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
   [
     "01/26/2026-01/30/2026",
-    "Lake Chabot (Alameda)",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -73,18 +73,6 @@
   ],
   [
     "01/19/2026-01/23/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "01/19/2026-01/23/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/19/2026-01/23/2026",
     "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
@@ -93,6 +81,18 @@
     "01/19/2026-01/23/2026",
     "shadowcliffs",
     800,
+    "EBRPD"
+  ],
+  [
+    "01/19/2026-01/23/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "01/19/2026-01/23/2026",
+    "quarry-lakes",
+    1000,
     "EBRPD"
   ],
   [
@@ -127,13 +127,13 @@
   ],
   [
     "01/11/2026-01/17/2026",
-    "shadowcliffs",
+    "Lake Chabot (Solano)",
     -1,
     "DFG"
   ],
   [
     "01/11/2026-01/17/2026",
-    "Lake Chabot (Solano)",
+    "shadowcliffs",
     -1,
     "DFG"
   ],
@@ -148,29 +148,5 @@
     "los-vaqueros",
     2000,
     "CCWD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "01/05/2026-01/09/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
   ]
 ]
