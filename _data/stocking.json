@@ -1,5 +1,11 @@
 [
   [
+    "02/18/2026",
+    "los-vaqueros",
+    2000,
+    "CCWD"
+  ],
+  [
     "02/15/2026-02/21/2026",
     "sandywool",
     -1,
@@ -25,7 +31,7 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
@@ -37,21 +43,15 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
     "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
   [
-    "02/08/2026-02/14/2026",
-    "Merced Lake North (San Francisco)",
-    -1,
-    "DFG"
+    "02/09/2026-02/13/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
   ],
   [
     "02/08/2026-02/14/2026",
@@ -66,6 +66,12 @@
     "DFG"
   ],
   [
+    "02/08/2026-02/14/2026",
+    "Merced Lake North (San Francisco)",
+    -1,
+    "DFG"
+  ],
+  [
     "02/02/2026-02/06/2026",
     "quarry-lakes",
     1000,
@@ -79,21 +85,15 @@
   ],
   [
     "02/02/2026-02/06/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/02/2026-02/06/2026",
     "Lake Temescal (Alameda)",
     1000,
     "EBRPD"
   ],
   [
-    "02/01/2026-02/07/2026",
-    "Lagoon Valley (Solano)",
-    -1,
-    "DFG"
+    "02/02/2026-02/06/2026",
+    "shadowcliffs",
+    1000,
+    "EBRPD"
   ],
   [
     "02/01/2026-02/07/2026",
@@ -104,6 +104,12 @@
   [
     "02/01/2026-02/07/2026",
     "shadowcliffs",
+    -1,
+    "DFG"
+  ],
+  [
+    "02/01/2026-02/07/2026",
+    "Lagoon Valley (Solano)",
     -1,
     "DFG"
   ],
@@ -127,13 +133,13 @@
   ],
   [
     "01/26/2026-01/30/2026",
-    "Lake Temescal (Alameda)",
+    "Contra Loma Reservoir (Contra Costa)",
     800,
     "EBRPD"
   ],
   [
     "01/26/2026-01/30/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "Lake Temescal (Alameda)",
     800,
     "EBRPD"
   ],
