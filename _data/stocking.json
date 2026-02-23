@@ -13,12 +13,6 @@
   ],
   [
     "02/16/2026-02/20/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/16/2026-02/20/2026",
     "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
@@ -26,6 +20,12 @@
   [
     "02/16/2026-02/20/2026",
     "Lake Temescal (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "02/16/2026-02/20/2026",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
@@ -55,13 +55,7 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -73,9 +67,21 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "Lake Chabot (Alameda)",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
+  ],
+  [
+    "02/09/2026-02/13/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "02/08/2026-02/14/2026",
+    "Merced Lake North (San Francisco)",
+    -1,
+    "DFG"
   ],
   [
     "02/08/2026-02/14/2026",
@@ -90,20 +96,14 @@
     "DFG"
   ],
   [
-    "02/08/2026-02/14/2026",
-    "Merced Lake North (San Francisco)",
-    -1,
-    "DFG"
-  ],
-  [
     "02/02/2026-02/06/2026",
-    "Lake Del Valle (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
   [
     "02/02/2026-02/06/2026",
-    "quarry-lakes",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -115,19 +115,19 @@
   ],
   [
     "02/02/2026-02/06/2026",
-    "shadowcliffs",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
   [
     "02/01/2026-02/07/2026",
-    "shadowcliffs",
+    "Lagoon Valley (Solano)",
     -1,
     "DFG"
   ],
   [
     "02/01/2026-02/07/2026",
-    "Lagoon Valley (Solano)",
+    "shadowcliffs",
     -1,
     "DFG"
   ],
@@ -145,14 +145,14 @@
   ],
   [
     "01/26/2026-01/30/2026",
-    "Lake Chabot (Alameda)",
-    1000,
+    "Lake Temescal (Alameda)",
+    800,
     "EBRPD"
   ],
   [
     "01/26/2026-01/30/2026",
-    "Lake Temescal (Alameda)",
-    800,
+    "Lake Chabot (Alameda)",
+    1000,
     "EBRPD"
   ],
   [
