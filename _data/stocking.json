@@ -1,13 +1,37 @@
 [
   [
-    "03/01/2026-03/07/2026",
+    "03/02/2026-03/06/2026",
     "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/02/2026-03/06/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/02/2026-03/06/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/02/2026-03/06/2026",
+    "Lake Chabot (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/01/2026-03/07/2026",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
   [
     "03/01/2026-03/07/2026",
-    "Merced Lake North (San Francisco)",
+    "quarry-lakes",
     -1,
     "DFG"
   ],
@@ -19,13 +43,13 @@
   ],
   [
     "02/23/2026-02/27/2026",
-    "Lake Chabot (Alameda)",
+    "Contra Loma Reservoir (Contra Costa)",
     1000,
     "EBRPD"
   ],
   [
     "02/23/2026-02/27/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -37,7 +61,7 @@
   ],
   [
     "02/23/2026-02/27/2026",
-    "Lake Del Valle (Alameda)",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -49,7 +73,7 @@
   ],
   [
     "02/16/2026-02/20/2026",
-    "shadowcliffs",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -67,7 +91,7 @@
   ],
   [
     "02/16/2026-02/20/2026",
-    "Lake Chabot (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -79,13 +103,13 @@
   ],
   [
     "02/15/2026-02/21/2026",
-    "shadowcliffs",
+    "sandywool",
     -1,
     "DFG"
   ],
   [
     "02/15/2026-02/21/2026",
-    "sandywool",
+    "shadowcliffs",
     -1,
     "DFG"
   ],
@@ -97,7 +121,7 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "Lake Chabot (Alameda)",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -109,25 +133,25 @@
   ],
   [
     "02/09/2026-02/13/2026",
-    "Lake Del Valle (Alameda)",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
   [
     "02/09/2026-02/13/2026",
-    "quarry-lakes",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
   [
     "02/08/2026-02/14/2026",
-    "quarry-lakes",
+    "Hidden Valley Pond (Contra Costa)",
     -1,
     "DFG"
   ],
   [
     "02/08/2026-02/14/2026",
-    "Hidden Valley Pond (Contra Costa)",
+    "quarry-lakes",
     -1,
     "DFG"
   ],
