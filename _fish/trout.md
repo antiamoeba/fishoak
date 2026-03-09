@@ -23,27 +23,27 @@ If you want some specific recommendations:
 
 <div class="gear">
     <div class="gearimg">
-    <a href="https://amzn.to/2Mf4Bkd" target="_blank">
+    <a href="https://amzn.to/4rqmiL3" target="_blank">
     {% include amazon.html id="B000MQTJW2" %}
     </a>
     </div>
     <div>
         <h4>Okuma Avenger Travel Kit</h4>
         <div>My current trout rod of choice. It's a 6 foot spinning rod that comes in 5 pieces in a travel case, making it portable for whatever fishing you might need to do. It's light enough to be able to cast tiny lures long distances, but also works just fine for your classic bait-and-wait fishing.</div>
-        <a href="https://amzn.to/2Mf4Bkd" class="buybutton" target="_blank">See on Amazon</a>
+        <a href="https://amzn.to/4rqmiL3" class="buybutton" target="_blank">See on Amazon</a>
     </div>
 </div>
 
 <div class="gear">
 <div class="gearimg">
-<a href="https://amzn.to/3rbCgdo" target="_blank">
+<a href="https://amzn.to/4dbxTtT" target="_blank">
 {% include amazon.html id="B0001DWF54" %}
 </a>
 </div>
 <div>
     <h4>Berkley Trilene XL Monofilament Line (4 lb)</h4>
     <div>My go-to trout fishing line. This stuff casts pretty well and is decently high quality, and doesn't break super often.</div>
-    <a href="https://amzn.to/3rbCgdo" class="buybutton" target="_blank">See on Amazon</a>
+    <a href="https://amzn.to/4dbxTtT" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
 
