@@ -1,6 +1,12 @@
 [
   [
     "03/08/2026-03/14/2026",
+    "Foothill Regional Park Pond B (Sonoma)",
+    -1,
+    "DFG"
+  ],
+  [
+    "03/08/2026-03/14/2026",
     "sandywool",
     -1,
     "DFG"
@@ -19,14 +25,14 @@
   ],
   [
     "03/02/2026-03/06/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
+    "Lake Temescal (Alameda)",
+    800,
     "EBRPD"
   ],
   [
     "03/02/2026-03/06/2026",
-    "Lake Temescal (Alameda)",
-    800,
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
     "EBRPD"
   ],
   [
@@ -55,13 +61,13 @@
   ],
   [
     "02/23/2026-02/27/2026",
-    "shadowcliffs",
+    "Contra Loma Reservoir (Contra Costa)",
     1000,
     "EBRPD"
   ],
   [
     "02/23/2026-02/27/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -73,7 +79,7 @@
   ],
   [
     "02/23/2026-02/27/2026",
-    "Lake Del Valle (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -85,19 +91,13 @@
   ],
   [
     "02/16/2026-02/20/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/16/2026-02/20/2026",
     "Lake Temescal (Alameda)",
     1000,
     "EBRPD"
   ],
   [
     "02/16/2026-02/20/2026",
-    "shadowcliffs",
+    "quarry-lakes",
     1000,
     "EBRPD"
   ],
@@ -108,14 +108,14 @@
     "EBRPD"
   ],
   [
-    "02/15/2026-02/21/2026",
+    "02/16/2026-02/20/2026",
     "shadowcliffs",
-    -1,
-    "DFG"
+    1000,
+    "EBRPD"
   ],
   [
     "02/15/2026-02/21/2026",
-    "sandywool",
+    "shadowcliffs",
     -1,
     "DFG"
   ],
@@ -126,33 +126,15 @@
     "DFG"
   ],
   [
+    "02/15/2026-02/21/2026",
+    "sandywool",
+    -1,
+    "DFG"
+  ],
+  [
     "02/11/2026",
     "los-vaqueros",
     1000,
     "CCWD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "Lake Chabot (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
   ]
 ]
