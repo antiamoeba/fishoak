@@ -7,14 +7,14 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Lake Temescal (Alameda)",
-    800,
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
     "EBRPD"
   ],
   [
     "03/16/2026-03/20/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
+    "Lake Temescal (Alameda)",
+    800,
     "EBRPD"
   ],
   [
@@ -49,8 +49,8 @@
   ],
   [
     "03/09/2026-03/13/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
+    "Lake Chabot (Alameda)",
+    800,
     "EBRPD"
   ],
   [
@@ -61,25 +61,25 @@
   ],
   [
     "03/09/2026-03/13/2026",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
     "quarry-lakes",
     800,
     "EBRPD"
   ],
   [
+    "03/09/2026-03/13/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
     "03/08/2026-03/14/2026",
-    "sandywool",
+    "Foothill Regional Park Pond B (Sonoma)",
     -1,
     "DFG"
   ],
   [
     "03/08/2026-03/14/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
+    "sandywool",
     -1,
     "DFG"
   ],
@@ -91,18 +91,6 @@
   ],
   [
     "03/02/2026-03/06/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/02/2026-03/06/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/02/2026-03/06/2026",
     "Lake Chabot (Alameda)",
     800,
     "EBRPD"
@@ -114,14 +102,26 @@
     "EBRPD"
   ],
   [
+    "03/02/2026-03/06/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/02/2026-03/06/2026",
+    "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
     "03/01/2026-03/07/2026",
-    "Hidden Valley Pond (Contra Costa)",
+    "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
   [
     "03/01/2026-03/07/2026",
-    "Merced Lake North (San Francisco)",
+    "Hidden Valley Pond (Contra Costa)",
     -1,
     "DFG"
   ],
@@ -134,6 +134,12 @@
   [
     "02/23/2026-02/27/2026",
     "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "02/23/2026-02/27/2026",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -146,12 +152,6 @@
   [
     "02/23/2026-02/27/2026",
     "Lake Chabot (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/23/2026-02/27/2026",
-    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ]
