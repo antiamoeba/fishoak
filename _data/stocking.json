@@ -1,9 +1,21 @@
 [
   [
+    "03/31/2026",
+    "los-vaqueros",
+    2000,
+    "CCWD"
+  ],
+  [
     "03/29/2026-04/04/2026",
     "Merced Lake North (San Francisco)",
     -1,
     "DFG"
+  ],
+  [
+    "03/23/2026-03/27/2026",
+    "Lake Chabot (Alameda)",
+    800,
+    "EBRPD"
   ],
   [
     "03/23/2026-03/27/2026",
@@ -15,12 +27,6 @@
     "03/23/2026-03/27/2026",
     "Lake Del Valle (Alameda)",
     1000,
-    "EBRPD"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "Lake Chabot (Alameda)",
-    800,
     "EBRPD"
   ],
   [
@@ -37,8 +43,8 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
+    "Lake Temescal (Alameda)",
+    800,
     "EBRPD"
   ],
   [
@@ -49,8 +55,8 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Lake Temescal (Alameda)",
-    800,
+    "Lake Del Valle (Alameda)",
+    1000,
     "EBRPD"
   ],
   [
@@ -79,7 +85,7 @@
   ],
   [
     "03/09/2026-03/13/2026",
-    "shadowcliffs",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -91,7 +97,7 @@
   ],
   [
     "03/09/2026-03/13/2026",
-    "Lake Del Valle (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -103,13 +109,13 @@
   ],
   [
     "03/08/2026-03/14/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
+    "sandywool",
     -1,
     "DFG"
   ],
   [
     "03/08/2026-03/14/2026",
-    "sandywool",
+    "Foothill Regional Park Pond B (Sonoma)",
     -1,
     "DFG"
   ],
