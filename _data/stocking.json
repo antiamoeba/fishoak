@@ -1,5 +1,17 @@
 [
   [
+    "04/05/2026-04/11/2026",
+    "Foothill Regional Park Pond B (Sonoma)",
+    -1,
+    "DFG"
+  ],
+  [
+    "04/05/2026-04/11/2026",
+    "Ralphine Lake (Sonoma)",
+    -1,
+    "DFG"
+  ],
+  [
     "03/31/2026",
     "los-vaqueros",
     2000,
@@ -19,14 +31,14 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
+    "shadowcliffs",
+    1000,
     "EBRPD"
   ],
   [
     "03/30/2026-04/03/2026",
-    "shadowcliffs",
-    1000,
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
     "EBRPD"
   ],
   [
@@ -34,12 +46,6 @@
     "Merced Lake North (San Francisco)",
     -1,
     "DFG"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
   ],
   [
     "03/23/2026-03/27/2026",
@@ -56,6 +62,12 @@
   [
     "03/23/2026-03/27/2026",
     "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/23/2026-03/27/2026",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -73,13 +85,13 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "shadowcliffs",
+    "Lake Temescal (Alameda)",
     800,
     "EBRPD"
   ],
   [
     "03/16/2026-03/20/2026",
-    "Lake Temescal (Alameda)",
+    "shadowcliffs",
     800,
     "EBRPD"
   ],
@@ -91,13 +103,13 @@
   ],
   [
     "03/15/2026-03/21/2026",
-    "sandywool",
+    "Lake Chabot (Solano)",
     -1,
     "DFG"
   ],
   [
     "03/15/2026-03/21/2026",
-    "Lake Chabot (Solano)",
+    "sandywool",
     -1,
     "DFG"
   ],
@@ -106,6 +118,12 @@
     "los-vaqueros",
     1000,
     "CCWD"
+  ],
+  [
+    "03/09/2026-03/13/2026",
+    "shadowcliffs",
+    1000,
+    "EBRPD"
   ],
   [
     "03/09/2026-03/13/2026",
@@ -121,26 +139,8 @@
   ],
   [
     "03/09/2026-03/13/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
     "Lake Chabot (Alameda)",
     800,
     "EBRPD"
-  ],
-  [
-    "03/08/2026-03/14/2026",
-    "sandywool",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/08/2026-03/14/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
-    -1,
-    "DFG"
   ]
 ]
