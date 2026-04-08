@@ -19,19 +19,13 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "Lake Chabot (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
   [
     "03/30/2026-04/03/2026",
-    "Lake Del Valle (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "shadowcliffs",
+    "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -42,10 +36,22 @@
     "EBRPD"
   ],
   [
+    "03/30/2026-04/03/2026",
+    "Lake Del Valle (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
     "03/29/2026-04/04/2026",
     "Merced Lake North (San Francisco)",
     -1,
     "DFG"
+  ],
+  [
+    "03/23/2026-03/27/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
+    "EBRPD"
   ],
   [
     "03/23/2026-03/27/2026",
@@ -66,12 +72,6 @@
     "EBRPD"
   ],
   [
-    "03/23/2026-03/27/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
     "03/17/2026",
     "los-vaqueros",
     2000,
@@ -79,7 +79,13 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Contra Loma Reservoir (Contra Costa)",
+    "shadowcliffs",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/16/2026-03/20/2026",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
@@ -91,13 +97,7 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "shadowcliffs",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/16/2026-03/20/2026",
-    "Lake Del Valle (Alameda)",
+    "Contra Loma Reservoir (Contra Costa)",
     1000,
     "EBRPD"
   ],
@@ -118,29 +118,5 @@
     "los-vaqueros",
     1000,
     "CCWD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
-    "quarry-lakes",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/09/2026-03/13/2026",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
   ]
 ]
