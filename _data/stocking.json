@@ -7,12 +7,6 @@
   ],
   [
     "04/06/2026-04/10/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "04/06/2026-04/10/2026",
     "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
@@ -30,8 +24,14 @@
     "EBRPD"
   ],
   [
+    "04/06/2026-04/10/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
+    "EBRPD"
+  ],
+  [
     "04/05/2026-04/11/2026",
-    "Ralphine Lake (Sonoma)",
+    "Foothill Regional Park Pond B (Sonoma)",
     -1,
     "DFG"
   ],
@@ -43,7 +43,7 @@
   ],
   [
     "04/05/2026-04/11/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
+    "Ralphine Lake (Sonoma)",
     -1,
     "DFG"
   ],
@@ -55,14 +55,8 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "shadowcliffs",
+    "Lake Chabot (Alameda)",
     1000,
-    "EBRPD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
     "EBRPD"
   ],
   [
@@ -73,7 +67,13 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "Lake Chabot (Alameda)",
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/30/2026-04/03/2026",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -85,7 +85,7 @@
   ],
   [
     "03/23/2026-03/27/2026",
-    "Lake Temescal (Alameda)",
+    "Lake Chabot (Alameda)",
     800,
     "EBRPD"
   ],
@@ -97,7 +97,7 @@
   ],
   [
     "03/23/2026-03/27/2026",
-    "Lake Chabot (Alameda)",
+    "Lake Temescal (Alameda)",
     800,
     "EBRPD"
   ],
@@ -115,13 +115,13 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
+    "shadowcliffs",
+    800,
     "EBRPD"
   ],
   [
     "03/16/2026-03/20/2026",
-    "shadowcliffs",
+    "Lake Temescal (Alameda)",
     800,
     "EBRPD"
   ],
@@ -133,19 +133,19 @@
   ],
   [
     "03/16/2026-03/20/2026",
-    "Lake Temescal (Alameda)",
-    800,
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
     "EBRPD"
   ],
   [
     "03/15/2026-03/21/2026",
-    "sandywool",
+    "Lake Chabot (Solano)",
     -1,
     "DFG"
   ],
   [
     "03/15/2026-03/21/2026",
-    "Lake Chabot (Solano)",
+    "sandywool",
     -1,
     "DFG"
   ]
