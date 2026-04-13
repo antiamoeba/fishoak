@@ -22,7 +22,7 @@ The southern pond (or Pond #3) returns to clear water. For whatever reason, it s
 
 The creek itself is only open to fishing from the last Saturday in April to November 15, and barbless hooks and artifical lures are mandatory. However, there are some nice bass and carp that roam the banks. If you can carefully climb down to the water's edge, they can make for some solid fishing.
 
-To be honest, I wouldn't say the fishing here is great --- I think these ponds have seen so much fishing pressure that most of the fish have wizened up. However, it's a convenient place close to home to wet your line, and maybe that's all that matters.
+To be honest, I wouldn't say the fishing here is great --- I think these ponds have seen so much fishing pressure that most of the fish have wizened up. However, it's a convenient place close to home to wet your line, and maybe that's all that matters for our busy lives today.
 
 ## Notes
 
