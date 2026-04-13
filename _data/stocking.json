@@ -1,175 +1,151 @@
 [
   [
-    "03/08/2026-03/14/2026",
-    "sandywool",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/04/2026",
+    "04/08/2026",
     "los-vaqueros",
     2000,
     "CCWD"
   ],
   [
-    "03/02/2026-03/06/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/02/2026-03/06/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/02/2026-03/06/2026",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/02/2026-03/06/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/01/2026-03/07/2026",
-    "Hidden Valley Pond (Contra Costa)",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/01/2026-03/07/2026",
-    "quarry-lakes",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/01/2026-03/07/2026",
-    "Merced Lake North (San Francisco)",
-    -1,
-    "DFG"
-  ],
-  [
-    "02/23/2026-02/27/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/23/2026-02/27/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/23/2026-02/27/2026",
+    "04/06/2026-04/10/2026",
     "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
   [
-    "02/23/2026-02/27/2026",
-    "Lake Chabot (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/18/2026",
-    "los-vaqueros",
-    2000,
-    "CCWD"
-  ],
-  [
-    "02/16/2026-02/20/2026",
-    "Lake Temescal (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/16/2026-02/20/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/16/2026-02/20/2026",
+    "04/06/2026-04/10/2026",
     "quarry-lakes",
     1000,
     "EBRPD"
   ],
   [
-    "02/16/2026-02/20/2026",
-    "Lake Chabot (Alameda)",
-    1000,
+    "04/06/2026-04/10/2026",
+    "Lake Temescal (Alameda)",
+    800,
     "EBRPD"
   ],
   [
-    "02/15/2026-02/21/2026",
-    "Lake Herman (Solano)",
+    "04/06/2026-04/10/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "04/05/2026-04/11/2026",
+    "Foothill Regional Park Pond B (Sonoma)",
     -1,
     "DFG"
   ],
   [
-    "02/15/2026-02/21/2026",
+    "04/05/2026-04/11/2026",
     "sandywool",
     -1,
     "DFG"
   ],
   [
-    "02/15/2026-02/21/2026",
-    "shadowcliffs",
+    "04/05/2026-04/11/2026",
+    "Ralphine Lake (Sonoma)",
     -1,
     "DFG"
   ],
   [
-    "02/11/2026",
+    "03/31/2026",
     "los-vaqueros",
-    1000,
+    2000,
     "CCWD"
   ],
   [
-    "02/09/2026-02/13/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "02/09/2026-02/13/2026",
+    "03/30/2026-04/03/2026",
     "Lake Chabot (Alameda)",
     1000,
     "EBRPD"
   ],
   [
-    "02/09/2026-02/13/2026",
+    "03/30/2026-04/03/2026",
+    "Lake Del Valle (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/30/2026-04/03/2026",
     "Contra Loma Reservoir (Contra Costa)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/30/2026-04/03/2026",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
   [
-    "02/08/2026-02/14/2026",
-    "Hidden Valley Pond (Contra Costa)",
-    -1,
-    "DFG"
-  ],
-  [
-    "02/08/2026-02/14/2026",
+    "03/29/2026-04/04/2026",
     "Merced Lake North (San Francisco)",
     -1,
     "DFG"
   ],
   [
-    "02/08/2026-02/14/2026",
+    "03/23/2026-03/27/2026",
+    "Lake Chabot (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/23/2026-03/27/2026",
     "quarry-lakes",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/23/2026-03/27/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/23/2026-03/27/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/17/2026",
+    "los-vaqueros",
+    2000,
+    "CCWD"
+  ],
+  [
+    "03/16/2026-03/20/2026",
+    "shadowcliffs",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/16/2026-03/20/2026",
+    "Lake Temescal (Alameda)",
+    800,
+    "EBRPD"
+  ],
+  [
+    "03/16/2026-03/20/2026",
+    "Lake Del Valle (Alameda)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/16/2026-03/20/2026",
+    "Contra Loma Reservoir (Contra Costa)",
+    1000,
+    "EBRPD"
+  ],
+  [
+    "03/15/2026-03/21/2026",
+    "Lake Chabot (Solano)",
+    -1,
+    "DFG"
+  ],
+  [
+    "03/15/2026-03/21/2026",
+    "sandywool",
     -1,
     "DFG"
   ]
