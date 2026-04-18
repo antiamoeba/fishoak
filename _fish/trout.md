@@ -55,7 +55,7 @@ If you want some specific recommendations:
 </div>
 <div>
     <h4>Trout Magnet Phantom Fluorocarbon Leader Line (2 lb)</h4>
-    <div>My go-to leader line when fishing bait. Fluorocarbon is somewhat more clear underwater than typical monofilament fishing line, so I like using it as leader line to avoid spooking any fish. This particular brand is decent quality, while being on the cheaper end in terms of fluorocarbon.</div>
+    <div>My former go-to leader line when fishing bait. Fluorocarbon is somewhat more clear underwater than typical monofilament fishing line, so I used to use it as leader line to avoid spooking any fish. This particular brand is decent quality, while being on the cheaper end in terms of fluorocarbon. In recent years, I've mostly stopped using fluorocarbon in favor of mono leader since I've learned they are technically made of PFAS (commonly known as forever chemicals).</div>
     <a href="https://amzn.to/4iM4tmq" class="buybutton" target="_blank">See on Amazon</a>
 </div>
 </div>
