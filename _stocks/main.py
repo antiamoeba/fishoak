@@ -39,7 +39,7 @@ def get_ebrpd():
     dates = []
     curr_timestamp = datetime.now()
     for date in stocking_table.tbody.tr.stripped_strings:
-        start_date, end_date = drparse(str(date))
+        start_date, end_date = drparse(str(date).replace('\xa0', ' '))
         # correct year if no year was specified
         start_date_o = start_date.replace(year=start_date.year - 1)
         end_date_o = end_date.replace(year=end_date.year - 1)
