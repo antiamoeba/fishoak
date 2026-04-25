@@ -7,13 +7,13 @@
   ],
   [
     "04/20/2026-04/24/2026",
-    "shadowcliffs",
+    "Lake Del Valle (Alameda)",
     1000,
     "EBRPD"
   ],
   [
     "04/20/2026-04/24/2026",
-    "Lake Del Valle (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -31,8 +31,8 @@
   ],
   [
     "04/13/2026-04/17/2026",
-    "shadowcliffs",
-    1000,
+    "quarry-lakes",
+    800,
     "EBRPD"
   ],
   [
@@ -43,13 +43,13 @@
   ],
   [
     "04/13/2026-04/17/2026",
-    "quarry-lakes",
-    800,
+    "Lake Chabot (Alameda)",
+    1000,
     "EBRPD"
   ],
   [
     "04/13/2026-04/17/2026",
-    "Lake Chabot (Alameda)",
+    "shadowcliffs",
     1000,
     "EBRPD"
   ],
@@ -61,14 +61,14 @@
   ],
   [
     "04/06/2026-04/10/2026",
-    "quarry-lakes",
-    1000,
+    "Contra Loma Reservoir (Contra Costa)",
+    800,
     "EBRPD"
   ],
   [
     "04/06/2026-04/10/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
+    "quarry-lakes",
+    1000,
     "EBRPD"
   ],
   [
@@ -85,13 +85,13 @@
   ],
   [
     "04/05/2026-04/11/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
+    "Ralphine Lake (Sonoma)",
     -1,
     "DFG"
   ],
   [
     "04/05/2026-04/11/2026",
-    "Ralphine Lake (Sonoma)",
+    "Foothill Regional Park Pond B (Sonoma)",
     -1,
     "DFG"
   ],
@@ -109,8 +109,8 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "shadowcliffs",
-    1000,
+    "Lake Del Valle (Alameda)",
+    800,
     "EBRPD"
   ],
   [
@@ -121,8 +121,8 @@
   ],
   [
     "03/30/2026-04/03/2026",
-    "Lake Del Valle (Alameda)",
-    800,
+    "shadowcliffs",
+    1000,
     "EBRPD"
   ],
   [
