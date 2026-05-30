@@ -1,110 +1,14 @@
 [
   [
-    "04/08/2026",
+    "05/20/2026",
     "los-vaqueros",
-    2000,
+    3000,
     "CCWD"
   ],
   [
-    "04/06/2026-04/10/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "04/06/2026-04/10/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "04/06/2026-04/10/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "04/06/2026-04/10/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "04/05/2026-04/11/2026",
-    "Ralphine Lake (Sonoma)",
-    -1,
-    "DFG"
-  ],
-  [
-    "04/05/2026-04/11/2026",
-    "sandywool",
-    -1,
-    "DFG"
-  ],
-  [
-    "04/05/2026-04/11/2026",
-    "Foothill Regional Park Pond B (Sonoma)",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/31/2026",
+    "05/13/2026",
     "los-vaqueros",
     2000,
     "CCWD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "Lake Chabot (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "shadowcliffs",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "Contra Loma Reservoir (Contra Costa)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/30/2026-04/03/2026",
-    "Lake Del Valle (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/29/2026-04/04/2026",
-    "Merced Lake North (San Francisco)",
-    -1,
-    "DFG"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "Lake Del Valle (Alameda)",
-    1000,
-    "EBRPD"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "Lake Temescal (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "Lake Chabot (Alameda)",
-    800,
-    "EBRPD"
-  ],
-  [
-    "03/23/2026-03/27/2026",
-    "quarry-lakes",
-    1000,
-    "EBRPD"
   ]
 ]
