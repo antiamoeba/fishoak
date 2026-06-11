@@ -1,23 +1,29 @@
 
 <div><strong>Recent fish stocks</strong>:</div>
 <table style="margin-left: 0px;">
-    <thead><tr><td>Date</td><td>Quantity</td><td>Source</td></tr></thead>
+    <thead><tr><td>Date</td><td>Quantity</td><td>Species</td><td>Source</td></tr></thead>
     <tbody>
         {% for stock_entry in site.data.stocking %}
-        {% assign test_url = stock_entry[1] | prepend: "/" %}
+        {% assign test_url = stock_entry.location | prepend: "/" %}
         {% if page.url == test_url %}
         <tr>
             <!-- Date -->
-            <td>{{stock_entry[0]}}</td> 
+            {% if stock_entry.start_date != stock_entry.end_date %}
+            <td>{{stock_entry.start_date | date: "%m/%d/%Y"}}-{{stock_entry.end_date | date: "%m/%d/%Y"}}</td> 
+            {% else %}
+            <td>{{stock_entry.start_date | date: "%m/%d/%Y"}}</td> 
+            {% endif %}
 
             <!-- Lbs -->
-            {% if stock_entry[2] >= 0 %}
-            <td>{{stock_entry[2]}} lbs</td> 
+            {% if stock_entry.amount >= 0 %}
+            <td>{{stock_entry.amount}} lbs</td> 
             {% else %}
             <td></td> 
             {% endif %}
+            <!-- Species -->
+            <td>{{stock_entry.species}}</td>
             <!-- Source -->
-            <td>{{stock_entry[3]}}</td>
+            <td>{{stock_entry.source}}</td>
         </tr>
         {% endif %}
     {% endfor %}
