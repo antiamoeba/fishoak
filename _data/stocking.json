@@ -1,14 +1,50 @@
 [
-  [
-    "05/20/2026",
-    "los-vaqueros",
-    3000,
-    "CCWD"
-  ],
-  [
-    "05/13/2026",
-    "los-vaqueros",
-    2000,
-    "CCWD"
-  ]
+  {
+    "start_date": "2026-06-01T00:00:00",
+    "end_date": "2026-06-05T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-06-01T00:00:00",
+    "end_date": "2026-06-05T00:00:00",
+    "location": "Lake Chabot (Alameda)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-06-01T00:00:00",
+    "end_date": "2026-06-05T00:00:00",
+    "location": "shadowcliffs",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-06-01T00:00:00",
+    "end_date": "2026-06-05T00:00:00",
+    "location": "Contra Loma Reservoir (Contra Costa)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-05-20T00:00:00",
+    "end_date": "2026-05-20T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 3000,
+    "source": "CCWD",
+    "species": "Lassen Trout"
+  },
+  {
+    "start_date": "2026-05-13T00:00:00",
+    "end_date": "2026-05-13T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 2000,
+    "source": "CCWD",
+    "species": "Lassen Trout"
+  }
 ]

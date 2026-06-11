@@ -16,7 +16,7 @@ layout: main
     <p>This table should be updated once a day. Keeps history of the last month of plants.</p>
 
     <table>
-        <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Source</td></tr></thead>
+        <thead><tr><td>Date</td><td>Location</td><td>Quantity</td><td>Species</td><td>Source</td></tr></thead>
         <tbody>
         {% assign now_timestamp = "now" | date: "%Y-%m-%d" | date: "%s" %}
         {% assign time_from_sunday = now_timestamp | date: '%w' | times: 86400 %}
@@ -28,61 +28,52 @@ layout: main
         {% assign displayed_last_week = false %}
         {% assign displayed_old = false %}
         {% for stock_entry in site.data.stocking %}
-            {% assign stock_date_split = stock_entry[0] | split: "/" %}
-            {% capture stock_date_time %}
-                {{stock_date_split[1]}}/{{stock_date_split[0]}}/{{stock_date_split[2]}}
-            {% endcapture %}
-            {% assign full_date_split = stock_entry[0] | split: "-" %}
-            {% if full_date_split.size > 1 %}
-                {% assign stock_end_split = full_date_split[1] | split: "/" %}
-                {% capture stock_end_time %}
-                    {{stock_end_split[1]}}/{{stock_end_split[0]}}/{{stock_end_split[2]}}
-                {% endcapture %}
-            {% else %}
-                {% assign stock_end_time = stock_date_time %}
-            {% endif %}
+            {% assign stock_date_time = stock_entry.start_date %}
+            {% assign stock_end_time = stock_entry.end_date %}
 
             {% assign stock_date_timestamp = stock_date_time | date: "%s" %}
             {% assign stock_end_timestamp = stock_end_time | date: "%s" %}
             {% if displayed_this_week == false and stock_date_timestamp < now_week_timestamp_end %}
                 <tr>
-                    <td colspan="4" class="now">This week</td>
+                    <td colspan="5" class="now">This week</td>
                 </tr>
                 {% assign displayed_this_week = true %}
             {% endif %}
             {% if displayed_last_week == false and stock_date_timestamp < now_week_timestamp %}
                 <tr>
-                    <td colspan="4" class="last">Last week</td>
+                    <td colspan="5" class="last">Last week</td>
                 </tr>
                 {% assign displayed_last_week = true %}
             {% endif %}
             {% if displayed_old == false and stock_date_timestamp < prev_week_timestamp %}
                 <tr>
-                    <td colspan="4" class="old">More than one week ago</td>
+                    <td colspan="5" class="old">More than one week ago</td>
                 </tr>
                 {% assign displayed_old = true %}
             {% endif %}
             <tr>
                 <!-- Date -->
-                <td>{{stock_entry[0]}}</td> 
+                <td>{{stock_entry.start_date | date: "%m/%d/%Y"}} - {{stock_entry.end_date | date: "%m/%d/%Y"}}</td> 
                 
                 <!-- Name/url -->
-                {% assign test_url = stock_entry[1] | prepend: "/" %}
+                {% assign test_url = stock_entry.location | prepend: "/" %}
                 {% assign location_page = site.ba | where: 'url', test_url | first %}
                 {% if location_page.url %}
                 <td><a href="{{location_page.url}}">{{location_page.title}}</a></td>
                 {% else %}
-                <td>{{stock_entry[1]}}</td>
+                <td>{{stock_entry.location}}</td>
                 {% endif %}
 
                 <!-- Lbs -->
-                {% if stock_entry[2] >= 0 %}
-                <td>{{stock_entry[2]}} lbs</td> 
+                {% if stock_entry.amount >= 0 %}
+                <td>{{stock_entry.amount}} lbs</td> 
                 {% else %}
                 <td></td> 
                 {% endif %}
+                <!-- Species -->
+                <td>{{stock_entry.species}}</td>
                 <!-- Source -->
-                <td>{{stock_entry[3]}}</td>
+                <td>{{stock_entry.source}}</td>
             </tr>
         {% endfor %}
         </tbody>

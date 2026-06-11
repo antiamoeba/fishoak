@@ -2,7 +2,7 @@ import subprocess
 
 from bs4 import BeautifulSoup
 from daterangeparser import parse as drparse
-from datetime import datetime
+from datetime import datetime, date as datetime_date
 import json
 import os
 
@@ -36,9 +36,23 @@ def get_ebrpd():
         return []
     
     # get dates
+    data = []
+
+    # first, get table
     dates = []
     curr_timestamp = datetime.now()
-    for date in stocking_table.tbody.tr.stripped_strings:
+    for cell in stocking_table.tbody.tr.children:
+        cell_data = list(cell.stripped_strings)
+        if len(cell_data) == 0:
+            continue
+
+        if len(cell_data) == 2:
+            date, species = cell_data[0], cell_data[1]
+        else:
+            date = cell_data[0]
+            species = "trout"
+        print(date)
+
         start_date, end_date = drparse(str(date).replace('\xa0', ' '))
         # correct year if no year was specified
         start_date_o = start_date.replace(year=start_date.year - 1)
@@ -49,7 +63,7 @@ def get_ebrpd():
         if abs(end_date_o - curr_timestamp) < abs(end_date - curr_timestamp):
             end_date = end_date_o
 
-        dates.append((start_date, end_date))
+        dates.append({"start_date": start_date, "end_date": end_date, "species": species})
 
 
     # now, extract locations/dates (we'll remove zeros from here)
@@ -67,10 +81,18 @@ def get_ebrpd():
                     location = entry
             else:
                 time_i = i - 1 # account for location name index
-                lbs = int(entry)
-                stocking_data.append((dates[time_i], location, lbs, "EBRPD")) #[location].append((dates[time_i], lbs))
+                try:
+                    lbs = int(entry)
+                except Exception as e:
+                    print(f"Lb parsing error, substituting in 0 lbs: {e=}")
+                    lbs = 0
+                
+                start_date = dates[time_i]["start_date"]
+                end_date = dates[time_i]["end_date"]
+                species = dates[time_i]["species"]
+                stocking_data.append({"start_date": start_date, "end_date": end_date, "location": location, "amount": lbs, "source": "EBRPD", "species": species}) #[location].append((dates[time_i], lbs))
 
-    #print(f"EBRPD stocking: {stocking_data}")
+    print(f"EBRPD stocking: {stocking_data}")
     return stocking_data
 
 def get_dfg():
@@ -107,8 +129,10 @@ def get_dfg():
                 location_key = dfg_aliases[location + "_" + county]
             else:
                 location_key = f"{location} ({county})"
+
+            species = str(stocking_entry_cells[3].string).strip()
                 
-            stocking_data.append(((start_date, end_date), location_key, -1, "DFG"))
+            stocking_data.append({"start_date": start_date, "end_date": end_date, "location": location_key, "amount": -1, "source": "DFG", "species": species})
         
         #print(f"DFG stocking: {stocking_data}")
         return stocking_data
@@ -129,35 +153,53 @@ def get_vaqueros():
 
 
     all_tables = soup.find_all("table")
-    stocking_table = None
-    for table in all_tables:
-        row_text = " ".join(table.tbody.tr.stripped_strings)
-        if "Trout" in row_text:
-            stocking_table = table
-            break
-    
-    if stocking_table is None:
-        print("Could not find Vaqueros stocking table.")
-        return []
-    
-    stocking_entries = table.tbody.find_all("tr")
-    stocking_data = []
-    for entry in stocking_entries:
-        entry_cells = list(entry.stripped_strings)
-        date = datetime.strptime(entry_cells[0], '%m/%d/%Y')
 
-        try:
-            lbs = int(entry_cells[1].split(" ")[0].replace(',', ''))
-        except:
-            lbs = -1
+    all_stocking_data = []
 
-        if entry_cells[2] == "Lassen Trout":
-            stocking_data.append((date, "los-vaqueros", lbs, "CCWD"))
-        else:
-            print("Unknown stocking source:", entry_cells)
-    return stocking_data
+
+    def get_stocks_for_species(species):
+        stocking_data = []
+        stocking_table = None
+        for table in all_tables:
+            row_text = " ".join(table.tbody.tr.stripped_strings)
+            if species in row_text:
+                stocking_table = table
+                break
+        
+        if stocking_table is None:
+            print("Could not find Vaqueros stocking table.")
+            return []
+        
+        stocking_entries = table.tbody.find_all("tr")
+        for entry in stocking_entries:
+            entry_cells = list(entry.stripped_strings)
+            date = datetime.strptime(entry_cells[0], '%m/%d/%Y')
+
+            try:
+                lbs = int(entry_cells[1].split(" ")[0].replace(',', ''))
+            except:
+                lbs = -1
+
+            if entry_cells[2] == "Lassen Trout":
+                stocking_data.append({"start_date": date, "end_date": date, "location": "los-vaqueros", "amount": lbs, "source": "CCWD", "species": "Lassen Trout"})
+            elif species == "Tsai":
+                stocking_data.append({"start_date": date, "end_date": date, "location": "los-vaqueros", "amount": lbs, "source": "CCWD", "species": "Channel Catfish"})
+            else:
+                print("Unknown stocking source:", entry_cells)
+        print(stocking_data)
+        return stocking_data
+    all_stocking_data = get_stocks_for_species("Trout") + get_stocks_for_species("Tsai")
+    return all_stocking_data
 
 old_stocking_load = ["EBRPD"]
+
+def json_serial(obj):
+    """JSON serializer for objects not serializable by default json code"""
+
+    if isinstance(obj, (datetime, datetime_date)):
+        return obj.isoformat()
+    raise TypeError ("Type %s not serializable" % type(obj))
+
 def load_old_stocking():
     try:
         with open(os.path.join(rel_path, "stocking_cache.json")) as f:
@@ -169,19 +211,17 @@ def load_old_stocking():
             old_stocking_proc = []
 
             for entry in old_stocking:
-                if entry[3] in old_stocking_load:
-                    if "-" in entry[0]:
-                        start_date_str, end_date_str = entry[0].split("-")
-                        start_date = datetime.strptime(start_date_str, '%m/%d/%Y')
-                        end_date = datetime.strptime(end_date_str, '%m/%d/%Y')
-
-                        old_stocking_proc.append(((start_date, end_date), entry[1], entry[2], entry[3]))
-                    else:
-                        start_date = datetime.strptime(entry[0], '%m/%d/%Y')
-                        old_stocking_proc.append((start_date, entry[1], entry[2], entry[3]))
+                if entry["source"] in old_stocking_load:
+                    old_stocking_proc.append(entry)
             return old_stocking_proc
     except:
         return []
+    
+
+def entry_to_key(entry):
+    # index everything but lbs
+    return frozenset({k:v for k, v in entry.items() if k != "amount"})
+
 
 
 if __name__ == "__main__":
@@ -193,17 +233,18 @@ if __name__ == "__main__":
     # stocking entries: (date, location, lbs, source)
 
     # combine stocking info
-    full_stocking = ebrpd_stocking + dfg_stocking + vaq_stocking
+    full_stocking = ebrpd_stocking + vaq_stocking # + dfg_stocking + vaq_stocking
 
     # add old stocks that do not conflate with current stocks
     # 1: create dict mapping entries to lbs
     old_stocking_valid = []
     stocking_dict = {}
     for entry in full_stocking:
-        stocking_dict[(entry[0], entry[1], entry[3])] = entry[2]
+        stocking_dict[entry_to_key(entry)] = entry["amount"]
     # 2: check if entry is in new dict
+    
     for entry in old_stocking:
-        if (entry[0], entry[1], entry[3]) not in stocking_dict:
+        if entry_to_key(entry) not in stocking_dict:
             old_stocking_valid.append(entry)
     print(f"Loading old stockings: {old_stocking_valid}")
     full_stocking = full_stocking + old_stocking_valid
@@ -213,45 +254,35 @@ if __name__ == "__main__":
 
     relevant_stocking = []
     for entry in full_stocking:
-        entry_date = entry[0]
-
-        if isinstance(entry_date, tuple):
-            entry_date = entry_date[0]
-
+        entry_date = entry["start_date"]
         date_diff = curr_timestamp - entry_date
 
-        if date_diff.days < 30 and entry[2] != 0:
+        if date_diff.days < 30 and entry["amount"] != 0:
             relevant_stocking.append(entry)
 
     # remove dupes
-    relevant_stocking = list(set(relevant_stocking))
+    # relevant_stocking = list(set(relevant_stocking))
 
     # now, sort by date
-    relevant_stocking.sort(key=(lambda x: x[0][0] if isinstance(x[0], tuple) else x[0]), reverse=True)
+    relevant_stocking.sort(key=(lambda x: x["start_date"]), reverse=True)
 
 
-    # finally, convert dates to standard format
+    # finally, convert entries to format expected by Jekyll
+    output_stocking = []
     for i in range(len(relevant_stocking)):
         entry = relevant_stocking[i]
-        if isinstance(entry[0], tuple):
-            start_date = entry[0][0]
-            end_date = entry[0][1]
-            start_date_str = start_date.strftime('%m/%d/%Y')
-            end_date_str = end_date.strftime('%m/%d/%Y')
+        start_date = entry["start_date"]
+        end_date = entry["end_date"]
+        start_date_str = start_date.strftime('%m/%d/%Y')
+        end_date_str = end_date.strftime('%m/%d/%Y')
 
 
-            relevant_stocking[i] = (f"{start_date_str}-{end_date_str}", entry[1], entry[2], entry[3])
-        else:
-            start_date_str = entry[0].strftime('%m/%d/%Y')
-
-
-            relevant_stocking[i] = (f"{start_date_str}", entry[1], entry[2], entry[3])
-
+        output_stocking.append((f"{start_date_str}-{end_date_str}", entry["location"], entry["amount"], entry["source"]))
 
     print("Processed stocking:", relevant_stocking)
 
 
     with open(os.path.join(rel_path, "stocking_cache.json"), "w") as f:
-        json.dump(relevant_stocking, f, indent=2)
+        json.dump(relevant_stocking, f, indent=2, default=json_serial)
     with open(os.path.join("_data", "stocking.json"), "w") as f:
-        json.dump(relevant_stocking, f, indent=2)
+        json.dump(relevant_stocking, f, indent=2, default=json_serial)
