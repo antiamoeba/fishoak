@@ -53,7 +53,11 @@ layout: main
             {% endif %}
             <tr>
                 <!-- Date -->
-                <td>{{stock_entry.start_date | date: "%m/%d/%Y"}} - {{stock_entry.end_date | date: "%m/%d/%Y"}}</td> 
+                {% if stock_date_timestamp != stock_end_timestamp %}
+                <td>{{stock_entry.start_date | date: "%m/%d/%Y"}}-{{stock_entry.end_date | date: "%m/%d/%Y"}}</td> 
+                {% else %}
+                <td>{{stock_entry.start_date | date: "%m/%d/%Y"}}</td> 
+                {% endif %}
                 
                 <!-- Name/url -->
                 {% assign test_url = stock_entry.location | prepend: "/" %}
