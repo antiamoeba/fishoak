@@ -38,13 +38,5 @@
     "amount": 3000,
     "source": "CCWD",
     "species": "Lassen Trout"
-  },
-  {
-    "start_date": "2026-05-13T00:00:00",
-    "end_date": "2026-05-13T00:00:00",
-    "location": "los-vaqueros",
-    "amount": 2000,
-    "source": "CCWD",
-    "species": "Lassen Trout"
   }
 ]
