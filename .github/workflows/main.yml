@@ -42,5 +42,5 @@ jobs:
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add _data
         git add _stocks/stocking_cache.json
-        if [ "$GIT_STATUS" != "" ]; then git diff-index --quiet HEAD || git commit -m "Overnight job"; fi
+        if [ "$GIT_STATUS" != "" ]; then git commit -m "Overnight job" --allow-empty; fi
         if [ "$GIT_STATUS" != "" ]; then git push; fi

@@ -140,7 +140,7 @@ def get_dfg():
         print("Couldn't find DFG stocking table.")
         return []
     
-def get_vaqueros():
+def get_vaqueros_old():
      # The command and its arguments should be passed as a list for safety
     command = "curl \"https://www.ccwater.com/149/Fishing\""
     
@@ -190,6 +190,46 @@ def get_vaqueros():
         return stocking_data
     all_stocking_data = get_stocks_for_species("Trout") + get_stocks_for_species("Tsai")
     return all_stocking_data
+import re
+def get_vaqueros():
+    # The command and its arguments should be passed as a list for safety
+    command = "curl \"https://www.ccwater.com/149/Fishing\""
+    
+    try:
+        vaq_html = subprocess.run(command, capture_output=True, text=True, check=True, encoding='utf-8', shell=True).stdout
+    except subprocess.CalledProcessError as e:
+        print("DFG curl command failed with error:", e.stderr)
+        return []
+    soup = BeautifulSoup(vaq_html, 'lxml')
+    header = soup.find("h3", string="Recent Fish Plants")
+
+    stocking_data = []
+    if header:
+        ul = header.find_next("ul")
+
+        stocking_entries = ul.find_all("li")
+
+        for stocking_entry in stocking_entries:
+            entry_txt = stocking_entry.get_text(strip=True)
+
+            stocking_date_str, stocking_amt_str = entry_txt.split(":")
+
+            stocking_date = datetime.strptime(stocking_date_str, "%B %d, %Y")
+
+            pattern = re.compile(
+                r'([\d,]+)\s+(?:lb|lbs|pound|pounds)\s+of\s+(.+)',
+                re.IGNORECASE,
+            )
+
+            m = pattern.match(stocking_amt_str)
+            stocking_amt = int(m.group(1).replace(",", ""))
+            species = m.group(2)
+
+            stocking_data.append({"start_date": stocking_date, "end_date": stocking_date, "location": "los-vaqueros", "amount": stocking_amt, "source": "CCWD", "species": species})
+
+
+    return stocking_data
+
 
 old_stocking_load = ["EBRPD"]
 
