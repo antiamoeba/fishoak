@@ -38,37 +38,5 @@
     "amount": 500,
     "source": "EBRPD",
     "species": "Channel Catfish"
-  },
-  {
-    "start_date": "2026-06-01T00:00:00",
-    "end_date": "2026-06-05T00:00:00",
-    "location": "Lake Del Valle (Alameda)",
-    "amount": 500,
-    "source": "EBRPD",
-    "species": "Channel Catfish"
-  },
-  {
-    "start_date": "2026-06-01T00:00:00",
-    "end_date": "2026-06-05T00:00:00",
-    "location": "Lake Chabot (Alameda)",
-    "amount": 500,
-    "source": "EBRPD",
-    "species": "Channel Catfish"
-  },
-  {
-    "start_date": "2026-06-01T00:00:00",
-    "end_date": "2026-06-05T00:00:00",
-    "location": "shadowcliffs",
-    "amount": 500,
-    "source": "EBRPD",
-    "species": "Channel Catfish"
-  },
-  {
-    "start_date": "2026-06-01T00:00:00",
-    "end_date": "2026-06-05T00:00:00",
-    "location": "Contra Loma Reservoir (Contra Costa)",
-    "amount": 500,
-    "source": "EBRPD",
-    "species": "Channel Catfish"
   }
 ]
