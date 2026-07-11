@@ -1,5 +1,13 @@
 [
   {
+    "start_date": "2026-07-09T00:00:00",
+    "end_date": "2026-07-09T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 1000,
+    "source": "CCWD",
+    "species": "catfish"
+  },
+  {
     "start_date": "2026-06-29T00:00:00",
     "end_date": "2026-07-03T00:00:00",
     "location": "Lake Del Valle (Alameda)",
