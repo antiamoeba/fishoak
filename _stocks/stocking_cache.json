@@ -1,5 +1,37 @@
 [
   {
+    "start_date": "2026-07-13T00:00:00",
+    "end_date": "2026-07-17T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-07-13T00:00:00",
+    "end_date": "2026-07-17T00:00:00",
+    "location": "shadowcliffs",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-07-13T00:00:00",
+    "end_date": "2026-07-17T00:00:00",
+    "location": "Contra Loma Reservoir (Contra Costa)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
+    "start_date": "2026-07-13T00:00:00",
+    "end_date": "2026-07-17T00:00:00",
+    "location": "Lake Temescal (Alameda)",
+    "amount": 500,
+    "source": "EBRPD",
+    "species": "Channel Catfish"
+  },
+  {
     "start_date": "2026-07-09T00:00:00",
     "end_date": "2026-07-09T00:00:00",
     "location": "los-vaqueros",
