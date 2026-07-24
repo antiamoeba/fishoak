@@ -1,16 +1,16 @@
 [
   {
-    "start_date": "2026-07-13T00:00:00",
-    "end_date": "2026-07-17T00:00:00",
-    "location": "Lake Del Valle (Alameda)",
-    "amount": 500,
-    "source": "EBRPD",
-    "species": "Channel Catfish"
+    "start_date": "2026-07-22T00:00:00",
+    "end_date": "2026-07-22T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 1000,
+    "source": "CCWD",
+    "species": "catfish"
   },
   {
     "start_date": "2026-07-13T00:00:00",
     "end_date": "2026-07-17T00:00:00",
-    "location": "shadowcliffs",
+    "location": "Lake Del Valle (Alameda)",
     "amount": 500,
     "source": "EBRPD",
     "species": "Channel Catfish"
