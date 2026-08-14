@@ -5,7 +5,7 @@
     "location": "Lake Del Valle (Alameda)",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-08-03T00:00:00",
@@ -13,7 +13,7 @@
     "location": "shadowcliffs",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-08-03T00:00:00",
@@ -21,7 +21,7 @@
     "location": "Contra Loma Reservoir (Contra Costa)",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-08-03T00:00:00",
@@ -29,7 +29,7 @@
     "location": "Lake Temescal (Alameda)",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-07-27T00:00:00",
@@ -37,7 +37,7 @@
     "location": "Lake Chabot (Alameda)",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-07-27T00:00:00",
@@ -45,7 +45,7 @@
     "location": "shadowcliffs",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-07-27T00:00:00",
@@ -53,7 +53,7 @@
     "location": "quarry-lakes",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-07-27T00:00:00",
@@ -61,7 +61,7 @@
     "location": "Contra Loma Reservoir (Contra Costa)",
     "amount": 500,
     "source": "EBRPD",
-    "species": "Channel Catfish"
+    "species": "trout"
   },
   {
     "start_date": "2026-07-22T00:00:00",
