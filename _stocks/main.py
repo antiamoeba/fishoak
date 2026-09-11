@@ -36,11 +36,11 @@ def get_ebrpd():
         return []
 
 
-    global_species = "Trout"
+    global_species = "trout"
     # check if header contains species
     old_header_txt = stocking_table.find_previous("h4").get_text()
     if "catfish" in old_header_txt.lower():
-        global_species = "Catfish"
+        global_species = "catfish"
 
 
     # first, get table
