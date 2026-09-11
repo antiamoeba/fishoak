@@ -34,13 +34,20 @@ def get_ebrpd():
     if stocking_table is None:
         print("Couldn't find EBRPD stocking table.")
         return []
-    
-    # get dates
-    data = []
+
+
+    global_species = "Trout"
+    # check if header contains species
+    old_header_txt = stocking_table.find_previous("h4").get_text()
+    if "catfish" in old_header_txt.lower():
+        global_species = "Catfish"
+
 
     # first, get table
     dates = []
     curr_timestamp = datetime.now()
+
+
     for cell in stocking_table.tbody.tr.children:
         cell_data = list(cell.stripped_strings)
         if len(cell_data) == 0:
@@ -50,8 +57,7 @@ def get_ebrpd():
             date, species = cell_data[0], cell_data[1]
         else:
             date = cell_data[0]
-            species = "trout"
-        print(date)
+            species = global_species
 
         start_date, end_date = drparse(str(date).replace('\xa0', ' '))
         # correct year if no year was specified
