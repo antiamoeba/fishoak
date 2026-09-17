@@ -220,10 +220,10 @@ def get_vaqueros():
 
             stocking_date_str, stocking_amt_str = entry_txt.split(":")
 
-            stocking_date = datetime.strptime(stocking_date_str, "%B %d, %Y")
+            stocking_date = datetime.strptime(stocking_date_str + ";" + str(datetime.now().year), "%B %d;%Y")
 
             pattern = re.compile(
-                r'([\d,]+)\s+(?:lb|lbs|pound|pounds)\s+of\s+(.+)',
+                r'([\d,]+)\s+(?:lb|lbs|pound|pounds)\s+(.+)',
                 re.IGNORECASE,
             )
 
@@ -232,7 +232,6 @@ def get_vaqueros():
             species = m.group(2)
 
             stocking_data.append({"start_date": stocking_date, "end_date": stocking_date, "location": "los-vaqueros", "amount": stocking_amt, "source": "CCWD", "species": species})
-
 
     return stocking_data
 
