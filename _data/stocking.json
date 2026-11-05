@@ -1,5 +1,21 @@
 [
   {
+    "start_date": "2026-11-04T00:00:00",
+    "end_date": "2026-11-04T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 1000,
+    "source": "CCWD",
+    "species": "trout"
+  },
+  {
+    "start_date": "2026-10-27T00:00:00",
+    "end_date": "2026-10-27T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 2000,
+    "source": "CCWD",
+    "species": "trout"
+  },
+  {
     "start_date": "2026-10-26T00:00:00",
     "end_date": "2026-10-30T00:00:00",
     "location": "Lake Del Valle (Alameda)",
