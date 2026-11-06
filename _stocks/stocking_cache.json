@@ -8,6 +8,54 @@
     "species": "trout"
   },
   {
+    "start_date": "2026-11-02T00:00:00",
+    "end_date": "2026-11-06T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": 1000,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-02T00:00:00",
+    "end_date": "2026-11-06T00:00:00",
+    "location": "shadowcliffs",
+    "amount": 1000,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-02T00:00:00",
+    "end_date": "2026-11-06T00:00:00",
+    "location": "quarry-lakes",
+    "amount": 1000,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-02T00:00:00",
+    "end_date": "2026-11-06T00:00:00",
+    "location": "Lake Temescal (Alameda)",
+    "amount": 1000,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-01T00:00:00",
+    "end_date": "2026-11-07T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
+  },
+  {
+    "start_date": "2026-11-01T00:00:00",
+    "end_date": "2026-11-07T00:00:00",
+    "location": "Ralphine Lake (Sonoma)",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
+  },
+  {
     "start_date": "2026-10-27T00:00:00",
     "end_date": "2026-10-27T00:00:00",
     "location": "los-vaqueros",
@@ -46,5 +94,21 @@
     "amount": 1000,
     "source": "EBRPD",
     "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-10-25T00:00:00",
+    "end_date": "2026-10-31T00:00:00",
+    "location": "Ralphine Lake (Sonoma)",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
+  },
+  {
+    "start_date": "2026-10-11T00:00:00",
+    "end_date": "2026-10-17T00:00:00",
+    "location": "Lake Berryessa (Napa)",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
   }
 ]
