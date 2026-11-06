@@ -272,13 +272,14 @@ def entry_to_key(entry):
 if __name__ == "__main__":
     ebrpd_stocking = get_ebrpd()
     dfg_stocking = get_dfg()
+    print(dfg_stocking)
     vaq_stocking = get_vaqueros()
     old_stocking = load_old_stocking()
 
     # stocking entries: (date, location, lbs, source)
 
     # combine stocking info
-    full_stocking = ebrpd_stocking + vaq_stocking # + dfg_stocking + vaq_stocking
+    full_stocking = ebrpd_stocking + vaq_stocking + dfg_stocking
 
     # add old stocks that do not conflate with current stocks
     # 1: create dict mapping entries to lbs
