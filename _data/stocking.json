@@ -1,5 +1,21 @@
 [
   {
+    "start_date": "2026-11-08T00:00:00",
+    "end_date": "2026-11-14T00:00:00",
+    "location": "shadowcliffs",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
+  },
+  {
+    "start_date": "2026-11-08T00:00:00",
+    "end_date": "2026-11-14T00:00:00",
+    "location": "quarry-lakes",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
+  },
+  {
     "start_date": "2026-11-04T00:00:00",
     "end_date": "2026-11-04T00:00:00",
     "location": "los-vaqueros",
@@ -38,6 +54,14 @@
     "amount": 1000,
     "source": "EBRPD",
     "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-01T00:00:00",
+    "end_date": "2026-11-07T00:00:00",
+    "location": "Foothill Regional Park Pond B (Sonoma)",
+    "amount": -1,
+    "source": "DFG",
+    "species": "Trout"
   },
   {
     "start_date": "2026-11-01T00:00:00",
