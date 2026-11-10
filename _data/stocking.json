@@ -126,13 +126,5 @@
     "amount": -1,
     "source": "DFG",
     "species": "Trout"
-  },
-  {
-    "start_date": "2026-10-11T00:00:00",
-    "end_date": "2026-10-17T00:00:00",
-    "location": "Lake Berryessa (Napa)",
-    "amount": -1,
-    "source": "DFG",
-    "species": "Trout"
   }
 ]
