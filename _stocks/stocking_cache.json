@@ -1,5 +1,13 @@
 [
   {
+    "start_date": "2026-11-10T00:00:00",
+    "end_date": "2026-11-10T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 1000,
+    "source": "CCWD",
+    "species": "trout"
+  },
+  {
     "start_date": "2026-11-08T00:00:00",
     "end_date": "2026-11-14T00:00:00",
     "location": "shadowcliffs",
