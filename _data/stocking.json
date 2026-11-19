@@ -1,5 +1,13 @@
 [
   {
+    "start_date": "2026-11-18T00:00:00",
+    "end_date": "2026-11-18T00:00:00",
+    "location": "los-vaqueros",
+    "amount": 2000,
+    "source": "CCWD",
+    "species": "trout"
+  },
+  {
     "start_date": "2026-11-15T00:00:00",
     "end_date": "2026-11-21T00:00:00",
     "location": "Ralphine Lake (Sonoma)",
