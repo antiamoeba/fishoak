@@ -8,6 +8,70 @@
     "species": "trout"
   },
   {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": 750,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Del Valle (Alameda)",
+    "amount": 250,
+    "source": "EBRPD",
+    "species": "Lightning Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Chabot (Alameda)",
+    "amount": 750,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Chabot (Alameda)",
+    "amount": 250,
+    "source": "EBRPD",
+    "species": "Lightning Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "quarry-lakes",
+    "amount": 750,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "quarry-lakes",
+    "amount": 250,
+    "source": "EBRPD",
+    "species": "Lightning Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Temescal (Alameda)",
+    "amount": 750,
+    "source": "EBRPD",
+    "species": "Mt. Lassen Trout"
+  },
+  {
+    "start_date": "2026-11-16T00:00:00",
+    "end_date": "2026-11-20T00:00:00",
+    "location": "Lake Temescal (Alameda)",
+    "amount": 250,
+    "source": "EBRPD",
+    "species": "Lightning Trout"
+  },
+  {
     "start_date": "2026-11-15T00:00:00",
     "end_date": "2026-11-21T00:00:00",
     "location": "Ralphine Lake (Sonoma)",
