@@ -238,13 +238,5 @@
     "amount": 1000,
     "source": "EBRPD",
     "species": "Mt. Lassen Trout"
-  },
-  {
-    "start_date": "2026-10-25T00:00:00",
-    "end_date": "2026-10-31T00:00:00",
-    "location": "Ralphine Lake (Sonoma)",
-    "amount": -1,
-    "source": "DFG",
-    "species": "Trout"
   }
 ]
